@@ -7,7 +7,7 @@ import os
 
 
 
-
+# TODO specify that this file includes rent prices
 def main(level_folder='Entry-Level'):
     BASE_FOLDER_NAME = '../2.Get_HTML_Files/'
     RESULTS_FOLDER_NAME = 'Results/'
@@ -18,18 +18,14 @@ def main(level_folder='Entry-Level'):
             salaries = get_salaries_from_soup(soup)
 
             formatted_city = filename.split('/')[-1].split('.')[0]
-            print formatted_city
+            #print formatted_city
             rent = get_rent(formatted_city)
             net_salaries = []
             for salary in salaries:
                 net_salary = deduct_taxes(salary, formatted_city) - rent
-                print net_salary
                 net_salaries.append(net_salary)
 
 
-
-                # avoid spamming the website********
-                time.sleep(30+random.random()*15)
 
             
             results.write(formatted_city+','+str(rent))
@@ -54,7 +50,7 @@ def get_soup_from_file(path):
 
 
 def get_salaries_from_soup(soup):
-    #FIXME       
+    #ClEANME       
     salaries = soup.findAll("div", { "class" : "results-salary"})
     salaries = salaries[0]
     chart = salaries.find_all("div", { "class" : "ticker"})
@@ -63,7 +59,7 @@ def get_salaries_from_soup(soup):
     salaries = []
     for i in range(length/2):
         salary_string = chart[i].text.strip().encode('utf-8')
-        salary = float(salary_string.replace('$','').replace("K","000"))
+        salary = salary_string.replace('$','').replace("K","000")
         salaries.append(salary)
     return salaries
 
@@ -100,7 +96,7 @@ def deduct_taxes(salary, formatted_city):
 
 
     location = formatted_city.replace('-',' ')
-    location = location[:-3]+'|'+location[-2:]
+    location = 'CITY|' + location[:-3]+'|'+location[-2:]
     data = [
       ('ud-current-location', location),
       ('ud-it-household-income', salary)
@@ -110,21 +106,22 @@ def deduct_taxes(salary, formatted_city):
     r = requests.post('https://smartasset.com/taxes/income-taxes', headers=headers, params=params, cookies=cookies, data=data)
     ret_json = r.json()
     income_after_tax = ret_json['page_data']['incomeAfterTax']
-    
+
+    # avoid spamming the website********
+    time.sleep(30+random.random()*15)
+
     return income_after_tax/12.0
 
 
 
 def get_rent(formatted_city):
-    ## no need to slow this down because it depends on the taxes website to load
-    url = 'https://www.zillow.com/'+formatted_city+'/home-values/'
-    headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
-
-    r = requests.get(url, headers=headers)
-    soup = BeautifulSoup(r.text, 'html.parser')
-    rent = soup.find_all('div', {'class' : 'bar bar-1'})[1].find_all('span', {'class':'bar-value info zsg-fineprint'})[0]
-    rent = rent.text.strip().replace('$','').replace(',','')
-    return float(rent)
+    HOUSING_FOLDER = '../2.Get_HTML_Files/Housing/'
+    filename = HOUSING_FOLDER + formatted_city + '.html'
+    with open(filename, 'r') as f:
+        soup = BeautifulSoup(f.read(), 'html.parser')
+        rent = soup.find_all('div', {'class' : 'bar bar-1'})[1].find_all('span', {'class':'bar-value info zsg-fineprint'})[0]
+        rent = rent.text.strip().replace('$','').replace(',','')
+        return float(rent)
 
 
 
