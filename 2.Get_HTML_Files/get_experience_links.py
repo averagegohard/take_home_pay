@@ -26,6 +26,13 @@ def main(level_folder='Entry-Level'):
             if a_tags:
                 download_HTML(a_tags, level_folder, filename)
 
+    # lazy but efficient
+    if level_folder == 'Entry-Level':
+        main(level_folder='Mid-Career')
+        main(level_folder='Experienced')
+        main(level_folder='Late-Career')
+
+
 
 
 def download_HTML(a_tags, level_folder, filename):
