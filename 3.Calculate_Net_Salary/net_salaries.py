@@ -18,7 +18,7 @@ def main(level_folder='Entry-Level'):
             salaries = get_salaries_from_soup(soup)
 
             formatted_city = filename.split('/')[-1].split('.')[0]
-            #print formatted_city
+            print level_folder, formatted_city
             rent = get_rent(formatted_city)
             net_salaries = []
             for salary in salaries:
@@ -32,7 +32,7 @@ def main(level_folder='Entry-Level'):
             if len(net_salaries) == 3:
                 results.write(',,')
             for salary in net_salaries:
-                results.write(','+str(salary))
+                results.write(','+str(int(salary)))
             if len(net_salaries) == 3:
                 results.write(',')
             results.write('\n')
@@ -121,7 +121,7 @@ def get_rent(formatted_city):
         soup = BeautifulSoup(f.read(), 'html.parser')
         rent = soup.find_all('div', {'class' : 'bar bar-1'})[1].find_all('span', {'class':'bar-value info zsg-fineprint'})[0]
         rent = rent.text.strip().replace('$','').replace(',','')
-        return float(rent)
+        return int(rent)
 
 
 
