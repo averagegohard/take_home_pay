@@ -4,7 +4,8 @@ from string import ascii_uppercase
 import time
 import random
 
-
+# quick and dirty way to get the potential cities
+# will need cleanup if used again
 def main():
 	potential_cities = get_potential_cities()
 	with open('potential_cities.csv', 'w') as f:
