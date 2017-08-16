@@ -7,8 +7,16 @@ import random
 # created each time we want to use it
 state_codes = us.states.mapping('name', 'abbr')
 
-#access and store the html files to minimize the number of requests
+# may need to rewrite to be extensible
 def main():
+	'''
+	access and store the html files to minimize the number of requests
+	future improvements should allow the program to pick up where it
+	left off, similar to get_city_links.py.
+	
+	future improvements could also just extract the values required
+	directly from the HTML files in case space becomes an issue
+	'''
 	links = '../1.Get_Links/processed_links/city_links.csv'
 
 	for line in open(links, 'r'):
@@ -17,9 +25,11 @@ def main():
 		link = city_info[-1]
 
 		FOLDER_NAME = 'All_Salaries/'
-		# there probably should be a better way to store the info
+
 		file_name = FOLDER_NAME + extract_formatted_name(city_info)+'.html'
 		print file_name
+
+		# *there probably should be a better way to store the info
 		# access and store the html file
 		urllib.urlretrieve(link, file_name)
 
