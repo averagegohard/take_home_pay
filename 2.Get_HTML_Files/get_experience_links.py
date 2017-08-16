@@ -12,13 +12,21 @@ site = 'http://www.payscale.com'
 def main(level_folder='Entry-Level'):
     BASE_FOLDER_NAME = 'All_Salaries/'
 
+    raw_accessed_files = glob.glob(os.path.join(level_folder, '*.html'))
+    accessed_files = []
+    for filename in raw_accessed_files:
+        accessed_files.append(filename.split('/')[-1])
+
     # copied from SO, used to access all html files in the directory
     for filename in glob.glob(os.path.join(BASE_FOLDER_NAME, '*.html')):
-        soup = BeautifulSoup(open(filename), 'lxml')
+        if filename.split('/')[-1] not in accessed_files:
+            soup = BeautifulSoup(open(filename), 'lxml')
 
-        a_tags = soup.find_all('a', href=True)
-        if a_tags:
-            download_HTML(a_tags, level_folder, filename)
+            a_tags = soup.find_all('a', href=True)
+            if a_tags:
+                download_HTML(a_tags, level_folder, filename)
+
+
 
 def download_HTML(a_tags, level_folder, filename):
     global site
