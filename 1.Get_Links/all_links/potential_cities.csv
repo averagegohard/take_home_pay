@@ -1,0 +1,8372 @@
+New York,New York,113287
+Chicago,Illinois,66315
+Los Angeles,California,60637
+Houston,Texas,59966
+Atlanta,Georgia,51661
+Seattle,Washington,49987
+Dallas,Texas,47779
+San Francisco,California,45034
+Boston,Massachusetts,43785
+Washington,District of Columbia,37594
+Denver,Colorado,36992
+San Diego,California,35591
+Philadelphia,Pennsylvania,30500
+Austin,Texas,29326
+Minneapolis,Minnesota,28401
+Phoenix,Arizona,27497
+Portland,Oregon,24761
+Charlotte,North Carolina,24442
+Orlando,Florida,24195
+Miami,Florida,24060
+Indianapolis,Indiana,23251
+St. Louis,Missouri,22390
+Tampa,Florida,21684
+Columbus,Ohio,21337
+San Antonio,Texas,20550
+Pittsburgh,Pennsylvania,19901
+Cincinnati,Ohio,19839
+Cleveland,Ohio,19128
+Baltimore,Maryland,18371
+Nashville,Tennessee,18075
+San Jose,California,18018
+Detroit,Michigan,16767
+Salt Lake City,Utah,16304
+Raleigh,North Carolina,15457
+Milwaukee,Wisconsin,15264
+Jacksonville,Florida,14680
+Las Vegas,Nevada,14525
+Sacramento,California,14029
+Kansas City,Missouri,13276
+Richmond,Virginia,12669
+Irvine,California,12247
+Louisville,Kentucky,11906
+Fort Worth,Texas,11585
+Grand Rapids,Michigan,10484
+Memphis,Tennessee,10060
+Rochester,New York,10015
+Oklahoma City,Oklahoma,9811
+Omaha,Nebraska,9646
+Buffalo,New York,9372
+Birmingham,Alabama,9018
+Fort Lauderdale,Florida,8620
+Tulsa,Oklahoma,8595
+Madison,Wisconsin,8492
+New Orleans,Louisiana,8310
+Colorado Springs,Colorado,7996
+Dayton,Ohio,7907
+Tucson,Arizona,7826
+Florida,Florida,7650
+Charleston,South Carolina,7380
+Hartford,Connecticut,7061
+Columbia,South Carolina,7060
+Greenville,South Carolina,7060
+Albuquerque,New Mexico,7000
+Knoxville,Tennessee,6961
+Honolulu,Hawaii,6354
+Albany,New York,6257
+Baton Rouge,Louisiana,6054
+Des Moines,Iowa,5997
+St. Paul,Minnesota,5928
+Greensboro,North Carolina,5927
+Virginia Beach,Virginia,5909
+Boise,Idaho,5870
+Wichita,Kansas,5726
+Huntsville,Alabama,5696
+Fresno,California,5479
+Little Rock,Arkansas,5405
+West Palm Beach,Florida,5393
+Newark,New Jersey,5268
+Syracuse,New York,5253
+Lexington,Kentucky,5098
+Fort Wayne,Indiana,5070
+Akron,Ohio,5068
+Toledo,Ohio,5007
+Oakland,California,4968
+Arlington,Virginia,4885
+Spokane,Washington,4840
+Ann Arbor,Michigan,4813
+Chattanooga,Tennessee,4753
+Durham,North Carolina,4753
+Providence,Rhode Island,4730
+Plano,Texas,4696
+Scottsdale,Arizona,4561
+El Paso,Texas,4560
+Tacoma,Washington,4552
+Boulder,Colorado,4462
+Fairfax,Virginia,4346
+Norfolk,Virginia,4343
+Bellevue,Washington,4329
+Harrisburg,Pennsylvania,4327
+Palo Alto,California,4323
+Reno,Nevada,4320
+Savannah,Georgia,4288
+Lancaster,Pennsylvania,4277
+Jersey City,New Jersey,3959
+Long Beach,California,3896
+Riverside,California,3877
+Winston-Salem,North Carolina,3868
+Portland,Maine,3853
+Sarasota,Florida,3853
+Santa Clara,California,3847
+Springfield,Missouri,3828
+Allentown,Pennsylvania,3714
+Wilmington,Delaware,3708
+Green Bay,Wisconsin,3697
+Fort Myers,Florida,3671
+Troy,Michigan,3612
+Vancouver,Washington,3600
+Alexandria,Virginia,3599
+Augusta,Georgia,3589
+Anchorage,Alaska,3556
+Rockville,Maryland,3544
+Bakersfield,California,3541
+Mobile,Alabama,3529
+Overland Park,Kansas,3524
+Pensacola,Florida,3473
+Boca Raton,Florida,3470
+Mountain View,California,3453
+Worcester,Massachusetts,3431
+Lincoln,Nebraska,3405
+Anaheim,California,3396
+Sunnyvale,California,3359
+Orange,California,3358
+Jackson,Mississippi,3352
+Cambridge,Massachusetts,3343
+Asheville,North Carolina,3333
+Lansing,Michigan,3331
+St. Petersburg,Florida,3254
+Melbourne,Florida,3253
+Wilmington,North Carolina,3222
+Evansville,Indiana,3179
+Fargo,North Dakota,3095
+Tallahassee,Florida,3081
+Sioux Falls,South Dakota,3045
+Fort Collins,Colorado,3039
+Manchester,New Hampshire,3014
+Irving,Texas,3007
+Kansas City,Kansas,3000
+Naples,Florida,2972
+Alpharetta,Georgia,2961
+Corpus Christi,Texas,2957
+Fremont,California,2943
+New Haven,Connecticut,2932
+Lafayette,Louisiana,2929
+Appleton,Wisconsin,2925
+Kalamazoo,Michigan,2897
+Roanoke,Virginia,2853
+Eugene,Oregon,2824
+York,Pennsylvania,2803
+Reston,Virginia,2788
+Mesa,Arizona,2757
+Rockford,Illinois,2750
+Peoria,Illinois,2719
+Princeton,New Jersey,2719
+Stamford,Connecticut,2708
+Gainesville,Florida,2621
+Tempe,Arizona,2614
+Cedar Rapids,Iowa,2610
+South Bend,Indiana,2601
+Santa Rosa,California,2591
+Santa Barbara,California,2575
+Columbia,Maryland,2568
+Redmond,Washington,2565
+Shreveport,Louisiana,2563
+Fayetteville,North Carolina,2558
+Montgomery,Alabama,2556
+Charlottesville,Virginia,2532
+Pasadena,California,2521
+Canton,Ohio,2484
+Bethesda,Maryland,2462
+Arlington,Texas,2442
+Naperville,Illinois,2418
+Marietta,Georgia,2370
+Springfield,Massachusetts,2367
+McLean,Virginia,2362
+Newport News,Virginia,2362
+Reading,Pennsylvania,2359
+Erie,Pennsylvania,2352
+Lubbock,Texas,2349
+Columbus,Georgia,2310
+Ontario,California,2310
+Torrance,California,2288
+Frederick,Maryland,2285
+Everett,Washington,2284
+Modesto,California,2281
+Chandler,Arizona,2259
+Clearwater,Florida,2257
+Maryland,Maryland,2254
+Auburn Hills,Michigan,2251
+Lakeland,Florida,2233
+Santa Ana,California,2194
+Salem,Oregon,2178
+Burlington,Vermont,2173
+Tyler,Texas,2172
+Southfield,Michigan,2091
+Macon,Georgia,2072
+Santa Monica,California,2044
+Chesapeake,Virginia,2003
+Ocala,Florida,2000
+Bloomington,Indiana,1998
+Washington,Washington,1972
+Columbia,Missouri,1968
+Newport Beach,California,1952
+Schaumburg,Illinois,1940
+Amarillo,Texas,1939
+Stockton,California,1932
+California City,California,1929
+Pleasanton,California,1920
+Waco,Texas,1920
+Carlsbad,California,1919
+Springfield,Illinois,1918
+Silver Spring,Maryland,1910
+Charleston,West Virginia,1905
+Costa Mesa,California,1885
+Redwood City,California,1867
+Spartanburg,South Carolina,1862
+Myrtle Beach,South Carolina,1859
+Youngstown,Ohio,1858
+Ogden,Utah,1849
+San Mateo,California,1845
+Annapolis,Maryland,1841
+Bellingham,Washington,1832
+Cary,North Carolina,1813
+Lynchburg,Virginia,1802
+Olympia,Washington,1801
+Herndon,Virginia,1794
+Topeka,Kansas,1787
+Provo,Utah,1766
+Scranton,Pennsylvania,1755
+Walnut Creek,California,1743
+Aurora,Colorado,1733
+Athens,Georgia,1719
+Waltham,Massachusetts,1707
+Newark,Delaware,1700
+Daytona Beach,Florida,1697
+Dearborn,Michigan,1680
+Rochester,Minnesota,1680
+Fayetteville,Arkansas,1677
+Flint,Michigan,1672
+Parsippany,New Jersey,1652
+Edison,New Jersey,1646
+Fredericksburg,Virginia,1632
+Bend,Oregon,1627
+Bethlehem,Pennsylvania,1618
+Beaumont,Texas,1617
+Roseville,California,1617
+Duluth,Minnesota,1615
+McAllen,Texas,1584
+St. Cloud,Minnesota,1584
+San Bernardino,California,1548
+San Luis Obispo,California,1544
+Berkeley,California,1534
+Lake Charles,Louisiana,1530
+Corona,California,1529
+Greenville,North Carolina,1529
+White Plains,New York,1525
+Huntington Beach,California,1524
+Warren,Michigan,1518
+Gaithersburg,Maryland,1515
+Cherry Hill,New Jersey,1508
+Champaign,Illinois,1505
+Ventura,California,1504
+Nashua,New Hampshire,1495
+Temecula,California,1493
+Burbank,California,1490
+Livonia,Michigan,1483
+Bradenton,Florida,1479
+Portsmouth,New Hampshire,1478
+Trenton,New Jersey,1477
+Midland,Texas,1472
+Elkhart,Indiana,1469
+Davenport,Iowa,1453
+Lafayette,Indiana,1452
+Texas City,Texas,1445
+Billings,Montana,1436
+Iowa City,Iowa,1428
+Eau Claire,Wisconsin,1425
+Morristown,New Jersey,1418
+Medford,Oregon,1414
+Frisco,Texas,1400
+Waukesha,Wisconsin,1400
+King of Prussia,Pennsylvania,1398
+Rancho Cucamonga,California,1396
+Traverse City,Michigan,1396
+Hampton,Virginia,1389
+Tuscaloosa,Alabama,1388
+West Chester,Pennsylvania,1386
+Holland,Michigan,1380
+Hillsboro,Oregon,1377
+Yakima,Washington,1377
+Aurora,Illinois,1373
+Saginaw,Michigan,1373
+Franklin,Tennessee,1371
+Gainesville,Georgia,1367
+Bowling Green,Kentucky,1363
+Wausau,Wisconsin,1356
+Chantilly,Virginia,1349
+Hayward,California,1341
+La Crosse,Wisconsin,1336
+New Brunswick,New Jersey,1336
+Danbury,Connecticut,1335
+Murfreesboro,Tennessee,1332
+Lawrenceville,Georgia,1328
+Novi,Michigan,1322
+Concord,California,1314
+Idaho Falls,Idaho,1314
+Manassas,Virginia,1308
+Cupertino,California,1298
+Bentonville,Arkansas,1295
+Denton,Texas,1293
+Johnson City,Tennessee,1292
+Kent,Washington,1290
+Morgantown,West Virginia,1285
+Hickory,North Carolina,1281
+Farmington Hills,Michigan,1268
+Bangor,Maine,1264
+San Ramon,California,1264
+Clarksville,Tennessee,1257
+Gilbert,Arizona,1257
+Norcross,Georgia,1247
+Santa Cruz,California,1246
+Fort Smith,Arkansas,1245
+State College,Pennsylvania,1238
+Bozeman,Montana,1235
+Florence,South Carolina,1226
+Panama City,Florida,1225
+El Segundo,California,1247
+Columbus,Indiana,1246
+Poughkeepsie,New York,1239
+Eden Prairie,Minnesota,1236
+Glendale,California,1227
+Missoula,Montana,1226
+Bloomington,Illinois,1248
+Norwalk,Connecticut,1247
+Longview,Texas,1240
+Jackson,Tennessee,1237
+Beaverton,Oregon,1228
+College Station,Texas,1227
+Kenosha,Wisconsin,1249
+Binghamton,New York,1248
+Thousand Oaks,California,1241
+Napa,California,1238
+Olathe,Kansas,1229
+Burlington,Massachusetts,1228
+Richardson,Texas,1250
+Hollywood,Florida,1249
+Menlo Park,California,1242
+Chico,California,1239
+Elgin,Illinois,1230
+Joplin,Missouri,1229
+Dubuque,Iowa,1251
+Duluth,Georgia,1250
+Wilkes-Barre,Pennsylvania,1243
+Framingham,Massachusetts,1240
+Grand Junction,Colorado,1231
+Orem,Utah,1230
+Joliet,Illinois,1252
+Richland,Washington,1251
+Chapel Hill,North Carolina,1244
+Concord,New Hampshire,1241
+Abilene,Texas,1232
+Redding,California,1231
+Lowell,Massachusetts,1253
+Malvern,Pennsylvania,1252
+Utica,New York,1245
+Rapid City,South Dakota,1242
+Livermore,California,1233
+Sioux City,Iowa,1232
+Visalia,California,1254
+Melville,New York,1253
+Kennesaw,Georgia,1246
+Kirkland,Washington,1243
+Bloomington,Minnesota,1234
+Racine,Wisconsin,1233
+The Woodlands,Texas,1255
+Winchester,Virginia,1254
+Albany,Georgia,1247
+Littleton,Colorado,1244
+Monterey,California,1235
+Las Cruces,New Mexico,1234
+Pueblo,Colorado,1256
+Sterling,Virginia,1255
+Temple,Texas,1248
+Monroe,Louisiana,1245
+Jonesboro,Arkansas,1236
+Killeen,Texas,1235
+Bismarck,North Dakota,1257
+Sterling Heights,Michigan,1256
+Hattiesburg,Mississippi,1249
+Mankato,Minnesota,1246
+Dothan,Alabama,1237
+Oceanside,California,1236
+Hagerstown,Maryland,1258
+Jackson,Michigan,1257
+Illinois City,Illinois,1250
+Lima,Ohio,1247
+Fullerton,California,1238
+Staten Island,New York,1237
+Oshkosh,Wisconsin,1259
+Dover,Delaware,1258
+Katy,Texas,1251
+Bridgeport,Connecticut,1248
+Midland,Michigan,993
+Muskegon,Michigan,992
+Oxnard,California,992
+Logan,Utah,984
+Jacksonville,North Carolina,982
+Ashburn,Virginia,977
+High Point,North Carolina,976
+Falls Church,Virginia,974
+Lenexa,Kansas,974
+Redlands,California,974
+Williamsburg,Virginia,973
+McKinney,Texas,972
+Somerset,New Jersey,971
+Renton,Washington,963
+Bridgewater,New Jersey,958
+Vienna,Virginia,958
+Brea,California,953
+Salinas,California,953
+Salisbury,Maryland,952
+Carmel,Indiana,949
+Santa Fe,New Mexico,946
+Longmont,Colorado,943
+Valdosta,Georgia,941
+Andover,Massachusetts,940
+Lehi,Utah,939
+Kissimmee,Florida,938
+Pompano Beach,Florida,937
+West Des Moines,Iowa,931
+Terre Haute,Indiana,928
+Kingsport,Tennessee,926
+Ithaca,New York,921
+Woodland Hills,California,921
+Waterbury,Connecticut,920
+Fontana,California,919
+Mount Laurel,New Jersey,919
+Huntington,West Virginia,914
+Marlborough,Massachusetts,911
+Palmdale,California,909
+Rock Hill,South Carolina,909
+Vero Beach,Florida,908
+Folsom,California,904
+Northbrook,Illinois,902
+Port St. Lucie,Florida,901
+Woburn,Massachusetts,897
+Flagstaff,Arizona,894
+Beverly Hills,California,892
+Decatur,Illinois,891
+Greeley,Colorado,891
+Plymouth,Minnesota,890
+Gulfport,Mississippi,889
+Norman,Oklahoma,889
+Broomfield,Colorado,888
+Anderson,South Carolina,884
+St. Augustine,Florida,880
+Warwick,Rhode Island,879
+Palm Springs,California,878
+Downers Grove,Illinois,876
+Woodbridge,Virginia,876
+Harrisonburg,Virginia,874
+Pomona,California,871
+Toms River,New Jersey,870
+Plymouth,Michigan,867
+Round Rock,Texas,865
+Dalton,Georgia,859
+Odessa,Texas,853
+Aiken,South Carolina,850
+Bothell,Washington,850
+Schenectady,New York,849
+Yuma,Arizona,849
+Cheyenne,Wyoming,845
+Findlay,Ohio,844
+Stuart,Florida,842
+Paducah,Kentucky,841
+Hauppauge,New York,836
+Fairfield,California,834
+Loveland,Colorado,833
+Valencia,California,831
+Waterloo,Iowa,824
+Paramus,New Jersey,821
+Puyallup,Washington,819
+Battle Creek,Michigan,818
+Kennewick,Washington,817
+Lawrence,Kansas,817
+Florence,Kentucky,814
+Tustin,California,809
+Fort Walton Beach,Florida,807
+Ames,Iowa,806
+Conroe,Texas,804
+Janesville,Wisconsin,803
+Tupelo,Mississippi,801
+Sheboygan,Wisconsin,800
+Coeur d'Alene,Idaho,795
+Warner Robins,Georgia,794
+Glendale,Arizona,788
+Englewood,Colorado,786
+Oak Brook,Illinois,786
+Muncie,Indiana,785
+Williamsport,Pennsylvania,784
+Auburn,Washington,783
+Laredo,Texas,783
+Owensboro,Kentucky,782
+Eagan,Minnesota,779
+Manhattan,Kansas,778
+San Rafael,California,773
+Carrollton,Texas,772
+Camarillo,California,770
+Rome,Georgia,769
+Fall River,Massachusetts,768
+Jefferson City,Missouri,767
+Lancaster,California,763
+Jupiter,Florida,760
+Wichita Falls,Texas,758
+Royal Oak,Michigan,756
+Laurel,Maryland,755
+Alexandria,Louisiana,754
+Sugar Land,Texas,752
+Victoria,Texas,752
+Mansfield,Ohio,750
+Auburn,Alabama,746
+Hackensack,New Jersey,746
+Petaluma,California,745
+Milpitas,California,744
+Henderson,Nevada,743
+Santa Maria,California,743
+Spring,Texas,737
+Wayne,New Jersey,737
+Simi Valley,California,733
+Metairie,Louisiana,731
+Brownsville,Texas,730
+North Houston,Texas,730
+Arlington Heights,Illinois,724
+New Bedford,Massachusetts,722
+Murrieta,California,721
+Yonkers,New York,720
+Burlington,North Carolina,718
+San Angelo,Texas,717
+Cumming,Georgia,716
+Valparaiso,Indiana,715
+Delray Beach,Florida,713
+Mission Viejo,California,712
+Conway,Arkansas,711
+Biloxi,Mississippi,710
+Middletown,New York,710
+Newnan,Georgia,710
+Dublin,Ohio,708
+Texarkana,Texas,708
+Leesburg,Virginia,706
+Mentor,Ohio,705
+Corvallis,Oregon,704
+Cape Girardeau,Missouri,702
+Rogers,Arkansas,701
+Elk Grove Village,Illinois,699
+Piscataway,New Jersey,699
+Altoona,Pennsylvania,698
+Houma,Louisiana,697
+St. Joseph,Missouri,697
+Fairbanks,Alaska,696
+Grand Forks,North Dakota,695
+Twin Falls,Idaho,693
+Gastonia,North Carolina,691
+Warsaw,Indiana,689
+Johnstown,Pennsylvania,688
+St. George,Utah,688
+Largo,Florida,685
+Camden,New Jersey,683
+Cookeville,Tennessee,683
+Escondido,California,683
+Miami Beach,Florida,683
+Exton,Pennsylvania,680
+Brunswick,Georgia,679
+Lawton,Oklahoma,679
+Minnetonka,Minnesota,679
+Kokomo,Indiana,677
+Lewisville,Texas,677
+Springfield,Virginia,677
+Groton,Connecticut,676
+Fond Du Lac,Wisconsin,675
+Tysons Corner,Virginia,674
+South San Francisco,California,673
+Pittsfield,Massachusetts,669
+Sunrise,Florida,669
+Concord,North Carolina,665
+Kalispell,Montana,664
+Lakewood,New Jersey,664
+Roswell,Georgia,664
+Atlantic City,New Jersey,663
+Boynton Beach,Florida,662
+Chino,California,661
+Springfield,Ohio,660
+Van Nuys,California,660
+Mooresville,North Carolina,659
+Quincy,Massachusetts,659
+Mason,Ohio,658
+Coral Springs,Florida,655
+Casper,Wyoming,654
+Shelton,Connecticut,654
+Augusta,Maine,651
+Easton,Pennsylvania,651
+Clifton,New Jersey,649
+Bremerton,Washington,648
+Cape Coral,Florida,648
+Grand Prairie,Texas,645
+Rocky Mount,North Carolina,644
+San Leandro,California,644
+Emeryville,California,641
+Blacksburg,Virginia,640
+Lake Mary,Florida,639
+Germantown,Maryland,638
+Moline,Illinois,638
+Vineland,New Jersey,637
+Decatur,Georgia,635
+Newton,Massachusetts,632
+Bolingbrook,Illinois,631
+Mechanicsburg,Pennsylvania,631
+Pocatello,Idaho,630
+Brockton,Massachusetts,628
+Garden Grove,California,628
+Sumter,South Carolina,626
+Wenatchee,Washington,624
+Decatur,Alabama,622
+Suffolk,Virginia,622
+Palm Beach Gardens,Florida,620
+Whittier,California,619
+Prescott,Arizona,618
+Portsmouth,Virginia,617
+Garland,Texas,616
+Greensburg,Pennsylvania,616
+Lakewood,Colorado,616
+Belleville,Illinois,615
+Elizabethtown,Kentucky,615
+Brentwood,Tennessee,613
+Destin,Florida,612
+Hot Springs,Arkansas,610
+Towson,Maryland,609
+Saratoga Springs,New York,608
+Wheeling,West Virginia,605
+Helena,Montana,603
+Covington,Louisiana,602
+Vista,California,601
+Waukegan,Illinois,600
+Lake Forest,California,595
+Merrillville,Indiana,595
+Springdale,Arkansas,595
+Fairfield,Connecticut,594
+Vacaville,California,592
+Cleveland,Tennessee,591
+Doylestown,Pennsylvania,589
+Santa Fe Springs,California,589
+Chambersburg,Pennsylvania,588
+Statesville,North Carolina,588
+Bloomfield Hills,Michigan,587
+Carrollton,Georgia,587
+Centennial,Colorado,587
+Lynnwood,Washington,587
+Wooster,Ohio,583
+Suwanee,Georgia,581
+Neenah,Wisconsin,580
+Federal Way,Washington,577
+Victorville,California,577
+Rochester Hills,Michigan,575
+Culver City,California,574
+Goldsboro,North Carolina,573
+Hoffman Estates,Illinois,572
+Brookfield,Wisconsin,571
+Meridian,Mississippi,571
+Pontiac,Michigan,571
+Spokane Valley,Washington,571
+Beverly,Massachusetts,570
+Clinton Township,Michigan,569
+Hoboken,New Jersey,569
+Lombard,Illinois,569
+Port Charlotte,Florida,569
+Alameda,California,568
+Florence,Alabama,567
+Summerville,South Carolina,567
+Greenwich,Connecticut,566
+Lawrence,Massachusetts,566
+East Hartford,Connecticut,565
+Great Falls,Montana,564
+Dublin,California,561
+Des Plaines,Illinois,560
+Canton,Michigan,557
+Galveston,Texas,556
+Middletown,Connecticut,556
+Horsham,Pennsylvania,555
+Lewiston,Maine,555
+Marlton,New Jersey,555
+Carson,California,554
+Cypress,California,554
+Bryan,Texas,553
+Quincy,Illinois,552
+Medina,Ohio,551
+Sandy,Utah,551
+Tracy,California,551
+Watertown,New York,551
+Cerritos,California,550
+Deerfield,Illinois,550
+Conyers,Georgia,547
+Mishawaka,Indiana,547
+Buford,Georgia,545
+Garden City,New York,545
+Salisbury,North Carolina,545
+Aliso Viejo,California,544
+Lexington,Massachusetts,544
+Miramar,Florida,544
+Merced,California,543
+Danville,Virginia,541
+Morrisville,North Carolina,541
+Burnsville,Minnesota,540
+Delaware,Delaware,540
+Lansdale,Pennsylvania,538
+Lufkin,Texas,538
+Newburgh,New York,538
+Edmond,Oklahoma,537
+Parkersburg,West Virginia,537
+Freehold,New Jersey,534
+Gardena,California,534
+Santa Clarita,California,533
+Westborough,Massachusetts,533
+McDonough,Georgia,531
+Bedford,Massachusetts,530
+Maple Grove,Minnesota,530
+Pasadena,Texas,530
+Sanford,Florida,530
+Wilson,North Carolina,530
+Evanston,Illinois,529
+Harlingen,Texas,528
+Windsor,Connecticut,528
+Milford,Connecticut,527
+Palm Desert,California,527
+Taunton,Massachusetts,525
+Warren,Ohio,525
+Layton,Utah,524
+Gadsden,Alabama,523
+Moreno Valley,California,521
+Port Huron,Michigan,521
+Davis,California,520
+Elizabeth,New Jersey,520
+Newport,Rhode Island,520
+Nyack,New York,520
+Dover,New Hampshire,518
+Union,New Jersey,517
+Westlake Village,California,517
+Paterson,New Jersey,516
+Plantation,Florida,516
+Plattsburgh,New York,516
+Plymouth,Massachusetts,516
+Brighton,Michigan,513
+Winter Haven,Florida,513
+Crystal Lake,Illinois,512
+Pembroke Pines,Florida,512
+Secaucus,New Jersey,511
+Baytown,Texas,510
+Farmington,Connecticut,510
+Westminster,Colorado,510
+Chatsworth,California,509
+Chula Vista,California,509
+Kingston,New York,509
+Sandusky,Ohio,509
+Upland,California,509
+Wallingford,Connecticut,509
+Chesterfield,Missouri,508
+Stratford,Connecticut,508
+Calabasas,California,505
+Cartersville,Georgia,505
+Novato,California,505
+Solon,Ohio,505
+Billerica,Massachusetts,503
+Moorestown,New Jersey,503
+North Charleston,South Carolina,503
+Richmond,California,503
+Beaufort,South Carolina,502
+Deerfield Beach,Florida,502
+Stevens Point,Wisconsin,502
+Chelmsford,Massachusetts,501
+Northridge,California,501
+Durango,Colorado,499
+Grapevine,Texas,499
+LaGrange,Georgia,499
+O'Fallon,Missouri,499
+Martinsburg,West Virginia,498
+Hyannis,Massachusetts,497
+New Bern,North Carolina,496
+Allen,Texas,495
+Norristown,Pennsylvania,495
+Salina,Kansas,495
+Slidell,Louisiana,494
+Foster City,California,493
+Lee's Summit,Missouri,493
+Los Gatos,California,493
+Waldorf,Maryland,492
+Glen Burnie,Maryland,491
+Draper,Utah,489
+Bristol,Connecticut,488
+Long Island,New York,488
+Greenbelt,Maryland,486
+New Albany,Indiana,486
+Oak Ridge,Tennessee,486
+Beckley,West Virginia,485
+Bel Air,Maryland,485
+Wayne,Pennsylvania,485
+Jeffersonville,Indiana,484
+Anderson,Indiana,483
+Peabody,Massachusetts,483
+Peachtree City,Georgia,483
+Redondo Beach,California,483
+Turlock,California,483
+Lebanon,Pennsylvania,482
+Yuba City,California,482
+Lexington,South Carolina,481
+Stillwater,Oklahoma,481
+Westchester,New York,480
+Carlisle,Pennsylvania,479
+Edina,Minnesota,478
+Stafford,Virginia,478
+Hershey,Pennsylvania,477
+Mahwah,New Jersey,477
+New Braunfels,Texas,477
+Butler,Pennsylvania,475
+Albany,Oregon,473
+Ashland,Kentucky,473
+Elmira,New York,472
+Westminster,Maryland,472
+Corning,New York,471
+Fairfield,New Jersey,471
+Fountain Valley,California,471
+Bay City,Michigan,470
+Danvers,Massachusetts,470
+Elyria,Ohio,470
+Marquette,Michigan,470
+New London,Connecticut,470
+San Marcos,Texas,470
+Sherman,Texas,469
+Keene,New Hampshire,468
+Fishers,Indiana,467
+Kearney,Nebraska,467
+Manchester,Connecticut,467
+Gurnee,Illinois,466
+Pottstown,Pennsylvania,466
+Spring Hill,Florida,466
+Statesboro,Georgia,466
+Goshen,Indiana,464
+New Port Richey,Florida,463
+Gary,Indiana,462
+Lebanon,New Hampshire,462
+Rocklin,California,462
+Monroe,North Carolina,461
+Lorain,Ohio,458
+Fort Mill,South Carolina,457
+Longview,Washington,457
+Canton,Georgia,456
+Covington,Georgia,456
+Cranston,Rhode Island,456
+Independence,Missouri,455
+Maine,Maine,455
+Peoria,Arizona,455
+Hanover,Maryland,454
+Sanford,North Carolina,454
+Wheaton,Illinois,454
+Golden,Colorado,453
+Hammond,Indiana,453
+Hanover,Pennsylvania,453
+Red Bank,New Jersey,453
+Richmond,Indiana,453
+Issaquah,Washington,452
+Zanesville,Ohio,452
+Deland,Florida,451
+Jasper,Indiana,450
+Macomb,Michigan,450
+West Hartford,Connecticut,450
+Pasco,Washington,448
+Basking Ridge,New Jersey,446
+Downey,California,446
+Hamilton,Ohio,446
+Owings Mills,Maryland,446
+San Clemente,California,446
+Grand Island,Nebraska,445
+Fort Pierce,Florida,444
+Nampa,Idaho,444
+Carson City,Nevada,443
+Kankakee,Illinois,443
+Natick,Massachusetts,442
+West Covina,California,442
+Minot,North Dakota,441
+Westlake,Ohio,441
+Wilmington,Massachusetts,441
+Conshohocken,Pennsylvania,440
+Hilton Head Island,South Carolina,440
+New Castle,Delaware,440
+Voorhees,New Jersey,440
+Bowie,Maryland,439
+Lexington Park,Maryland,439
+Lisle,Illinois,439
+Washington,Pennsylvania,439
+Greenwood,South Carolina,438
+Hendersonville,North Carolina,438
+Chillicothe,Ohio,437
+Hilo,Hawaii,437
+Skokie,Illinois,436
+East Lansing,Michigan,434
+Morristown,Tennessee,434
+Palm Bay,Florida,434
+St. Charles,Missouri,433
+Elmhurst,Illinois,432
+La Jolla,California,432
+Maryville,Tennessee,432
+Norwich,Connecticut,432
+Union City,California,432
+Salem,New Hampshire,430
+Bossier City,Louisiana,429
+Monroe,Michigan,429
+Lake Forest,Illinois,428
+Hammond,Louisiana,427
+Vernon Hills,Illinois,427
+Beloit,Wisconsin,426
+Manitowoc,Wisconsin,426
+Taylor,Michigan,426
+Livingston,New Jersey,425
+Vallejo,California,425
+Meridian,Idaho,424
+Orangeburg,South Carolina,424
+Greenwood,Indiana,423
+Roseburg,Oregon,423
+Burlingame,California,421
+Frankfort,Kentucky,421
+Newark,Ohio,420
+Orland Park,Illinois,420
+Woodstock,Georgia,419
+Brandon,Florida,418
+Haverhill,Massachusetts,418
+Lodi,California,417
+Rochester,Michigan,417
+Winona,Minnesota,417
+Troy,New York,416
+Leominster,Massachusetts,415
+Libertyville,Illinois,415
+Oxford,Mississippi,415
+Indiana,Pennsylvania,414
+Jamestown,New York,414
+Farmington,New Mexico,413
+Eureka,California,412
+Hemet,California,412
+Mesquite,Texas,412
+Sierra Vista,Arizona,411
+Aberdeen,Maryland,409
+Florham Park,New Jersey,409
+Northampton,Massachusetts,409
+Braintree,Massachusetts,408
+Greenville,Texas,408
+Thomasville,Georgia,408
+Lancaster,Ohio,407
+Attleboro,Massachusetts,406
+Branson,Missouri,406
+Cedar Falls,Iowa,405
+Edinburg,Texas,405
+Norwood,Massachusetts,405
+Buena Park,California,404
+Glenview,Illinois,404
+Leesburg,Florida,404
+Anniston,Alabama,403
+Bluffton,South Carolina,402
+Itasca,Illinois,402
+Rome,New York,402
+South Houston,Texas,402
+Birmingham,Michigan,400
+Farmingdale,New York,397
+Douglasville,Georgia,396
+Weston,Florida,396
+Woodbridge,New Jersey,396
+Addison,Texas,394
+Rancho Cordova,California,394
+Saint Charles,Missouri,394
+Flushing,New York,393
+Hopkinsville,Kentucky,392
+Key West,Florida,392
+Brainerd,Minnesota,391
+San Marcos,California,391
+Michigan City,Indiana,389
+St. Charles,Illinois,388
+Coppell,Texas,387
+Grants Pass,Oregon,387
+Blue Bell,Pennsylvania,386
+Huntington,New York,386
+Niagara Falls,New York,385
+Tinley Park,Illinois,385
+Marshfield,Wisconsin,384
+Pascagoula,Mississippi,384
+Marietta,Ohio,383
+Hutchinson,Kansas,381
+Media,Pennsylvania,381
+St. Joseph,Michigan,381
+Pullman,Washington,380
+McHenry,Illinois,378
+Titusville,Florida,378
+Carbondale,Illinois,377
+Lewiston,Idaho,377
+Crown Point,Indiana,375
+DeKalb,Illinois,375
+Winter Park,Florida,375
+Rutland,Vermont,374
+Enid,Oklahoma,373
+Hialeah,Florida,373
+Lake Worth,Florida,373
+Loma Linda,California,373
+Westbury,New York,373
+Ypsilanti,Michigan,373
+Mansfield,Texas,372
+Milford,Massachusetts,372
+Mount Pleasant,South Carolina,372
+Salem,Massachusetts,371
+Arvada,Colorado,370
+Bensalem,Pennsylvania,370
+East Brunswick,New Jersey,370
+Plymouth Meeting,Pennsylvania,370
+Arizona City,Arizona,369
+Buffalo Grove,Illinois,369
+Camp Hill,Pennsylvania,369
+Menomonee Falls,Wisconsin,369
+Altamonte Springs,Florida,368
+Palm Coast,Florida,368
+Sparks,Nevada,368
+Staunton,Virginia,368
+Burlington,New Jersey,367
+Campbell,California,367
+Rockwall,Texas,367
+Shelby,North Carolina,367
+Canton,Massachusetts,366
+Enfield,Connecticut,366
+Wisconsin Rapids,Wisconsin,366
+Bristol,Tennessee,365
+Lake City,Florida,365
+Park City,Utah,365
+Southlake,Texas,365
+Clermont,Florida,364
+Covina,California,364
+Noblesville,Indiana,363
+Tifton,Georgia,363
+Wixom,Michigan,363
+Stony Brook,New York,362
+Fort Meade,Maryland,361
+Somerset,Kentucky,361
+Howell,Michigan,359
+Panama City Beach,Florida,359
+Carol Stream,Illinois,358
+Conway,South Carolina,358
+Cumberland,Maryland,358
+Humble,Texas,358
+Glens Falls,New York,357
+Langhorne,Pennsylvania,357
+Meriden,Connecticut,356
+Parker,Colorado,356
+Westerville,Ohio,356
+El Cajon,California,355
+Shakopee,Minnesota,355
+Morganton,North Carolina,354
+West Lafayette,Indiana,354
+Easton,Maryland,353
+Pearland,Texas,353
+Walla Walla,Washington,353
+Georgetown,Texas,352
+London,Kentucky,352
+Summit,New Jersey,352
+Greenwood Village,Colorado,350
+Laguna Hills,California,350
+Madison Heights,Michigan,350
+Sherman Oaks,California,350
+Torrington,Connecticut,350
+Toronto,Ohio,349
+Chicago Heights,Illinois,348
+Hazleton,Pennsylvania,348
+Lumberton,North Carolina,348
+Rolling Meadows,Illinois,348
+Boone,North Carolina,347
+Hicksville,New York,347
+Massillon,Ohio,347
+Smyrna,Tennessee,347
+Flemington,New Jersey,346
+Lynn,Massachusetts,346
+Franklin,Massachusetts,345
+Hawthorne,California,345
+Klamath Falls,Oregon,345
+Elkton,Maryland,344
+Tualatin,Oregon,344
+Alexandria,Minnesota,343
+Eatontown,New Jersey,343
+Petersburg,Virginia,343
+Columbus,Mississippi,342
+Mandeville,Louisiana,342
+Elk Grove,California,341
+Muskogee,Oklahoma,341
+Newark,California,341
+Asheboro,North Carolina,340
+Sebring,Florida,340
+Fayetteville,Georgia,339
+Lake Zurich,Illinois,339
+Ronkonkoma,New York,339
+Tarrytown,New York,339
+Williston,North Dakota,339
+Columbia,Tennessee,338
+Cullman,Alabama,338
+Strongsville,Ohio,338
+West Chester,Ohio,338
+American Fork,Utah,337
+Benton Harbor,Michigan,337
+New Britain,Connecticut,337
+Meadville,Pennsylvania,335
+Westport,Connecticut,335
+Dulles,Virginia,334
+Griffin,Georgia,334
+Palatine,Illinois,334
+Addison,Illinois,333
+Greeneville,Tennessee,333
+Warminster,Pennsylvania,333
+Waterford,Michigan,333
+Watsonville,California,333
+Lincolnshire,Illinois,332
+West Bend,Wisconsin,332
+Woodbury,Minnesota,332
+Warren,New Jersey,331
+Compton,California,330
+Weatherford,Texas,330
+Greer,South Carolina,329
+Marion,Ohio,329
+California,Maryland,328
+Pawtucket,Rhode Island,328
+Smyrna,Georgia,328
+Teaneck,New Jersey,328
+Brooklyn Park,Minnesota,327
+Calhoun,Georgia,327
+Lanham,Maryland,327
+West Chicago,Illinois,327
+Ellicott City,Maryland,326
+Perrysburg,Ohio,326
+Westfield,Massachusetts,326
+Brick,New Jersey,325
+San Carlos,California,325
+Woodinville,Washington,325
+Antioch,California,324
+Clifton Park,New York,324
+Edwardsville,Illinois,324
+Encino,California,324
+Flower Mound,Texas,324
+Glastonbury,Connecticut,324
+Iselin,New Jersey,324
+New Hyde Park,New York,324
+Pine Bluff,Arkansas,324
+Stroudsburg,Pennsylvania,324
+Woodland,California,324
+Clarksburg,West Virginia,323
+Ormond Beach,Florida,323
+Port Arthur,Texas,323
+El Monte,California,322
+Neptune,New Jersey,322
+Stockbridge,Georgia,322
+Yorba Linda,California,322
+Danville,Illinois,321
+Kent,Ohio,321
+Louisville,Colorado,321
+North Canton,Ohio,321
+Claremont,California,320
+Council Bluffs,Iowa,320
+Gig Harbor,Washington,320
+Lebanon,Tennessee,320
+Southaven,Mississippi,320
+Twinsburg,Ohio,320
+North Las Vegas,Nevada,318
+Romeoville,Illinois,318
+South Jordan,Utah,318
+Cypress,Texas,317
+Grand Haven,Michigan,317
+Somerville,Massachusetts,317
+Athens,Ohio,316
+Brattleboro,Vermont,316
+Opelika,Alabama,316
+Russellville,Arkansas,316
+Manteca,California,315
+Penn,Pennsylvania,315
+Rosemont,Illinois,315
+Urbana,Illinois,315
+Warrenton,Virginia,315
+Montpelier,Vermont,314
+Orange Park,Florida,314
+Encinitas,California,313
+Lexington,North Carolina,313
+Marion,Illinois,313
+Munster,Indiana,313
+Paso Robles,California,313
+Pikeville,Kentucky,313
+Surprise,Arizona,313
+Broken Arrow,Oklahoma,312
+Adrian,Michigan,311
+Bemidji,Minnesota,311
+Holyoke,Massachusetts,311
+Newtown,Pennsylvania,311
+Montclair,New Jersey,310
+Moses Lake,Washington,310
+Portsmouth,Ohio,310
+Troy,Ohio,310
+Uniontown,Pennsylvania,310
+Westford,Massachusetts,310
+Woonsocket,Rhode Island,310
+Effingham,Illinois,309
+El Centro,California,309
+Kinston,North Carolina,309
+Sonoma,California,308
+Kingman,Arizona,307
+Vicksburg,Mississippi,307
+Willmar,Minnesota,307
+Aspen,Colorado,306
+Norfolk,Nebraska,306
+Richmond,Kentucky,306
+Sidney,Ohio,306
+Christiansburg,Virginia,305
+Exeter,New Hampshire,305
+Hanford,California,305
+Marysville,Washington,305
+Auburn,Maine,304
+Commerce,California,304
+Gallatin,Tennessee,304
+Hudson,Wisconsin,304
+Methuen,Massachusetts,304
+Nassau,New York,304
+Collegeville,Pennsylvania,303
+Laramie,Wyoming,303
+Rochester,New Hampshire,303
+Snellville,Georgia,303
+McMinnville,Oregon,302
+Midlothian,Virginia,302
+Petoskey,Michigan,302
+Seymour,Indiana,302
+Upper Marlboro,Maryland,302
+Wheeling,Illinois,302
+League City,Texas,301
+Queensbury,New York,301
+Leawood,Kansas,300
+Beachwood,Ohio,299
+New Berlin,Wisconsin,299
+Palm Harbor,Florida,299
+Durant,Oklahoma,298
+North Little Rock,Arkansas,298
+Rock Island,Illinois,298
+College Park,Maryland,297
+Lacey,Washington,297
+Mason City,Iowa,297
+Middletown,Ohio,297
+Quakertown,Pennsylvania,297
+Vail,Colorado,297
+Merrimack,New Hampshire,296
+Needham,Massachusetts,296
+Cranbury,New Jersey,295
+Mansfield,Massachusetts,295
+Mineola,New York,295
+Arcadia,California,294
+Plainfield,Illinois,294
+Blaine,Minnesota,293
+Lake Oswego,Oregon,293
+Marion,Indiana,293
+Pottsville,Pennsylvania,293
+Auburn,California,292
+Bartlesville,Oklahoma,292
+Brooksville,Florida,292
+Davie,Florida,292
+Delaware,Ohio,292
+Portage,Michigan,292
+Rancho Santa Margarita,California,292
+Geneva,Illinois,291
+Pinehurst,North Carolina,291
+Shelby Township,Michigan,291
+Hamden,Connecticut,290
+Watertown,Massachusetts,290
+Boston,New York,289
+East Hanover,New Jersey,289
+Lakeville,Minnesota,289
+Oak Lawn,Illinois,289
+Owatonna,Minnesota,289
+Gilroy,California,288
+Huntsville,Texas,288
+Palm Beach,Florida,288
+Clovis,California,287
+Madera,California,287
+Nacogdoches,Texas,287
+Bohemia,New York,286
+Dublin,Georgia,286
+Grass Valley,California,285
+Ukiah,California,285
+Acworth,Georgia,284
+Ashland,Ohio,284
+Culpeper,Virginia,284
+Grand Blanc,Michigan,284
+Stow,Ohio,284
+West Sacramento,California,284
+Dallas,Georgia,283
+Danville,Pennsylvania,283
+Kahului,Hawaii,283
+Elizabeth City,North Carolina,282
+Starkville,Mississippi,282
+Wilton,Connecticut,282
+Beltsville,Maryland,281
+Hyattsville,Maryland,281
+Madison,Alabama,281
+Milledgeville,Georgia,281
+North Chicago,Illinois,281
+Poway,California,281
+Bay Shore,New York,280
+Brookings,South Dakota,280
+Coral Gables,Florida,280
+Martinsville,Virginia,280
+Kerrville,Texas,279
+New Castle,Pennsylvania,279
+Port Washington,New York,279
+Tukwila,Washington,279
+Glendora,California,278
+Waterville,Maine,278
+Ashtabula,Ohio,277
+Chicopee,Massachusetts,277
+Englewood,New Jersey,277
+Indio,California,277
+Montvale,New Jersey,277
+Sevierville,Tennessee,277
+Westland,Michigan,277
+Hollywood,California,276
+Monrovia,California,276
+South Plainfield,New Jersey,276
+Wellesley,Massachusetts,276
+Burlington,Iowa,275
+Henderson,Kentucky,275
+North Andover,Massachusetts,275
+Shawnee,Kansas,275
+Somerville,New Jersey,275
+Madisonville,Kentucky,274
+Mount Prospect,Illinois,274
+Olive Branch,Mississippi,274
+Roswell,New Mexico,274
+Silverdale,Washington,274
+Weymouth,Massachusetts,274
+Ankeny,Iowa,273
+Newburyport,Massachusetts,273
+Washington,Virginia,273
+Coon Rapids,Minnesota,272
+Elko,Nevada,272
+Merritt Island,Florida,272
+Morgan Hill,California,272
+Ridgecrest,California,272
+West Orange,New Jersey,272
+Bedford,New Hampshire,271
+Paris,Texas,271
+Poplar Bluff,Missouri,271
+Thornton,Colorado,271
+Alton,Illinois,270
+Apex,North Carolina,270
+Laguna Niguel,California,270
+Manhasset,New York,270
+Mount Pleasant,Michigan,270
+Muscatine,Iowa,270
+Roseville,Minnesota,270
+Crossville,Tennessee,269
+Glen Allen,Virginia,269
+Bronxville,New York,268
+Castle Rock,Colorado,268
+Manhattan Beach,California,267
+Ada,Oklahoma,266
+Bettendorf,Iowa,266
+Bloomfield,Connecticut,266
+Concord,Massachusetts,266
+Georgetown,Kentucky,266
+Gettysburg,Pennsylvania,266
+Goodyear,Arizona,266
+Hendersonville,Tennessee,266
+Benicia,California,265
+Bowling Green,Ohio,265
+Crestview,Florida,265
+Amherst,New York,264
+Cocoa,Florida,264
+Jackson,Wyoming,264
+Oconomowoc,Wisconsin,264
+Oregon City,Oregon,264
+Seneca,South Carolina,264
+Azusa,California,263
+Smithtown,New York,263
+Bonita Springs,Florida,262
+Huntersville,North Carolina,262
+Porterville,California,262
+The Villages,Florida,262
+Trumbull,Connecticut,262
+Waxahachie,Texas,262
+Annapolis Junction,Maryland,261
+Casa Grande,Arizona,261
+Fenton,Missouri,261
+Morehead City,North Carolina,261
+Barrington,Illinois,260
+Egg Harbor Township,New Jersey,260
+Tewksbury,Massachusetts,260
+East Stroudsburg,Pennsylvania,258
+El Dorado,Arkansas,258
+Moscow,Idaho,258
+Woodridge,Illinois,258
+Doral,Florida,257
+Fairmont,West Virginia,257
+Juneau,Alaska,257
+Chino Hills,California,256
+Laconia,New Hampshire,256
+Lapeer,Michigan,256
+Lewisburg,Pennsylvania,256
+Normal,Illinois,256
+Amherst,Massachusetts,255
+Hermitage,Pennsylvania,255
+Rolla,Missouri,255
+San Dimas,California,255
+Brunswick,Maine,254
+Fairfield,Ohio,254
+Wakefield,Massachusetts,254
+Abingdon,Virginia,253
+Arlington,Washington,253
+Centreville,Virginia,253
+Chevy Chase,Maryland,253
+La Mirada,California,253
+North Haven,Connecticut,253
+Northville,Michigan,253
+Oswego,New York,253
+Pennsauken,New Jersey,253
+Rockledge,Florida,253
+Rocky Hill,Connecticut,253
+Tomball,Texas,253
+Covington,Kentucky,252
+Glasgow,Kentucky,252
+Goleta,California,252
+Homestead,Florida,252
+Mount Airy,North Carolina,252
+Norwalk,California,252
+Willoughby,Ohio,252
+Medford,Massachusetts,251
+Plainview,New York,251
+Coatesville,Pennsylvania,250
+Gillette,Wyoming,250
+Marysville,Ohio,250
+Apple Valley,California,249
+Batavia,Illinois,249
+Boise City,Idaho,249
+Brentwood,California,249
+Cortland,New York,249
+Downingtown,Pennsylvania,249
+Linden,New Jersey,249
+Maumee,Ohio,249
+Salem,Virginia,249
+Wisconsin Dells,Wisconsin,249
+Phoenixville,Pennsylvania,248
+Ruston,Louisiana,248
+Tullahoma,Tennessee,248
+West Jordan,Utah,248
+Wilmington,Ohio,248
+Minnesota City,Minnesota,247
+Montana,Montana,247
+Sonora,California,247
+Wellington,Florida,247
+Bristol,Virginia,246
+Diamond Bar,California,246
+Great Neck,New York,246
+Martinez,California,246
+Ottawa,Illinois,246
+Sedalia,Missouri,246
+Dickinson,North Dakota,245
+Freeport,Illinois,245
+Truckee,California,245
+Waycross,Georgia,245
+Auburn,New York,244
+Cape Canaveral,Florida,244
+Cheshire,Connecticut,244
+Fort Dodge,Iowa,244
+Gresham,Oregon,244
+Lyndhurst,New Jersey,244
+Monroeville,Pennsylvania,244
+Shawnee,Oklahoma,244
+Wilsonville,Oregon,244
+Ardmore,Oklahoma,243
+Mattoon,Illinois,243
+Walnut,California,243
+Fort Lee,New Jersey,242
+Southington,Connecticut,242
+Bedford,Texas,241
+Hood River,Oregon,241
+Cuyahoga Falls,Ohio,240
+Rialto,California,240
+Anoka,Minnesota,239
+Austell,Georgia,239
+Cadillac,Michigan,239
+Ewing,New Jersey,239
+Port Angeles,Washington,239
+Searcy,Arkansas,239
+Tulare,California,239
+Hopkinton,Massachusetts,238
+Los Alamitos,California,238
+Tigard,Oregon,238
+Zeeland,Michigan,238
+Branford,Connecticut,237
+Fremont,Ohio,237
+Hackettstown,New Jersey,237
+Hastings,Nebraska,237
+Plant City,Florida,237
+Roseville,Michigan,237
+Stanford,California,237
+Woodstock,Illinois,237
+Columbus,Nebraska,236
+Fitchburg,Massachusetts,236
+Maitland,Florida,236
+Chicago,Indiana,235
+Cranberry Township,Pennsylvania,235
+Erlanger,Kentucky,235
+Perris,California,235
+Portage,Indiana,235
+Cranford,New Jersey,234
+Middletown,New Jersey,234
+Mountain Home,Arkansas,234
+Quantico,Virginia,234
+Stone Mountain,Georgia,234
+Aberdeen,South Dakota,233
+Alliance,Ohio,233
+Chaska,Minnesota,233
+Laporte,Indiana,233
+Poulsbo,Washington,233
+Woodbury,New York,233
+East Los Angeles,California,232
+Lawrenceville,New Jersey,232
+New Iberia,Louisiana,232
+Oak Harbor,Washington,232
+Ocean Springs,Mississippi,232
+Rockaway,New Jersey,232
+Romulus,Michigan,232
+Hays,Kansas,231
+Independence,Ohio,231
+Inglewood,California,231
+Newton,New Jersey,231
+Rexburg,Idaho,231
+Alhambra,California,230
+Elkridge,Maryland,230
+Galesburg,Illinois,230
+Hinesville,Georgia,230
+North Brunswick,New Jersey,230
+Clayton,North Carolina,229
+Falmouth,Massachusetts,229
+Pittsburg,Kansas,229
+Pleasant Hill,California,229
+Riverhead,New York,229
+Chesterfield,Virginia,228
+Dedham,Massachusetts,228
+Dickson,Tennessee,228
+Londonderry,New Hampshire,228
+Bloomsburg,Pennsylvania,227
+Deer Park,New York,227
+East Providence,Rhode Island,227
+Latham,New York,227
+Longwood,Florida,227
+Mequon,Wisconsin,227
+New Rochelle,New York,227
+Port Orchard,Washington,227
+Brighton,Colorado,226
+Chester,Virginia,226
+Douglas,Georgia,226
+Lewes,Delaware,226
+Los Alamos,New Mexico,226
+Madison,Indiana,226
+Newtown Square,Pennsylvania,226
+Old Bridge,New Jersey,226
+Cedar Park,Texas,225
+Rahway,New Jersey,225
+Hillsborough,New Jersey,224
+Kernersville,North Carolina,224
+Lake Jackson,Texas,224
+Marinette,Wisconsin,224
+Clackamas,Oregon,223
+Danville,California,223
+El Dorado Hills,California,223
+Lititz,Pennsylvania,223
+Moultrie,Georgia,223
+Bennington,Vermont,222
+Biddeford,Maine,222
+Gainesville,Virginia,222
+Kenner,Louisiana,222
+Laguna Beach,California,222
+Levittown,Pennsylvania,222
+Pewaukee,Wisconsin,222
+Tiffin,Ohio,222
+Wood Dale,Illinois,222
+Amsterdam,New York,221
+Cedar City,Utah,221
+Clarkston,Michigan,221
+Lancaster,South Carolina,221
+North Bergen,New Jersey,221
+Port Orange,Florida,221
+Cambridge,Ohio,220
+Clovis,New Mexico,220
+Colton,California,220
+Hudson,Ohio,220
+Keller,Texas,220
+Okemos,Michigan,220
+Olean,New York,220
+Punta Gorda,Florida,220
+Defiance,Ohio,219
+Elk River,Minnesota,219
+Farmington,Missouri,219
+Lakewood,Washington,219
+Los Altos,California,219
+Michigan Center,Michigan,219
+Sandpoint,Idaho,219
+Swedesboro,New Jersey,219
+Webster,Texas,219
+Burr Ridge,Illinois,218
+Chanhassen,Minnesota,218
+Freeport,Texas,218
+Granbury,Texas,218
+Agoura Hills,California,217
+Avon,Ohio,217
+Hesperia,California,217
+Lithonia,Georgia,217
+Patchogue,New York,217
+Athens,Tennessee,216
+Butte,Montana,216
+Cleburne,Texas,216
+Laurel,Mississippi,216
+Malibu,California,216
+Mundelein,Illinois,216
+Rio Rancho,New Mexico,216
+Wasilla,Alaska,216
+Englewood Cliffs,New Jersey,215
+Lake Havasu City,Arizona,215
+Niceville,Florida,215
+Riverview,Florida,215
+Roseland,New Jersey,215
+Scottsbluff,Nebraska,215
+Burleson,Texas,214
+Dyersburg,Tennessee,214
+Foley,Alabama,214
+Hobbs,New Mexico,214
+Oviedo,Florida,214
+Batesville,Arkansas,213
+Fenton,Michigan,213
+Hoover,Alabama,213
+Lorton,Virginia,213
+Ellensburg,Washington,212
+Geneva,New York,212
+Greenfield,Massachusetts,212
+Ridgewood,New Jersey,212
+South Portland,Maine,212
+Bensenville,Illinois,211
+Blue Springs,Missouri,211
+Fort Washington,Pennsylvania,211
+Greenfield,Indiana,211
+Highlands Ranch,Colorado,211
+Latrobe,Pennsylvania,211
+Lenoir,North Carolina,211
+Lincoln,Rhode Island,211
+Plainfield,Indiana,211
+Springfield,Oregon,211
+Steamboat Springs,Colorado,211
+Superior,Wisconsin,211
+Coldwater,Michigan,210
+Grand Rapids,Minnesota,210
+Harrison,Arkansas,210
+Smithfield,North Carolina,210
+Edmonds,Washington,209
+Jonesboro,Georgia,209
+Murray,Kentucky,209
+Painesville,Ohio,209
+Rock Springs,Wyoming,209
+Waynesboro,Virginia,209
+Easley,South Carolina,208
+Rancho Mirage,California,208
+Canandaigua,New York,207
+Gardner,Massachusetts,207
+Glenwood Springs,Colorado,207
+Henderson,North Carolina,207
+Kennett Square,Pennsylvania,207
+Montrose,Colorado,207
+Rhinelander,Wisconsin,207
+Sewell,New Jersey,207
+Commack,New York,206
+Hanover,New Hampshire,206
+Niles,Illinois,206
+Pittsburg,California,206
+Warren,Pennsylvania,206
+West Hollywood,California,206
+Baldwin Park,California,205
+Mukilteo,Washington,205
+Sterling,Illinois,205
+Stoughton,Massachusetts,205
+Vincennes,Indiana,205
+Bridgeport,West Virginia,204
+Coos Bay,Oregon,204
+Parma,Ohio,204
+Placentia,California,204
+Shrewsbury,Massachusetts,204
+Washington,Missouri,204
+Alpena,Michigan,203
+Batavia,New York,203
+Bloomfield,New Jersey,203
+Henrico,Virginia,203
+Industry,California,203
+Steubenville,Ohio,203
+Sumner,Washington,203
+Alabaster,Alabama,202
+Clemson,South Carolina,202
+Leavenworth,Kansas,202
+Oneonta,New York,202
+Hempstead,New York,201
+Johns Creek,Georgia,201
+Lompoc,California,201
+Acton,Massachusetts,200
+Daly City,California,200
+Danville,Kentucky,200
+Glendale Heights,Illinois,200
+Golden Valley,Minnesota,200
+Greenville,Mississippi,200
+Mission,Texas,200
+San Juan Capistrano,California,200
+South Lake Tahoe,California,200
+Watertown,South Dakota,200
+Inverness,Florida,199
+La Habra,California,199
+Shelbyville,Indiana,199
+Bristol,Pennsylvania,198
+Carlsbad,New Mexico,198
+Dubois,Pennsylvania,198
+Ephrata,Pennsylvania,198
+Garden City,Kansas,198
+Gloucester,Massachusetts,198
+Madison,Mississippi,198
+Moorpark,California,198
+O'Fallon,Illinois,198
+Sandy Springs,Georgia,198
+Stillwater,Minnesota,198
+Bullhead City,Arizona,197
+Daphne,Alabama,197
+Marina Del Rey,California,197
+Marshall,Texas,197
+Placerville,California,197
+Tucker,Georgia,197
+Bethpage,New York,196
+East Pittsburgh,Pennsylvania,196
+Fort Bragg,North Carolina,196
+Foxborough,Massachusetts,196
+Lake Elsinore,California,196
+Marshalltown,Iowa,196
+Mount Pleasant,Texas,196
+Uniondale,New York,196
+Hudson,New Hampshire,195
+Matawan,New Jersey,195
+Miamisburg,Ohio,195
+Ottumwa,Iowa,195
+Purchase,New York,195
+Apopka,Florida,194
+Bryn Mawr,Pennsylvania,194
+Clark,New Jersey,194
+Gaffney,South Carolina,194
+Pinellas Park,Florida,194
+Warrenville,Illinois,194
+Emporia,Kansas,193
+Hingham,Massachusetts,193
+Perth Amboy,New Jersey,193
+Piqua,Ohio,193
+Radford,Virginia,193
+Valhalla,New York,193
+Wake Forest,North Carolina,193
+Chester,Pennsylvania,192
+Hebron,Kentucky,192
+Malden,Massachusetts,192
+Ridgeland,Mississippi,192
+Westmont,Illinois,192
+Anacortes,Washington,191
+Benton,Arkansas,191
+Bloomingdale,Illinois,191
+Thomasville,North Carolina,191
+Warrensburg,Missouri,191
+Clearfield,Utah,190
+Niles,Michigan,190
+Pekin,Illinois,190
+Vernon,California,190
+West Monroe,Louisiana,190
+Yorktown,Virginia,190
+Alamogordo,New Mexico,189
+Burlington,Washington,189
+Caldwell,Idaho,189
+Franklin,Indiana,189
+Long Branch,New Jersey,189
+Oak Park,Illinois,189
+Seaford,Delaware,189
+Simpsonville,South Carolina,189
+Windsor Locks,Connecticut,189
+Athens,Alabama,188
+Gonzales,Louisiana,188
+Hermiston,Oregon,188
+Patuxent River,Maryland,188
+Marshall,Minnesota,187
+Menifee,California,187
+Plainsboro,New Jersey,187
+Rosemead,California,187
+Wesley Chapel,Florida,187
+Austin,Minnesota,186
+Derry,New Hampshire,186
+Dixon,Illinois,186
+Garner,North Carolina,186
+Iron Mountain,Michigan,186
+Lakewood,California,186
+Mebane,North Carolina,186
+Passaic,New Jersey,186
+Snohomish,Washington,186
+Thibodaux,Louisiana,186
+Aventura,Florida,185
+Chardon,Ohio,185
+Germantown,Wisconsin,185
+Moorhead,Minnesota,185
+Phillipsburg,New Jersey,185
+San Pedro,California,185
+Smithfield,Rhode Island,185
+Tinton Falls,New Jersey,185
+Wentzville,Missouri,185
+Willow Grove,Pennsylvania,185
+Winder,Georgia,185
+Apple Valley,Minnesota,184
+Hinsdale,Illinois,184
+Lockport,New York,184
+Melrose Park,Illinois,184
+Orange,Texas,184
+Bayonne,New Jersey,183
+Cockeysville,Maryland,183
+De Pere,Wisconsin,183
+Kapolei,Hawaii,183
+Montebello,California,183
+Ridgefield,Connecticut,183
+Sayre,Pennsylvania,183
+Seguin,Texas,183
+West Columbia,South Carolina,183
+West Plains,Missouri,183
+Wyoming,Michigan,183
+Irwindale,California,182
+Johannesburg,California,182
+Milton,Florida,182
+New Lenox,Illinois,182
+Ramsey,New Jersey,182
+Watertown,Wisconsin,182
+Wyomissing,Pennsylvania,182
+Belmont,California,181
+Berkeley Heights,New Jersey,181
+Canonsburg,Pennsylvania,181
+Castro Valley,California,181
+Dartmouth,Massachusetts,181
+Fishkill,New York,181
+Missouri City,Missouri,181
+Princeton,West Virginia,181
+Scarborough,Maine,181
+Sikeston,Missouri,181
+Syosset,New York,181
+Toccoa,Georgia,181
+Wauwatosa,Wisconsin,181
+Westminster,California,181
+Clinton,Iowa,180
+Deltona,Florida,180
+Detroit Lakes,Minnesota,180
+Duarte,California,180
+Hurst,Texas,180
+Jasper,Alabama,180
+Miami Lakes,Florida,180
+Owosso,Michigan,180
+Paramount,California,180
+Port Jefferson,New York,180
+Richmond,Texas,180
+Saint George,Utah,180
+Tahlequah,Oklahoma,180
+Corsicana,Texas,179
+Fair Lawn,New Jersey,179
+Healdsburg,California,179
+Hilliard,Ohio,179
+La Grange,Illinois,179
+Logansport,Indiana,179
+Pittston,Pennsylvania,179
+East Orange,New Jersey,178
+Jacksonville,Illinois,178
+Liverpool,New York,178
+Murray,Utah,178
+Sheridan,Wyoming,178
+Enterprise,Alabama,177
+Muscle Shoals,Alabama,177
+Park Ridge,Illinois,177
+Washington,North Carolina,177
+Westerly,Rhode Island,177
+Woodbury,New Jersey,177
+Brandon,Mississippi,176
+Collierville,Tennessee,176
+Del Rio,Texas,176
+Farmington,Michigan,176
+Frankfort,Illinois,176
+Gaylord,Michigan,176
+Madison,New Jersey,176
+Winchester,Kentucky,176
+Corinth,Mississippi,175
+East Chicago,Indiana,175
+North Kingstown,Rhode Island,175
+Norwalk,Ohio,175
+Ocean City,Maryland,175
+Peru,Illinois,175
+Post Falls,Idaho,175
+Somerset,Pennsylvania,175
+Wytheville,Virginia,175
+Albert Lea,Minnesota,174
+Bardstown,Kentucky,174
+Bradford,Pennsylvania,174
+Evans,Georgia,174
+Liberty,Missouri,174
+North Platte,Nebraska,174
+Rogers,Minnesota,174
+Weslaco,Texas,174
+Bellevue,Nebraska,173
+Corbin,Kentucky,173
+Crawfordsville,Indiana,173
+Glassboro,New Jersey,173
+Hannibal,Missouri,173
+Morris Plains,New Jersey,173
+North,South Carolina,173
+South Windsor,Connecticut,173
+Sulphur,Louisiana,173
+Vidalia,Georgia,173
+Wadsworth,Ohio,173
+Wilkesboro,North Carolina,173
+Boardman,Ohio,172
+Carlstadt,New Jersey,172
+Chesterfield,Michigan,172
+Chippewa Falls,Wisconsin,172
+Escanaba,Michigan,172
+Foothill Ranch,California,172
+Hollister,California,172
+Lebanon,Ohio,172
+McAlester,Oklahoma,172
+North Wales,Pennsylvania,172
+Prattville,Alabama,172
+Redmond,Oregon,172
+Troy,Alabama,172
+Whippany,New Jersey,172
+Avon,Connecticut,171
+Dover,Ohio,171
+Granite City,Illinois,171
+Grove City,Ohio,171
+Prince Frederick,Maryland,171
+Sycamore,Illinois,171
+Valley Stream,New York,171
+Beavercreek,Ohio,170
+Brunswick,Ohio,170
+Euless,Texas,170
+Mokena,Illinois,170
+Pennington,New Jersey,170
+Ponca City,Oklahoma,170
+Annandale,Virginia,169
+Denville,New Jersey,169
+Fairhope,Alabama,169
+Hartsville,South Carolina,169
+McPherson,Kansas,169
+Oak Creek,Wisconsin,169
+Opelousas,Louisiana,169
+Southampton,New York,169
+Southern Pines,North Carolina,169
+Alsip,Illinois,168
+Amityville,New York,168
+Brentwood,New York,168
+Dodge City,Kansas,168
+Glen Ellyn,Illinois,168
+Lake Orion,Michigan,168
+Mount Kisco,New York,168
+Pleasant Grove,Utah,168
+Shelbyville,Tennessee,168
+Bourbonnais,Illinois,167
+Brenham,Texas,167
+Coconut Creek,Florida,167
+Fridley,Minnesota,167
+Hobart,Indiana,167
+Laurinburg,North Carolina,167
+Lincolnton,North Carolina,167
+Morris,Illinois,167
+Paris,Tennessee,167
+Plainfield,New Jersey,167
+Short Hills,New Jersey,167
+Agawam,Massachusetts,166
+Berwyn,Pennsylvania,166
+Faribault,Minnesota,166
+Middleboro,Massachusetts,166
+Northfield,Minnesota,166
+Pendleton,Oregon,166
+Pooler,Georgia,166
+Franklin Lakes,New Jersey,165
+Houghton,Michigan,165
+Jessup,Maryland,165
+Lahaina,Hawaii,165
+Milford,Michigan,165
+Phenix City,Alabama,165
+Ravenna,Ohio,165
+Raynham,Massachusetts,165
+Red Wing,Minnesota,165
+Rohnert Park,California,165
+Tamarac,Florida,165
+Totowa,New Jersey,165
+Bryan,Ohio,164
+Carpinteria,California,164
+Fort Hood,Texas,164
+Hudson,New York,164
+Lemont,Illinois,164
+Menomonie,Wisconsin,164
+Middletown,Delaware,164
+Sparta,New Jersey,164
+Yardley,Pennsylvania,164
+Aberdeen,Washington,163
+Bountiful,Utah,163
+Brownwood,Texas,163
+Crystal River,Florida,163
+Deer Park,Texas,163
+Hartford,Wisconsin,163
+Jericho,New York,163
+Newington,Connecticut,163
+Schererville,Indiana,163
+Seal Beach,California,163
+Ashland,Oregon,162
+Aurora,Ohio,162
+Fremont,Nebraska,162
+Hudson,Massachusetts,162
+Lone Tree,Colorado,162
+McComb,Mississippi,162
+Monterey Park,California,162
+Nanuet,New York,162
+Streetsboro,Ohio,162
+Tonawanda,New York,162
+Utica,Michigan,162
+Circleville,Ohio,161
+Dover,New Jersey,161
+Eagle Pass,Texas,161
+Fergus Falls,Minnesota,161
+Islandia,New York,161
+Lawrenceburg,Indiana,161
+Avondale,Arizona,160
+Bartlett,Illinois,160
+Davenport,Florida,160
+Hatfield,Pennsylvania,160
+La Canada Flintridge,California,160
+Mount Juliet,Tennessee,160
+Waynesville,North Carolina,160
+Angola,Indiana,159
+Georgetown,South Carolina,159
+Lihue,Hawaii,159
+Loganville,Georgia,159
+West Springfield,Massachusetts,159
+Abington,Pennsylvania,158
+Greensburg,Indiana,158
+Junction City,Kansas,158
+Palestine,Texas,158
+San Bruno,California,158
+Aston,Pennsylvania,157
+Clarksville,Indiana,157
+Lake Geneva,Wisconsin,157
+Mechanicsville,Virginia,157
+Norwell,Massachusetts,157
+Pleasant Prairie,Wisconsin,157
+Saline,Michigan,157
+Suffern,New York,157
+Belton,Texas,156
+Clinton,Maryland,156
+Highland Park,Illinois,156
+Howell,New Jersey,156
+Lafayette,Colorado,156
+Margate,Florida,156
+Orrville,Ohio,156
+Palatka,Florida,156
+St. Louis Park,Minnesota,156
+Waterford,Connecticut,156
+Denison,Texas,155
+Greenwood,Mississippi,155
+Hopkins,Minnesota,155
+New City,New York,155
+North Port,Florida,155
+Oroville,California,155
+Potsdam,New York,155
+Salem,Ohio,155
+Selma,Alabama,155
+Williamsville,New York,155
+Yankton,South Dakota,155
+Allen Park,Michigan,154
+Batesville,Indiana,154
+Elmwood Park,New Jersey,154
+Harleysville,Pennsylvania,154
+Mayfield Heights,Ohio,154
+Southgate,Michigan,154
+Springfield,New Jersey,154
+Virginia,Minnesota,154
+Albertville,Alabama,153
+Coshocton,Ohio,153
+East Boston,Massachusetts,153
+Greenville,Ohio,153
+New Philadelphia,Ohio,153
+New Providence,New Jersey,153
+Wareham,Massachusetts,153
+Winter Garden,Florida,153
+Ballwin,Missouri,152
+Bedminster,New Jersey,152
+Belleville,Michigan,152
+Kettering,Ohio,152
+Lake Success,New York,152
+Manchester,Tennessee,152
+Marion,North Carolina,152
+Rehoboth Beach,Delaware,152
+Rice Lake,Wisconsin,152
+Celina,Ohio,151
+Huntley,Illinois,151
+Manahawkin,New Jersey,151
+Maplewood,Minnesota,151
+Middletown,Rhode Island,151
+Pharr,Texas,151
+Big Rapids,Michigan,150
+Brookline,Massachusetts,150
+Citrus Heights,California,150
+Crofton,Maryland,150
+Fort Belvoir,Virginia,150
+Hammonton,New Jersey,150
+Hazard,Kentucky,150
+Holmdel,New Jersey,150
+Kannapolis,North Carolina,150
+Kearny,New Jersey,150
+London,Ohio,150
+Massapequa,New York,150
+Medford,New Jersey,150
+Plymouth,Indiana,150
+Zephyrhills,Florida,150
+Beaver Dam,Wisconsin,149
+Bridgeton,New Jersey,149
+Cordele,Georgia,149
+Hutchinson,Minnesota,149
+La Porte,Texas,149
+Ludington,Michigan,149
+Mays Landing,New Jersey,149
+Oswego,Illinois,149
+Perry,Georgia,149
+Saratoga,New York,149
+Sussex,Wisconsin,149
+Athens,Texas,148
+Barstow,California,148
+Homewood,Illinois,148
+Ipswich,Massachusetts,148
+Natchitoches,Louisiana,148
+Oakbrook Terrace,Illinois,148
+Roanoke Rapids,North Carolina,148
+Saddle Brook,New Jersey,148
+Bartow,Florida,147
+Cumberland,Rhode Island,147
+Dunedin,Florida,147
+Florissant,Missouri,147
+Gallup,New Mexico,147
+La Puente,California,147
+Littleton,Massachusetts,147
+Prescott Valley,Arizona,147
+Rockingham,North Carolina,147
+Souderton,Pennsylvania,147
+Texarkana,Arkansas,147
+Wailuku,Hawaii,147
+Bridgewater,Massachusetts,146
+Mill Valley,California,146
+Monroe,Georgia,146
+Pasadena,Maryland,146
+Philadelphia,Mississippi,146
+Show Low,Arizona,146
+Westfield,Indiana,146
+Bessemer,Alabama,145
+Chestertown,Maryland,145
+Dahlgren,Virginia,145
+Dunn,North Carolina,145
+Hartland,Wisconsin,145
+Jamestown,North Dakota,145
+Orange City,Florida,145
+Paragould,Arkansas,145
+Pico Rivera,California,145
+Simsbury,Connecticut,145
+Alvin,Texas,144
+Colonial Heights,Virginia,144
+Front Royal,Virginia,144
+Macomb,Illinois,144
+Millville,New Jersey,144
+Mount Holly,New Jersey,144
+Raritan,New Jersey,144
+Springfield,Pennsylvania,144
+The Dalles,Oregon,144
+Dayton,New Jersey,143
+Glen Mills,Pennsylvania,143
+Gulf Shores,Alabama,143
+La Verne,California,143
+Milford,Delaware,143
+Newberg,Oregon,143
+Rutherford,New Jersey,143
+St. Clair Shores,Michigan,143
+Urbandale,Iowa,143
+Woodcliff Lake,New Jersey,143
+Clinton,North Carolina,142
+Fairborn,Ohio,142
+Horseheads,New York,142
+Leonardtown,Maryland,142
+Matthews,North Carolina,142
+Nebraska City,Nebraska,142
+North Olmsted,Ohio,142
+Rockville Centre,New York,142
+San Fernando,California,142
+Springville,Utah,142
+Algonquin,Illinois,141
+Brewster,New York,141
+Freeport,New York,141
+Hibbing,Minnesota,141
+Kihei,Hawaii,141
+Morehead,Kentucky,141
+Owasso,Oklahoma,141
+Pella,Iowa,141
+Queen Creek,Arizona,141
+Taos,New Mexico,141
+Teterboro,New Jersey,141
+Bellflower,California,140
+Big Sur,California,140
+Farmville,Virginia,140
+Festus,Missouri,140
+Fort Payne,Alabama,140
+Monroe,New York,140
+Natchez,Mississippi,140
+South Milwaukee,Wisconsin,140
+Southborough,Massachusetts,140
+Warrington,Pennsylvania,140
+Westfield,New Jersey,140
+Wexford,Pennsylvania,140
+Berlin,New Jersey,139
+Cary,Illinois,139
+Grayslake,Illinois,139
+Grove City,Pennsylvania,139
+Kenilworth,New Jersey,139
+Kirksville,Missouri,139
+Marshall,Michigan,139
+Mira Loma,California,139
+North Richland Hills,Texas,139
+Northborough,Massachusetts,139
+Shelton,Washington,139
+Siloam Springs,Arkansas,139
+Avon,Indiana,138
+Cape May,New Jersey,138
+Dearborn Heights,Michigan,138
+Elmsford,New York,138
+Franklin Park,Illinois,138
+Gainesville,Texas,138
+Lemoore,California,138
+Morrow,Georgia,138
+Pigeon Forge,Tennessee,138
+Sebastopol,California,138
+Sturgeon Bay,Wisconsin,138
+Tavares,Florida,138
+West Allis,Wisconsin,138
+White Bear Lake,Minnesota,138
+Artesia,New Mexico,137
+Beaver,Pennsylvania,137
+Flowood,Mississippi,137
+Lindon,Utah,137
+Newtown,Connecticut,137
+Plainville,Connecticut,137
+Round Lake,Illinois,137
+Seminole,Florida,137
+Westwood,Massachusetts,137
+Albemarle,North Carolina,136
+Baraboo,Wisconsin,136
+Berwyn,Illinois,136
+Blackwood,New Jersey,136
+Burlington,Wisconsin,136
+Cooperstown,New York,136
+Dana Point,California,136
+Jackson,New Jersey,136
+Mitchell,South Dakota,136
+Odenton,Maryland,136
+Oldsmar,Florida,136
+Orangeburg,New York,136
+Spring Valley,New York,136
+Terrell,Texas,136
+Trenton,Michigan,136
+Walterboro,South Carolina,136
+West Nyack,New York,136
+Auburn,Massachusetts,135
+Blairsville,Georgia,135
+Blytheville,Arkansas,135
+Brookhaven,Mississippi,135
+East Syracuse,New York,135
+Lexington,Virginia,135
+Manalapan,New Jersey,135
+Oxford,Alabama,135
+Randolph,New Jersey,135
+Red Bluff,California,135
+Reidsville,North Carolina,135
+Seatac,Washington,135
+Sedona,Arizona,135
+St. Cloud,Florida,135
+Walpole,Massachusetts,135
+Arcata,California,134
+Barre,Vermont,134
+Canon City,Colorado,134
+Centerville,Ohio,134
+Chesterton,Indiana,134
+Duncan,South Carolina,134
+Hamburg,New York,134
+Irwin,Pennsylvania,134
+La Plata,Maryland,134
+Lake Wales,Florida,134
+Mason,Michigan,134
+New Albany,Ohio,134
+Oxon Hill,Maryland,134
+Pflugerville,Texas,134
+Portland,Tennessee,134
+Rosenberg,Texas,134
+Savage,Minnesota,134
+Camas,Washington,133
+Elkhorn,Wisconsin,133
+Gallipolis,Ohio,133
+Hastings,Minnesota,133
+Highland,Indiana,133
+Holbrook,New York,133
+Hudson,Florida,133
+Monticello,Minnesota,133
+New Windsor,New York,133
+Norwich,New York,133
+Osage Beach,Missouri,133
+Palos Heights,Illinois,133
+Port Richey,Florida,133
+Westchester,Illinois,133
+Americus,Georgia,132
+Claremont,New Hampshire,132
+Cleveland,Mississippi,132
+Jasper,Georgia,132
+New Ulm,Minnesota,132
+Norco,California,132
+Okeechobee,Florida,132
+Paoli,Pennsylvania,132
+Sequim,Washington,132
+Vestal,New York,132
+West Haven,Connecticut,132
+Zion,Illinois,132
+Centralia,Washington,131
+Cicero,Illinois,131
+Clarion,Pennsylvania,131
+Coralville,Iowa,131
+Endicott,New York,131
+Fairfield,Iowa,131
+Forest Lake,Minnesota,131
+Gulf Breeze,Florida,131
+Kailua,Hawaii,131
+Lady Lake,Florida,131
+Lafayette,California,131
+Lebanon,Missouri,131
+Marble Falls,Texas,131
+Oakbrook,Illinois,131
+Whitewater,Wisconsin,131
+Wyandotte,Michigan,131
+Arroyo Grande,California,130
+Barberton,Ohio,130
+Commerce,Michigan,130
+East Meadow,New York,130
+Franklin,North Carolina,130
+Kohler,Wisconsin,130
+Missouri City,Texas,130
+Moncks Corner,South Carolina,130
+Morgan City,Louisiana,130
+Stephenville,Texas,130
+Sulphur Springs,Texas,130
+Three Rivers,Michigan,130
+Wappingers Falls,New York,130
+Weirton,West Virginia,130
+Westlake,Texas,130
+Broomall,Pennsylvania,129
+Jesup,Georgia,129
+Lewistown,Pennsylvania,129
+Sharon,Pennsylvania,129
+Springfield,Tennessee,129
+Van Wert,Ohio,129
+Williamstown,New Jersey,129
+Ambler,Pennsylvania,128
+Astoria,Oregon,128
+Bellefontaine,Ohio,128
+Big Spring,Texas,128
+Dawsonville,Georgia,128
+Fernandina Beach,Florida,128
+Guilford,Connecticut,128
+Miami,Oklahoma,128
+Middlebury,Vermont,128
+Newton,Kansas,128
+Nutley,New Jersey,128
+Oneida,New York,128
+Putnam,Connecticut,128
+Redford,Michigan,128
+Scotts Valley,California,128
+Selinsgrove,Pennsylvania,128
+Sylvania,Ohio,128
+Alma,Michigan,127
+Claremore,Oklahoma,127
+Elizabethtown,Pennsylvania,127
+Estero,Florida,127
+Fort Atkinson,Wisconsin,127
+Goose Creek,South Carolina,127
+La Quinta,California,127
+Lindenhurst,New York,127
+North Augusta,South Carolina,127
+Orchard Park,New York,127
+Saint Charles,Illinois,127
+Sun Prairie,Wisconsin,127
+Bath,Maine,126
+Bay City,Texas,126
+Bedford,Indiana,126
+Berlin,Connecticut,126
+Buffalo,Minnesota,126
+Canby,Oregon,126
+Eden,North Carolina,126
+La Vergne,Tennessee,126
+Long Beach,New York,126
+Navarre,Florida,126
+New Milford,Connecticut,126
+New Smyrna Beach,Florida,126
+Pell City,Alabama,126
+Port Townsend,Washington,126
+Randolph,Massachusetts,126
+Asbury Park,New Jersey,125
+Belvidere,Illinois,125
+Elkin,North Carolina,125
+Gloucester,Virginia,125
+Grenada,Mississippi,125
+Maryland Heights,Missouri,125
+Mayfield,Kentucky,125
+Monroe,Washington,125
+Murphy,North Carolina,125
+Pulaski,Tennessee,125
+Studio City,California,125
+Tarboro,North Carolina,125
+Yorktown Heights,New York,125
+Aberdeen Proving Ground,Maryland,124
+Atascadero,California,124
+Braselton,Georgia,124
+Duncan,Oklahoma,124
+Granger,Indiana,124
+Havelock,North Carolina,124
+Largo,Maryland,124
+Martin,Tennessee,124
+Middleton,Wisconsin,124
+Nicholasville,Kentucky,124
+Pierre,South Dakota,124
+South Gate,California,124
+South Miami,Florida,124
+Spring Hill,Tennessee,124
+Tomah,Wisconsin,124
+West Babylon,New York,124
+West Bloomfield,Michigan,124
+Whiteville,North Carolina,124
+Alamosa,Colorado,123
+Barnstable,Massachusetts,123
+Berwick,Pennsylvania,123
+Buckeye,Arizona,123
+Euclid,Ohio,123
+Hampton,New Hampshire,123
+Hillsboro,Ohio,123
+Hopewell,Virginia,123
+Lilburn,Georgia,123
+North Myrtle Beach,South Carolina,123
+Potomac,Maryland,123
+Shippensburg,Pennsylvania,123
+Streamwood,Illinois,123
+Victor,New York,123
+Washington,Maryland,123
+Yorkville,Illinois,123
+Cocoa Beach,Florida,122
+Colorado City,Colorado,122
+Ferndale,Michigan,122
+Forest City,North Carolina,122
+Friendswood,Texas,122
+Midvale,Utah,122
+Milford,New Hampshire,122
+Naugatuck,Connecticut,122
+Newton,North Carolina,122
+Olney,Maryland,122
+Sturgis,Michigan,122
+Union City,Tennessee,122
+Winchester,Massachusetts,122
+Alexander City,Alabama,121
+Bainbridge,Georgia,121
+Brecksville,Ohio,121
+Chehalis,Washington,121
+Chelsea,Massachusetts,121
+Dade City,Florida,121
+Lowell,Arkansas,121
+McMinnville,Tennessee,121
+Montclair,California,121
+Oxford,Ohio,121
+Sebastian,Florida,121
+Thomaston,Georgia,121
+Arlington,Massachusetts,120
+Cambridge,Maryland,120
+Delhi,New York,120
+Franklin,Wisconsin,120
+Lehigh Acres,Florida,120
+Levittown,New York,120
+Medford,New York,120
+Morton,Illinois,120
+Newberry,South Carolina,120
+Peru,Indiana,120
+Richfield,Minnesota,120
+Scottsboro,Alabama,120
+Charles Town,West Virginia,119
+Dunwoody,Georgia,119
+Glen Cove,New York,119
+Liberal,Kansas,119
+Moore,Oklahoma,119
+Raeford,North Carolina,119
+Saint Peters,Missouri,119
+Wabash,Indiana,119
+Bastrop,Texas,118
+Brisbane,California,118
+Centralia,Illinois,118
+Denham Springs,Louisiana,118
+Goshen,New York,118
+Harvey,Illinois,118
+Johnston,Rhode Island,118
+Kilgore,Texas,118
+Marrero,Louisiana,118
+Nazareth,Pennsylvania,118
+New Hartford,New York,118
+New Holland,Pennsylvania,118
+Princeton,Indiana,118
+Spencer,Iowa,118
+Sylacauga,Alabama,118
+Vernon,Connecticut,118
+Waupaca,Wisconsin,118
+Westbrook,Maine,118
+Wheat Ridge,Colorado,118
+Winchester,Tennessee,118
+Ashland,Virginia,117
+Ashland,Wisconsin,117
+Batavia,Ohio,117
+Camden,Arkansas,117
+Cody,Wyoming,117
+Delano,California,117
+Fredericksburg,Texas,117
+Kings Mountain,North Carolina,117
+Lillington,North Carolina,117
+Milford,Ohio,117
+New Castle,Indiana,117
+Oceanside,New York,117
+Reading,Massachusetts,117
+Rye,New York,117
+Stafford,Texas,117
+Sunnyside,Washington,117
+Thief River Falls,Minnesota,117
+Urbana,Ohio,117
+Van Buren,Arkansas,117
+Villa Rica,Georgia,117
+Washington,Indiana,117
+Weehawken,New Jersey,117
+Williston,Vermont,117
+Bear,Delaware,116
+Breckenridge,Colorado,116
+Camden,South Carolina,116
+Clayton,Missouri,116
+Cottonwood,Arizona,116
+Fife,Washington,116
+Hillsdale,Michigan,116
+Marysville,California,116
+Ontario,Oregon,116
+Oxford,Michigan,116
+Prior Lake,Minnesota,116
+Reynoldsburg,Ohio,116
+Ridgefield Park,New Jersey,116
+Sault Sainte Marie,Michigan,116
+Sunbury,Pennsylvania,116
+Blue Ridge,Georgia,115
+Burley,Idaho,115
+Cornelius,North Carolina,115
+East Setauket,New York,115
+Eaton,Ohio,115
+Elkins,West Virginia,115
+Holly Springs,North Carolina,115
+Leesville,Louisiana,115
+Los Banos,California,115
+Mount Dora,Florida,115
+Platteville,Wisconsin,115
+Presque Isle,Maine,115
+Robbinsville,New Jersey,115
+Rowland Heights,California,115
+South Boston,Virginia,115
+Southbury,Connecticut,115
+West Hills,California,115
+West Memphis,Arkansas,115
+Catonsville,Maryland,114
+East Windsor,New Jersey,114
+Ennis,Texas,114
+Great Bend,Kansas,114
+Kyle,Texas,114
+Mt Clemens,Michigan,114
+New Paltz,New York,114
+Newport,Tennessee,114
+Rockford,Michigan,114
+Rockland,Maine,114
+Saugus,Massachusetts,114
+Shrewsbury,New Jersey,114
+Tarpon Springs,Florida,114
+Bluffton,Indiana,113
+Carmel,New York,113
+Clinton,New Jersey,113
+Cottage Grove,Minnesota,113
+Everett,Massachusetts,113
+Fairview Heights,Illinois,113
+Hatboro,Pennsylvania,113
+Hercules,California,113
+Huntington,Indiana,113
+King George,Virginia,113
+La Mesa,California,113
+Marianna,Florida,113
+Marlboro,New Jersey,113
+Maywood,Illinois,113
+Shelbyville,Kentucky,113
+Spanish Fork,Utah,113
+Talladega,Alabama,113
+Vernal,Utah,113
+Yucaipa,California,113
+Allegan,Michigan,112
+East Rutherford,New Jersey,112
+Fraser,Michigan,112
+Highland,Illinois,112
+Orange,Connecticut,112
+Royersford,Pennsylvania,112
+Scottsburg,Indiana,112
+Tooele,Utah,112
+Wayne,Michigan,112
+Yukon,Oklahoma,112
+Armonk,New York,111
+Inland Empire,California,111
+Pearl River,New York,111
+South Burlington,Vermont,111
+St. Peters,Missouri,111
+West Valley City,Utah,111
+Willingboro,New Jersey,111
+Beaumont,California,110
+Canton,Mississippi,110
+Darien,Connecticut,110
+Davison,Michigan,110
+Edgewood,Maryland,110
+Elizabethton,Tennessee,110
+Ellsworth,Maine,110
+Grafton,Wisconsin,110
+Lehigh Valley,Pennsylvania,110
+Middleburg Heights,Ohio,110
+Morton Grove,Illinois,110
+Peekskill,New York,110
+Pineville,Louisiana,110
+Scarsdale,New York,110
+Southbridge,Massachusetts,110
+Xenia,Ohio,110
+Avon Lake,Ohio,109
+Ballston Spa,New York,109
+Brevard,North Carolina,109
+Cambridge,Minnesota,109
+Carteret,New Jersey,109
+Clinton,Tennessee,109
+Collinsville,Illinois,109
+Connersville,Indiana,109
+East Liverpool,Ohio,109
+Germantown,Tennessee,109
+Livingston,Texas,109
+Lock Haven,Pennsylvania,109
+Monroe,Wisconsin,109
+Newburgh,Indiana,109
+North Miami,Florida,109
+Norton,Massachusetts,109
+Oxford,North Carolina,109
+Sanford,Maine,109
+Winfield,Illinois,109
+Amesbury,Massachusetts,108
+Andalusia,Alabama,108
+Angleton,Texas,108
+Bedford,Pennsylvania,108
+Boerne,Texas,108
+Denver,Pennsylvania,108
+Fuquay-Varina,North Carolina,108
+Laurens,South Carolina,108
+Matteson,Illinois,108
+Pelham,Alabama,108
+Roxboro,North Carolina,108
+South Holland,Illinois,108
+Southport,North Carolina,108
+Campbellsville,Kentucky,107
+Cedar Hill,Texas,107
+Clarks Summit,Pennsylvania,107
+Dyer,Indiana,107
+Flowery Branch,Georgia,107
+Honesdale,Pennsylvania,107
+Houston,Missouri,107
+Kendallville,Indiana,107
+Lewisburg,West Virginia,107
+Littleton,New Hampshire,107
+Moberly,Missouri,107
+Newport,Oregon,107
+Riverton,Wyoming,107
+Shawano,Wisconsin,107
+Webster,New York,107
+Willowbrook,Illinois,107
+Altus,Oklahoma,106
+Auburn,Indiana,106
+Brigham City,Utah,106
+Cape May Court House,New Jersey,106
+Chalfont,Pennsylvania,106
+Delavan,Wisconsin,106
+Desoto,Texas,106
+Fairhaven,Massachusetts,106
+Fairport,New York,106
+Napoleon,Ohio,106
+Shoreview,Minnesota,106
+Walled Lake,Michigan,106
+Allendale,New Jersey,105
+Bethel,Connecticut,105
+Bluefield,West Virginia,105
+Dacula,Georgia,105
+Dumfries,Virginia,105
+East Greenwich,Rhode Island,105
+East Hampton,New York,105
+Kingsland,Georgia,105
+Linthicum,Maryland,105
+Marion,Virginia,105
+Middlesex,New Jersey,105
+Mocksville,North Carolina,105
+Monett,Missouri,105
+Nantucket,Massachusetts,105
+Ottawa,Kansas,105
+Purcellville,Virginia,105
+Rhinebeck,New York,105
+River Falls,Wisconsin,105
+Rockland,Massachusetts,105
+San Gabriel,California,105
+The Colony,Texas,105
+Watertown,Connecticut,105
+Windsor,Colorado,105
+Worthington,Minnesota,105
+Arkansas City,Arkansas,104
+Berea,Kentucky,104
+Borger,Texas,104
+Carroll,Iowa,104
+Dunkirk,New York,104
+Greencastle,Indiana,104
+Hanover Park,Illinois,104
+Jacksonville Beach,Florida,104
+Juno Beach,Florida,104
+Lakewood,Ohio,104
+Midlothian,Texas,104
+Brookfield,Connecticut,103
+Carmichael,California,103
+Charleston,Illinois,103
+East Peoria,Illinois,103
+Galax,Virginia,103
+Grinnell,Iowa,103
+Grosse Pointe,Michigan,103
+Highland,California,103
+Hiram,Georgia,103
+Lincoln,California,103
+Loveland,Ohio,103
+Maysville,Kentucky,103
+Milwaukie,Oregon,103
+Old Saybrook,Connecticut,103
+Oskaloosa,Iowa,103
+Sidney,Nebraska,103
+South Haven,Michigan,103
+Sylva,North Carolina,103
+Washington Court House,Ohio,103
+Antigo,Wisconsin,102
+Ayer,Massachusetts,102
+Corydon,Indiana,102
+Fulton,Missouri,102
+Georgetown,Delaware,102
+Great Barrington,Massachusetts,102
+Hillsborough,North Carolina,102
+Millersville,Maryland,102
+Mission Hills,California,102
+Niles,Ohio,102
+West Caldwell,New Jersey,102
+Bainbridge Island,Washington,101
+Berea,Ohio,101
+Carthage,Missouri,101
+Cinnaminson,New Jersey,101
+Coventry,Rhode Island,101
+Decorah,Iowa,101
+Englewood,Florida,101
+Frankfort,Indiana,101
+Hawthorne,New York,101
+Hooksett,New Hampshire,101
+Maryville,Missouri,101
+New Philadelphia,Pennsylvania,101
+Palmetto,Florida,101
+Parsons,Kansas,101
+Roselle,Illinois,101
+Saco,Maine,101
+Santee,California,101
+Springboro,Ohio,101
+Stoneham,Massachusetts,101
+Arnold,Missouri,100
+Atlanta,Texas,100
+Batesville,Mississippi,100
+Belleville,New Jersey,100
+Brownsburg,Indiana,100
+Commerce,Georgia,100
+Creve Coeur,Missouri,100
+Dracut,Massachusetts,100
+Forest Park,Georgia,100
+Forney,Texas,100
+Harker Heights,Texas,100
+Hazelwood,Missouri,100
+Inver Grove Heights,Minnesota,100
+Mashpee,Massachusetts,100
+Monticello,Arkansas,100
+Northfield,Illinois,100
+Oakdale,Minnesota,100
+Pickerington,Ohio,100
+Riverdale,Georgia,100
+Riverton,Utah,100
+St. Clairsville,Ohio,100
+Winfield,Kansas,100
+Woodburn,Oregon,100
+Avon,Colorado,99
+Beaver Falls,Pennsylvania,99
+Belfast,Maine,99
+Bristol,Rhode Island,99
+Bucyrus,Ohio,99
+Clearfield,Pennsylvania,99
+Cleveland Heights,Ohio,99
+Eglin AFB,Florida,99
+Fallbrook,California,99
+Key Largo,Florida,99
+Lathrop,California,99
+Lebanon,Indiana,99
+Lewisburg,Tennessee,99
+Maple Shade,New Jersey,99
+Melrose,Massachusetts,99
+Merrill,Wisconsin,99
+Millsboro,Delaware,99
+Monticello,New York,99
+Onalaska,Wisconsin,99
+Palm City,Florida,99
+Peterborough,New Hampshire,99
+Portage,Wisconsin,99
+Waconia,Minnesota,99
+York,Maine,99
+Adelanto,California,98
+Babylon,New York,98
+Bar Harbor,Maine,98
+Cathedral City,California,98
+Eustis,Florida,98
+Fallon,Nevada,98
+Haddonfield,New Jersey,98
+Ketchikan,Alaska,98
+Las Vegas,New Mexico,98
+Magnolia,Texas,98
+Montville,New Jersey,98
+Newport,Kentucky,98
+Sicklerville,New Jersey,98
+St Johnsbury,Vermont,98
+Wethersfield,Connecticut,98
+Winter Springs,Florida,98
+Charlotte,Michigan,97
+Chickasha,Oklahoma,97
+Fremont,Michigan,97
+Linthicum Heights,Maryland,97
+Manasquan,New Jersey,97
+Middletown,Pennsylvania,97
+Mineral Wells,Texas,97
+New Canaan,Connecticut,97
+New London,New Hampshire,97
+Perryville,Missouri,97
+Roslyn,New York,97
+Shoreline,Washington,97
+Union,Missouri,97
+Waynesboro,Pennsylvania,97
+Arkadelphia,Arkansas,96
+Avenel,New Jersey,96
+Boonton,New Jersey,96
+Burke,Virginia,96
+Decatur,Texas,96
+Hanover,Massachusetts,96
+Jenkintown,Pennsylvania,96
+Muskego,Wisconsin,96
+North Adams,Massachusetts,96
+Prestonsburg,Kentucky,96
+Reedsburg,Wisconsin,96
+Sausalito,California,96
+Shepherdsville,Kentucky,96
+Suitland,Maryland,96
+Waverly,Iowa,96
+Webster,Massachusetts,96
+Belmont,Massachusetts,95
+Berlin,Maryland,95
+Boyertown,Pennsylvania,95
+Brooklyn Center,Minnesota,95
+Davidson,North Carolina,95
+Dayton,Tennessee,95
+Fayetteville,Tennessee,95
+Fort Morgan,Colorado,95
+Kingsville,Texas,95
+Lockport,Illinois,95
+Lutz,Florida,95
+Millersburg,Ohio,95
+Montgomery,Texas,95
+Montgomeryville,Pennsylvania,95
+National City,California,95
+New Richmond,Wisconsin,95
+Newton,Iowa,95
+Omak,Washington,95
+Paris,Illinois,95
+Ringgold,Georgia,95
+Rowlett,Texas,95
+Waynesboro,Georgia,95
+Wayzata,Minnesota,95
+Zachary,Louisiana,95
+Blue Ash,Ohio,94
+Commerce City,Colorado,94
+Dahlonega,Georgia,94
+East Moline,Illinois,94
+Ferndale,Washington,94
+Harrison,New York,94
+Havertown,Pennsylvania,94
+Holtsville,New York,94
+Huntingdon,Pennsylvania,94
+Leander,Texas,94
+Menasha,Wisconsin,94
+Monsey,New York,94
+Oakdale,California,94
+Southampton,Pennsylvania,94
+Whitehall,Pennsylvania,94
+Auburndale,Florida,93
+Blackfoot,Idaho,93
+Bordentown,New Jersey,93
+Chagrin Falls,Ohio,93
+Cortez,Colorado,93
+Durham,New Hampshire,93
+Easton,Massachusetts,93
+Fairmont,Minnesota,93
+Fort Knox,Kentucky,93
+Galion,Ohio,93
+Garfield,New Jersey,93
+Kennebunk,Maine,93
+Lawrenceburg,Tennessee,93
+Live Oak,Florida,93
+Lynden,Washington,93
+Midwest City,Oklahoma,93
+Rensselaer,Indiana,93
+Turnersville,New Jersey,93
+Wauconda,Illinois,93
+Cabot,Arkansas,92
+Columbia City,Indiana,92
+Deridder,Louisiana,92
+Florida City,Florida,92
+Islip,New York,92
+Mill Creek,Washington,92
+Mount Sterling,Kentucky,92
+Niskayuna,New York,92
+Oak Park,Michigan,92
+Saratoga,California,92
+Seabrook,New Hampshire,92
+Sellersville,Pennsylvania,92
+Severna Park,Maryland,92
+South Boston,Massachusetts,92
+Sparks,Maryland,92
+Sudbury,Massachusetts,92
+Vandalia,Ohio,92
+Wakefield,Rhode Island,92
+Atmore,Alabama,91
+Corte Madera,California,91
+East Longmeadow,Massachusetts,91
+Lehighton,Pennsylvania,91
+Mystic,Connecticut,91
+Pembroke,Massachusetts,91
+Port Chester,New York,91
+Price,Utah,91
+Radcliff,Kentucky,91
+Sioux Center,Iowa,91
+Soldotna,Alaska,91
+Stuttgart,Arkansas,91
+Sun City,Arizona,91
+Troy,Missouri,91
+West Warwick,Rhode Island,91
+Wylie,Texas,91
+Archbold,Ohio,90
+Baxley,Georgia,90
+Broussard,Louisiana,90
+Clarksdale,Mississippi,90
+College Park,Georgia,90
+Essex Junction,Vermont,90
+Estes Park,Colorado,90
+Grandville,Michigan,90
+Gretna,Louisiana,90
+Hayden,Idaho,90
+Kaneohe,Hawaii,90
+Lithia Springs,Georgia,90
+Maple Valley,Washington,90
+Nogales,Arizona,90
+North Salt Lake,Utah,90
+Powder Springs,Georgia,90
+Ramsey,Minnesota,90
+Scott AFB,Illinois,90
+Spearfish,South Dakota,90
+Spirit Lake,Iowa,90
+Union City,New Jersey,90
+Verona,Wisconsin,90
+Waynesburg,Pennsylvania,90
+Whitefish,Montana,90
+Zionsville,Indiana,90
+Colleyville,Texas,89
+Holliston,Massachusetts,89
+Limerick,Pennsylvania,89
+Silver City,New Mexico,89
+Wapakoneta,Ohio,89
+West Point,Georgia,89
+Flanders,New Jersey,88
+Hayward,Wisconsin,88
+Hudsonville,Michigan,88
+Irmo,South Carolina,88
+Lynwood,California,88
+Malone,New York,88
+Mojave,California,88
+Oakland,Maryland,88
+Oakland,New Jersey,88
+Owego,New York,88
+Ponte Vedra Beach,Florida,88
+Pontiac,Illinois,88
+Richfield,Ohio,88
+Ridley Park,Pennsylvania,88
+Rutherfordton,North Carolina,88
+Sellersburg,Indiana,88
+Swiftwater,Pennsylvania,88
+Tallmadge,Ohio,88
+West Branch,Michigan,88
+Willimantic,Connecticut,88
+Belton,Missouri,87
+Canfield,Ohio,87
+Chadds Ford,Pennsylvania,87
+Coffeyville,Kansas,87
+Fairburn,Georgia,87
+Harrisburg,Illinois,87
+Harvey,Louisiana,87
+Hermitage,Tennessee,87
+Hope,Arkansas,87
+Indian Trail,North Carolina,87
+Kingston,Pennsylvania,87
+LaPlace,Louisiana,87
+Lynbrook,New York,87
+Magnolia,Arkansas,87
+Massena,New York,87
+Monroe Township,New Jersey,87
+University Park,Illinois,87
+Windsor,California,87
+Antioch,Illinois,86
+Ardmore,Pennsylvania,86
+Cheektowaga,New York,86
+Easthampton,Massachusetts,86
+Fairlawn,Ohio,86
+Gatlinburg,Tennessee,86
+Haines City,Florida,86
+Hillside,Illinois,86
+La Palma,California,86
+Little Falls,New Jersey,86
+Macedonia,Ohio,86
+Neosho,Missouri,86
+North Conway,New Hampshire,86
+Ohio City,Ohio,86
+Pahrump,Nevada,86
+Picayune,Mississippi,86
+Plymouth,Wisconsin,86
+Sandwich,Massachusetts,86
+Snoqualmie,Washington,86
+Sparta,Wisconsin,86
+Telford,Pennsylvania,86
+Uvalde,Texas,86
+Beeville,Texas,85
+Bellingham,Massachusetts,85
+Central Islip,New York,85
+Conover,North Carolina,85
+Crane,Indiana,85
+Fishersville,Virginia,85
+Franklin,Pennsylvania,85
+Gloversville,New York,85
+Henderson,Texas,85
+La Grande,Oregon,85
+Lakeport,California,85
+Lebanon,Virginia,85
+Mission,Kansas,85
+Monmouth Junction,New Jersey,85
+Oaks,Pennsylvania,85
+Pearl,Mississippi,85
+Signal Hill,California,85
+Spring Lake,Michigan,85
+Swainsboro,Georgia,85
+Swansea,Massachusetts,85
+Thomson,Georgia,85
+Andover,Minnesota,84
+Bolivar,Missouri,84
+Cromwell,Connecticut,84
+Ellijay,Georgia,84
+Guntersville,Alabama,84
+Havre,Montana,84
+Hornell,New York,84
+Kittanning,Pennsylvania,84
+Manistee,Michigan,84
+Newark,New York,84
+North Wilkesboro,North Carolina,84
+Pembroke,North Carolina,84
+Powell,Ohio,84
+Rensselaer,New York,84
+Savannah,Tennessee,84
+Sayreville,New Jersey,84
+Severn,Maryland,84
+Smithfield,Virginia,84
+South Hill,Virginia,84
+Sterling,Colorado,84
+Stowe,Vermont,84
+Trevose,Pennsylvania,84
+Warwick,New York,84
+Yucca Valley,California,84
+Aberdeen,North Carolina,83
+Bellmawr,New Jersey,83
+Calexico,California,83
+Chester,New York,83
+Dublin,Virginia,83
+Hacienda Heights,California,83
+Ionia,Michigan,83
+Kentwood,Michigan,83
+Madison,Georgia,83
+Ossining,New York,83
+Paradise,California,83
+Plymouth,New Hampshire,83
+Rifle,Colorado,83
+Russellville,Kentucky,83
+Schertz,Texas,83
+Somersworth,New Hampshire,83
+West Islip,New York,83
+Arcadia,Florida,82
+Burien,Washington,82
+Clanton,Alabama,82
+Decatur,Indiana,82
+Deming,New Mexico,82
+Graham,North Carolina,82
+Grandview,Missouri,82
+Hawthorne,New Jersey,82
+Jefferson,Georgia,82
+Lake Bluff,Illinois,82
+Lansing,Illinois,82
+Marshall,Missouri,82
+Metuchen,New Jersey,82
+Mexico,Missouri,82
+Pikesville,Maryland,82
+Revere,Massachusetts,82
+Romeo,Michigan,82
+Shallotte,North Carolina,82
+West Fargo,North Dakota,82
+Atwater,California,81
+Bartlett,Tennessee,81
+Bridgeton,Missouri,81
+Buda,Texas,81
+Copperas Cove,Texas,81
+Del Mar,California,81
+Duncanville,Texas,81
+Edgewood,Kentucky,81
+Goodlettsville,Tennessee,81
+Hazlet,New Jersey,81
+Johnston,Iowa,81
+Mount Pocono,Pennsylvania,81
+Olney,Illinois,81
+Radnor,Pennsylvania,81
+Safford,Arizona,81
+Seaside,California,81
+Shirley,New York,81
+Sykesville,Maryland,81
+Waipahu,Hawaii,81
+White Lake,Michigan,81
+Ahoskie,North Carolina,80
+Arab,Alabama,80
+Beacon,New York,80
+Bedford,Ohio,80
+Chelsea,Michigan,80
+Colchester,Vermont,80
+Cornelia,Georgia,80
+Elk City,Oklahoma,80
+Groveport,Ohio,80
+Hamilton,Montana,80
+Havre de Grace,Maryland,80
+Johnstown,New York,80
+Kenai,Alaska,80
+Kensington,Maryland,80
+Keokuk,Iowa,80
+Kingstree,South Carolina,80
+Merrick,New York,80
+Morgantown,Pennsylvania,80
+Nevada,Missouri,80
+Ontario,New York,80
+Papillion,Nebraska,80
+Plover,Wisconsin,80
+Reedley,California,80
+Seekonk,Massachusetts,80
+Sullivan,Missouri,80
+Twentynine Palms,California,80
+Union,South Carolina,80
+Uniontown,Ohio,80
+Upper Darby,Pennsylvania,80
+Villa Park,Illinois,80
+West Pensacola,Florida,80
+York,Nebraska,80
+York,South Carolina,80
+Aliquippa,Pennsylvania,79
+Amherst,Ohio,79
+Bourne,Massachusetts,79
+Brawley,California,79
+Buckhannon,West Virginia,79
+Budd Lake,New Jersey,79
+Denver,North Carolina,79
+Edgewater,Florida,79
+Franklin,Kentucky,79
+Granada Hills,California,79
+Greenville,Michigan,79
+Harrisonville,Missouri,79
+Le Mars,Iowa,79
+Logan,West Virginia,79
+Ocean City,New Jersey,79
+Oregon,Ohio,79
+Pine Brook,New Jersey,79
+Ripon,Wisconsin,79
+Rosemount,Minnesota,79
+Seneca Falls,New York,79
+Yreka,California,79
+Alachua,Florida,78
+Bingham Farms,Michigan,78
+Buckhead,Georgia,78
+Chanute,Kansas,78
+Charlevoix,Michigan,78
+Covington,Tennessee,78
+Little Falls,Minnesota,78
+Manning,South Carolina,78
+Monticello,Indiana,78
+Moonachie,New Jersey,78
+Murrells Inlet,South Carolina,78
+Nederland,Texas,78
+North Billerica,Massachusetts,78
+Pinole,California,78
+Rocky Mount,Virginia,78
+Somers Point,New Jersey,78
+Westwood,New Jersey,78
+Abingdon,Maryland,77
+Algona,Iowa,77
+Antioch,Tennessee,77
+Belmar,New Jersey,77
+Boaz,Alabama,77
+Center Valley,Pennsylvania,77
+Emmaus,Pennsylvania,77
+Fairless Hills,Pennsylvania,77
+Forest Grove,Oregon,77
+Greenville,Pennsylvania,77
+Harrison,Ohio,77
+Jefferson City,Tennessee,77
+Leitchfield,Kentucky,77
+Lincoln,Illinois,77
+Mooresville,Indiana,77
+Morrisville,Pennsylvania,77
+North Reading,Massachusetts,77
+North Vernon,Indiana,77
+Perkasie,Pennsylvania,77
+Plaquemine,Louisiana,77
+Richlands,Virginia,77
+Scotch Plains,New Jersey,77
+Storm Lake,Iowa,77
+Summersville,West Virginia,77
+Tillamook,Oregon,77
+Tumwater,Washington,77
+Uncasville,Connecticut,77
+Wauseon,Ohio,77
+Wellsville,New York,77
+Amherst,New Hampshire,76
+Bluefield,Virginia,76
+Brockport,New York,76
+Carpentersville,Illinois,76
+Cloquet,Minnesota,76
+Coachella,California,76
+Colville,Washington,76
+Dallas,Pennsylvania,76
+Darlington,South Carolina,76
+Eatonton,Georgia,76
+Fountain Inn,South Carolina,76
+Garden City,Michigan,76
+Hastings,Michigan,76
+Irvington,New Jersey,76
+Landover Hills,Maryland,76
+Lodi,New Jersey,76
+Lumberton,New Jersey,76
+Manheim,Pennsylvania,76
+Mendota Heights,Minnesota,76
+Milton,Massachusetts,76
+Newport,Vermont,76
+Ogdensburg,New York,76
+Payson,Arizona,76
+Port Washington,Wisconsin,76
+Princeton,Illinois,76
+Ripon,California,76
+Sherwood,Oregon,76
+Tehachapi,California,76
+Alice,Texas,75
+Bedford Park,Illinois,75
+Cedarburg,Wisconsin,75
+Chatham,New Jersey,75
+Dodgeville,Wisconsin,75
+Fitzgerald,Georgia,75
+Grove,Oklahoma,75
+Hamilton,New York,75
+Jacksonville,Arkansas,75
+Jensen Beach,Florida,75
+Lancaster,New York,75
+Los Lunas,New Mexico,75
+Maplewood,New Jersey,75
+Millington,Tennessee,75
+Monroe,Connecticut,75
+New Baltimore,Michigan,75
+New Brighton,Minnesota,75
+North Ridgeville,Ohio,75
+Orange City,Iowa,75
+Oxford,Pennsylvania,75
+Port Jervis,New York,75
+Portland,Indiana,75
+Sandersville,Georgia,75
+South Elgin,Illinois,75
+Trussville,Alabama,75
+White River Junction,Vermont,75
+Atchison,Kansas,74
+California,Pennsylvania,74
+Canton,New York,74
+Clarksville,Arkansas,74
+Dinuba,California,74
+Gonzales,Texas,74
+Hamburg,Pennsylvania,74
+Hixson,Tennessee,74
+Kittery,Maine,74
+Loves Park,Illinois,74
+Lynnfield,Massachusetts,74
+Mableton,Georgia,74
+McKeesport,Pennsylvania,74
+Middleburg,Florida,74
+Milford,Pennsylvania,74
+Morris,Minnesota,74
+Northlake,Illinois,74
+Pampa,Texas,74
+Pratt,Kansas,74
+Richmond Hill,Georgia,74
+Roanoke,Texas,74
+Rochelle Park,New Jersey,74
+Rochelle,Illinois,74
+Roy,Utah,74
+Smyrna,Delaware,74
+Beatrice,Nebraska,73
+Bellevue,Ohio,73
+Centereach,New York,73
+Ceres,California,73
+Cheraw,South Carolina,73
+Cherokee,North Carolina,73
+Clarkston,Washington,73
+Darien,Illinois,73
+Farmers Branch,Texas,73
+Fort Madison,Iowa,73
+Fulton,Maryland,73
+Hermosa Beach,California,73
+Hopewell Junction,New York,73
+Huntingdon Valley,Pennsylvania,73
+Hurricane,West Virginia,73
+Jacksonville,Texas,73
+Lake Stevens,Washington,73
+Lewis Center,Ohio,73
+Loudon,Tennessee,73
+Madison,Connecticut,73
+Okmulgee,Oklahoma,73
+Oxford,Massachusetts,73
+Pulaski,Virginia,73
+Rocky River,Ohio,73
+Saranac Lake,New York,73
+Sedro-Woolley,Washington,73
+Sherwood,Arkansas,73
+Sparta,Tennessee,73
+Stennis Space Center,Mississippi,73
+Takoma Park,Maryland,73
+Telluride,Colorado,73
+Tipp City,Ohio,73
+Towanda,Pennsylvania,73
+Wyckoff,New Jersey,73
+Bad Axe,Michigan,72
+Banning,California,72
+Cedartown,Georgia,72
+Champlin,Minnesota,72
+Crescent City,California,72
+Dupont,Washington,72
+El Dorado,Kansas,72
+Evergreen,Colorado,72
+Fostoria,Ohio,72
+Grovetown,Georgia,72
+Hasbrouck Heights,New Jersey,72
+Independence,Kentucky,72
+Kaysville,Utah,72
+Ketchum,Idaho,72
+Kutztown,Pennsylvania,72
+Lenoir City,Tennessee,72
+Maricopa,Arizona,72
+Middlebury,Indiana,72
+Morrisville,Vermont,72
+Mukwonago,Wisconsin,72
+Mullica Hill,New Jersey,72
+North Lauderdale,Florida,72
+Northport,New York,72
+Penn Yan,New York,72
+Riviera Beach,Florida,72
+Rockleigh,New Jersey,72
+Saint Clair Shores,Michigan,72
+Seymour,Connecticut,72
+Somers,New York,72
+American Canyon,California,71
+Bellefonte,Pennsylvania,71
+Bergenfield,New Jersey,71
+Bridgeview,Illinois,71
+Brighton,Massachusetts,71
+Caldwell,New Jersey,71
+Cleveland,Texas,71
+Coronado,California,71
+Dobbs Ferry,New York,71
+East Wenatchee,Washington,71
+Farmington,Maine,71
+Freeport,Maine,71
+Gatesville,Texas,71
+Ironton,Ohio,71
+Jackson,Ohio,71
+Kaukauna,Wisconsin,71
+Kennett,Missouri,71
+La Porte,Indiana,71
+Little Canada,Minnesota,71
+Ludlow,Massachusetts,71
+Middlebury,Connecticut,71
+Middlefield,Ohio,71
+Minden,Louisiana,71
+North Miami Beach,Florida,71
+North Royalton,Ohio,71
+Northvale,New Jersey,71
+Plaistow,New Hampshire,71
+Prosser,Washington,71
+Russellville,Alabama,71
+Upper Sandusky,Ohio,71
+Wantagh,New York,71
+Waseca,Minnesota,71
+Woodward,Oklahoma,71
+Bishop,California,70
+Burnet,Texas,70
+Clemmons,North Carolina,70
+Connellsville,Pennsylvania,70
+Conway,New Hampshire,70
+Drexel Hill,Pennsylvania,70
+Elmont,New York,70
+Eufaula,Alabama,70
+Frisco,Colorado,70
+Jasper,Texas,70
+Kelso,Washington,70
+Lebanon,Kentucky,70
+Marion,Iowa,70
+Martinsville,Indiana,70
+Mount Airy,Maryland,70
+Mountlake Terrace,Washington,70
+Nashville,Illinois,70
+New Hope,Pennsylvania,70
+Northglenn,Colorado,70
+Nottingham,Maryland,70
+Orange Beach,Alabama,70
+Sturbridge,Massachusetts,70
+Audubon,Pennsylvania,69
+Belcamp,Maryland,69
+Blue Island,Illinois,69
+Calumet City,Illinois,69
+Dorchester,Massachusetts,69
+Dowagiac,Michigan,69
+Eastlake,Ohio,69
+Enumclaw,Washington,69
+Evanston,Wyoming,69
+Franklin,Virginia,69
+Gardner,Kansas,69
+Half Moon Bay,California,69
+Holland,Ohio,69
+Lancaster,Texas,69
+Malvern,Arkansas,69
+Marksville,Louisiana,69
+Medford,Wisconsin,69
+Palmer,Massachusetts,69
+Payson,Utah,69
+Pendergrass,Georgia,69
+Prince George,Virginia,69
+Rogersville,Tennessee,69
+Saint Marys,Pennsylvania,69
+Sitka,Alaska,69
+Solana Beach,California,69
+Spotsylvania,Virginia,69
+Uxbridge,Massachusetts,69
+Weatherford,Oklahoma,69
+West Linn,Oregon,69
+Worthington,Ohio,69
+Arden Hills,Minnesota,68
+Bedford,Virginia,68
+Bellmore,New York,68
+Boxborough,Massachusetts,68
+Capitol Heights,Maryland,68
+Chillicothe,Missouri,68
+Dexter,Missouri,68
+Dixon,California,68
+Earth City,Missouri,68
+Eastman,Georgia,68
+Edgewater,New Jersey,68
+Florence,Arizona,68
+Florida,New York,68
+Holly,Michigan,68
+Jerome,Idaho,68
+Kingston,Massachusetts,68
+Leland,North Carolina,68
+Lusby,Maryland,68
+Marshfield,Massachusetts,68
+New Bremen,Ohio,68
+North Hills,California,68
+Northport,Alabama,68
+Ojai,California,68
+Ottawa,Ohio,68
+Pittsford,New York,68
+Port Clinton,Ohio,68
+Sartell,Minnesota,68
+Selma,California,68
+Tunkhannock,Pennsylvania,68
+Union City,Georgia,68
+Versailles,Kentucky,68
+West Grove,Pennsylvania,68
+Wildomar,California,68
+Wise,Virginia,68
+Belmont,North Carolina,67
+Broadview,Illinois,67
+Clinton,Massachusetts,67
+Covington,Virginia,67
+Derby,Connecticut,67
+Griffith,Indiana,67
+Hadley,Massachusetts,67
+Harrodsburg,Kentucky,67
+Haymarket,Virginia,67
+Huron,South Dakota,67
+Lexington,Tennessee,67
+Marysville,Michigan,67
+Maryville,Illinois,67
+Mililani,Hawaii,67
+New Hope,Minnesota,67
+North Tonawanda,New York,67
+Oxford,Connecticut,67
+Palmer,Alaska,67
+Perham,Minnesota,67
+Pryor,Oklahoma,67
+Rincon,Georgia,67
+Robinson,Illinois,67
+Shelby,Michigan,67
+Starke,Florida,67
+Tolland,Connecticut,67
+Vermilion,Ohio,67
+Williamstown,Massachusetts,67
+Woodland,Washington,67
+Wrentham,Massachusetts,67
+Apache Junction,Arizona,66
+Big Bear Lake,California,66
+Boone,Iowa,66
+Chester,South Carolina,66
+Clare,Michigan,66
+Clayton,Georgia,66
+Colchester,Connecticut,66
+East Elmhurst,New York,66
+Glenside,Pennsylvania,66
+Greenfield,Wisconsin,66
+Kodiak,Alaska,66
+La Grange,Texas,66
+Laughlin,Nevada,66
+Lincoln Park,Michigan,66
+Macungie,Pennsylvania,66
+Minden,Nevada,66
+Piketon,Ohio,66
+Pleasantville,New York,66
+Princeton,Minnesota,66
+Saugerties,New York,66
+Snyder,Texas,66
+South Lyon,Michigan,66
+Wellsboro,Pennsylvania,66
+Absecon,New Jersey,65
+Arcadia,Wisconsin,65
+Arden,North Carolina,65
+Bennettsville,South Carolina,65
+Bonney Lake,Washington,65
+Camp Lejeune,North Carolina,65
+Chalmette,Louisiana,65
+Channelview,Texas,65
+Chester,New Jersey,65
+Delta,Colorado,65
+Ellenwood,Georgia,65
+Fort Polk,Louisiana,65
+Fulton,New York,65
+Gahanna,Ohio,65
+Hereford,Texas,65
+Hillside,New Jersey,65
+Huber Heights,Ohio,65
+Larkspur,California,65
+Manchester,Vermont,65
+Moab,Utah,65
+Moon,Pennsylvania,65
+Mountainside,New Jersey,65
+Reisterstown,Maryland,65
+Selden,New York,65
+Sheboygan Falls,Wisconsin,65
+Stratham,New Hampshire,65
+Tolleson,Arizona,65
+Wauchula,Florida,65
+Wolfeboro,New Hampshire,65
+Arnold,Maryland,64
+Avon Park,Florida,64
+Brazil,Indiana,64
+Bristow,Virginia,64
+Carle Place,New York,64
+Cheboygan,Michigan,64
+Coram,New York,64
+Devils Lake,North Dakota,64
+Fair Oaks,California,64
+Forest,Virginia,64
+Green Valley,Arizona,64
+Hallandale,Florida,64
+Independence,Kansas,64
+Kill Devil Hills,North Carolina,64
+Lake in the HIlls,Illinois,64
+Litchfield,Minnesota,64
+Little Elm,Texas,64
+Marathon,Florida,64
+Mercer Island,Washington,64
+Minocqua,Wisconsin,64
+Nixa,Missouri,64
+Ooltewah,Tennessee,64
+Pawleys Island,South Carolina,64
+Plainview,Texas,64
+Punxsutawney,Pennsylvania,64
+Rancho Palos Verdes,California,64
+Rawlins,Wyoming,64
+Salida,Colorado,64
+Sammamish,Washington,64
+Seaside,Oregon,64
+Taylorville,Illinois,64
+Tilton,New Hampshire,64
+Valrico,Florida,64
+Weston,Massachusetts,64
+Woodhaven,Michigan,64
+Abbeville,Louisiana,63
+Azle,Texas,63
+Battle Ground,Washington,63
+Bryant,Arkansas,63
+Clarksburg,Maryland,63
+Cleveland,Georgia,63
+Collingswood,New Jersey,63
+Dania Beach,Florida,63
+Espanola,New Mexico,63
+Fort Bragg,California,63
+Fort Valley,Georgia,63
+Fort Washington,Maryland,63
+Geismar,Louisiana,63
+Glen Rock,New Jersey,63
+Guymon,Oklahoma,63
+Herkimer,New York,63
+Ladson,South Carolina,63
+Lavonia,Georgia,63
+Manteno,Illinois,63
+Nevada City,California,63
+New Albany,Mississippi,63
+Ocoee,Florida,63
+Patterson,California,63
+Pennsburg,Pennsylvania,63
+Perry,Florida,63
+Riverwoods,Illinois,63
+Sayville,New York,63
+Taylor,Texas,63
+Taylorsville,North Carolina,63
+Tell City,Indiana,63
+Wahpeton,North Dakota,63
+West Bridgewater,Massachusetts,63
+Wickliffe,Ohio,63
+Aiea,Hawaii,62
+Bath,New York,62
+Bayville,New Jersey,62
+Bell,California,62
+Camdenton,Missouri,62
+Carthage,Texas,62
+Catskill,New York,62
+Chicago Ridge,Illinois,62
+Chipley,Florida,62
+Clewiston,Florida,62
+Crete,Illinois,62
+DeBary,Florida,62
+Falmouth,Maine,62
+Flat Rock,Michigan,62
+Fort Drum,New York,62
+Hazel Crest,Illinois,62
+Heber Springs,Arkansas,62
+Johnson City,New York,62
+Kaufman,Texas,62
+Kenton,Ohio,62
+Lake Placid,New York,62
+Lakeville,Massachusetts,62
+Logan,Ohio,62
+Mamaroneck,New York,62
+Mandan,North Dakota,62
+Maumelle,Arkansas,62
+Nags Head,North Carolina,62
+New Hudson,Michigan,62
+North Aurora,Illinois,62
+Parkville,Maryland,62
+Piedmont,South Carolina,62
+Pittsboro,North Carolina,62
+Port Lavaca,Texas,62
+Sharon,Massachusetts,62
+Spanaway,Washington,62
+Wilbraham,Massachusetts,62
+Wilmette,Illinois,62
+Clinton,Missouri,61
+Clover,South Carolina,61
+Clyde,Ohio,61
+Columbia,Mississippi,61
+Coraopolis,Pennsylvania,61
+Douglassville,Pennsylvania,61
+Forest,Mississippi,61
+Forsyth,Georgia,61
+Graham,Texas,61
+Greensboro,Georgia,61
+Hartwell,Georgia,61
+Kewanee,Illinois,61
+Kitty Hawk,North Carolina,61
+La Junta,Colorado,61
+Litchfield,Illinois,61
+Livingston,Montana,61
+Luling,Louisiana,61
+Merriam,Kansas,61
+Montevideo,Minnesota,61
+North Fort Myers,Florida,61
+Oberlin,Ohio,61
+Osceola,Arkansas,61
+Polson,Montana,61
+Santa Paula,California,61
+Stevensville,Michigan,61
+Waxhaw,North Carolina,61
+White Marsh,Maryland,61
+Williamston,North Carolina,61
+Ashland,Massachusetts,60
+Baldwin,New York,60
+Brookings,Oregon,60
+Cairo,Georgia,60
+Caribou,Maine,60
+Casselberry,Florida,60
+Charlton,Massachusetts,60
+Clearlake,California,60
+Douglas,Arizona,60
+Eldersburg,Maryland,60
+Eunice,Louisiana,60
+Flora,Illinois,60
+Franklin,Ohio,60
+Geneseo,Illinois,60
+Herrin,Illinois,60
+Hightstown,New Jersey,60
+Holiday,Florida,60
+Iowa Falls,Iowa,60
+Jacksonville,Alabama,60
+Jefferson,Wisconsin,60
+Liberty Lake,Washington,60
+Milton,Pennsylvania,60
+New Oxford,Pennsylvania,60
+Paulsboro,New Jersey,60
+Pearl City,Hawaii,60
+Philipsburg,Pennsylvania,60
+Pocahontas,Arkansas,60
+Point Pleasant,New Jersey,60
+Portsmouth,Rhode Island,60
+Sapulpa,Oklahoma,60
+Schiller Park,Illinois,60
+Seminole,Oklahoma,60
+Susanville,California,60
+Waverly,Ohio,60
+Winsted,Connecticut,60
+Alcoa,Tennessee,59
+Athol,Massachusetts,59
+Bay Minette,Alabama,59
+Berlin,New Hampshire,59
+Bogalusa,Louisiana,59
+Chatsworth,Georgia,59
+Dalhart,Texas,59
+Elberton,Georgia,59
+Farmington,Minnesota,59
+Geneva,Ohio,59
+Greencastle,Pennsylvania,59
+Hollywood,Maryland,59
+Louisburg,North Carolina,59
+Melbourne Beach,Florida,59
+Monroeville,Alabama,59
+Muncy,Pennsylvania,59
+New Kensington,Pennsylvania,59
+Orange,Virginia,59
+Palmyra,Pennsylvania,59
+Pecos,Texas,59
+Pismo Beach,California,59
+Salem,Illinois,59
+Sewickley,Pennsylvania,59
+Shaker Heights,Ohio,59
+Spring Grove,Illinois,59
+Stanton,California,59
+Stevensville,Maryland,59
+Vance,Alabama,59
+Winnemucca,Nevada,59
+Arkansas City,Kansas,58
+Berrien Springs,Michigan,58
+Brookfield,Illinois,58
+Byron Center,Michigan,58
+Crestwood,Illinois,58
+Crookston,Minnesota,58
+Crossett,Arkansas,58
+Danielson,Connecticut,58
+East Granby,Connecticut,58
+Essex,Vermont,58
+Frankenmuth,Michigan,58
+Gunnison,Colorado,58
+Hillsboro,Texas,58
+Jackson,California,58
+Lenox,Massachusetts,58
+Lincoln City,Oregon,58
+Medina,New York,58
+Minneota,Minnesota,58
+Monaca,Pennsylvania,58
+Mulberry,Florida,58
+Pacifica,California,58
+Page,Arizona,58
+Poteau,Oklahoma,58
+Quincy,Washington,58
+Rochester,Indiana,58
+Rye Brook,New York,58
+San Juan,Texas,58
+Taneytown,Maryland,58
+West New York,New Jersey,58
+West Point,Pennsylvania,58
+Wyoming,Minnesota,58
+Yadkinville,North Carolina,58
+Andrews,Texas,57
+Bannockburn,Illinois,57
+Berkley,Michigan,57
+Black River Falls,Wisconsin,57
+Bremen,Georgia,57
+Brookville,Pennsylvania,57
+Cobleskill,New York,57
+Delphos,Ohio,57
+Devon,Pennsylvania,57
+Ewa Beach,Hawaii,57
+Farmingdale,New Jersey,57
+Gardnerville,Nevada,57
+Globe,Arizona,57
+Grayling,Michigan,57
+Hampton,Georgia,57
+Holdrege,Nebraska,57
+Ironwood,Michigan,57
+Knightdale,North Carolina,57
+Lander,Wyoming,57
+Litchfield,Connecticut,57
+Macclenny,Florida,57
+Miles City,Montana,57
+Millburn,New Jersey,57
+Montgomery,New York,57
+North Bend,Oregon,57
+Oak Forest,Illinois,57
+Old Lyme,Connecticut,57
+Olympia Fields,Illinois,57
+Rockport,Texas,57
+South Orange,New Jersey,57
+Syracuse,Indiana,57
+Tyngsboro,Massachusetts,57
+Vermillion,South Dakota,57
+Watford City,North Dakota,57
+Westbrook,Connecticut,57
+Willard,Ohio,57
+Yulee,Florida,57
+Avon,Massachusetts,56
+Benton,Kentucky,56
+Bradley,Illinois,56
+Chilton,Wisconsin,56
+Clinton,Mississippi,56
+Clio,Michigan,56
+Colusa,California,56
+Coopersburg,Pennsylvania,56
+Crowley,Louisiana,56
+Eloy,Arizona,56
+Forrest City,Arkansas,56
+Fort Scott,Kansas,56
+Galt,California,56
+Hollidaysburg,Pennsylvania,56
+Huntington Park,California,56
+Imperial,California,56
+Lafayette,Georgia,56
+Lake Havasu,Arizona,56
+Lake Saint Louis,Missouri,56
+Lebanon,Oregon,56
+Longmeadow,Massachusetts,56
+Lutherville,Maryland,56
+Marengo,Illinois,56
+Menominee,Michigan,56
+Millbrae,California,56
+Montgomery,Illinois,56
+Monument,Colorado,56
+Mountain Home,Idaho,56
+Neptune City,New Jersey,56
+North Liberty,Iowa,56
+North Mankato,Minnesota,56
+Oscoda,Michigan,56
+Pleasantville,New Jersey,56
+Port Hueneme,California,56
+Prineville,Oregon,56
+Redwood Falls,Minnesota,56
+Redwood,California,56
+Richland Center,Wisconsin,56
+Salem,New Jersey,56
+Somerset,Massachusetts,56
+Springfield,Vermont,56
+Spruce Pine,North Carolina,56
+Tannersville,Pennsylvania,56
+Tazewell,Virginia,56
+Tenafly,New Jersey,56
+Titusville,Pennsylvania,56
+Trinity,Florida,56
+Verona,New Jersey,56
+Wadena,Minnesota,56
+Westwood,California,56
+Wetumpka,Alabama,56
+Woodland Park,New Jersey,56
+Adel,Georgia,55
+Alliance,Nebraska,55
+Blair,Nebraska,55
+Brewton,Alabama,55
+Briarcliff Manor,New York,55
+Bridgeville,Pennsylvania,55
+Brownsville,Tennessee,55
+Burton,Michigan,55
+Bushnell,Florida,55
+Cabazon,California,55
+Cedar Grove,New Jersey,55
+Clarence,New York,55
+Clive,Iowa,55
+Columbiana,Ohio,55
+Craig,Colorado,55
+Cudahy,Wisconsin,55
+Denison,Iowa,55
+Derby,Kansas,55
+Dillon,South Carolina,55
+El Cerrito,California,55
+Englewood,Ohio,55
+Evergreen Park,Illinois,55
+Fort Oglethorpe,Georgia,55
+Greenville,Alabama,55
+Groton,Massachusetts,55
+Hernando,Mississippi,55
+Hopewell,New Jersey,55
+Hyde Park,New York,55
+Ladera Ranch,California,55
+Lampasas,Texas,55
+Mauston,Wisconsin,55
+Mercer,Pennsylvania,55
+Middleton,Massachusetts,55
+Mount Clemens,Michigan,55
+Murrysville,Pennsylvania,55
+Narragansett,Rhode Island,55
+North Branch,Minnesota,55
+Ozark,Alabama,55
+Pompton Lakes,New Jersey,55
+Roscoe,Illinois,55
+Ruskin,Florida,55
+Sealy,Texas,55
+Silverthorne,Colorado,55
+South Pasadena,California,55
+Sweetwater,Texas,55
+Tunica,Mississippi,55
+Ville Platte,Louisiana,55
+Vonore,Tennessee,55
+Barnegat,New Jersey,54
+Belle Vernon,Pennsylvania,54
+Blairsville,Pennsylvania,54
+Bremen,Indiana,54
+Broadview Heights,Ohio,54
+Burbank,Illinois,54
+Cedar Knolls,New Jersey,54
+Clintonville,Wisconsin,54
+Commerce,Texas,54
+Cynthiana,Kentucky,54
+Dillsburg,Pennsylvania,54
+Dudley,Massachusetts,54
+East Aurora,New York,54
+Ebensburg,Pennsylvania,54
+Ellwood City,Pennsylvania,54
+Floral Park,New York,54
+Keyser,West Virginia,54
+Le Sueur,Minnesota,54
+Marina,California,54
+Miramar Beach,Florida,54
+Odessa,Florida,54
+Oneonta,Alabama,54
+Red Oak,Texas,54
+Richfield,Utah,54
+Rio Grande City,Texas,54
+Russell Springs,Kentucky,54
+Sault Ste. Marie,Michigan,54
+Skillman,New Jersey,54
+St. Helens,Oregon,54
+St. Peter,Minnesota,54
+Streator,Illinois,54
+Tamaqua,Pennsylvania,54
+Thomaston,Connecticut,54
+Toppenish,Washington,54
+Warrendale,Pennsylvania,54
+Washington,New Jersey,54
+West Point,Mississippi,54
+Bangor,Pennsylvania,53
+Barnwell,South Carolina,53
+Bernardsville,New Jersey,53
+Boyne City,Michigan,53
+Canton,Illinois,53
+Center,Texas,53
+Centreville,Maryland,53
+Chapin,South Carolina,53
+Chelan,Washington,53
+Countryside,Illinois,53
+Creston,Iowa,53
+Crowley,Texas,53
+Dallas,Oregon,53
+Delano,Minnesota,53
+Dickinson,Texas,53
+Essex,Connecticut,53
+Farmington,Utah,53
+Fort Rucker,Alabama,53
+Hailey,Idaho,53
+Hallandale Beach,Florida,53
+Hampton Bays,New York,53
+Ingleside,Texas,53
+Jenison,Michigan,53
+Jennings,Louisiana,53
+Knoxville,Iowa,53
+Lecanto,Florida,53
+Little River,South Carolina,53
+Locust Grove,Georgia,53
+Lucedale,Mississippi,53
+Marblehead,Massachusetts,53
+Mesquite,Nevada,53
+Middlesboro,Kentucky,53
+Mounds View,Minnesota,53
+Mount Olive,North Carolina,53
+Norton,Virginia,53
+Oakton,Virginia,53
+Oakwood,Georgia,53
+Orinda,California,53
+Owings,Maryland,53
+Plano,Illinois,53
+Porter,Texas,53
+Pulaski,New York,53
+Randolph,Vermont,53
+Sanger,California,53
+Shenandoah,Iowa,53
+Skowhegan,Maine,53
+Stoughton,Wisconsin,53
+Stuarts Draft,Virginia,53
+Temple City,California,53
+Temple Hills,Maryland,53
+Waupun,Wisconsin,53
+Wayland,Massachusetts,53
+Whitehouse Station,New Jersey,53
+Bastrop,Louisiana,52
+Blaine,Washington,52
+Butner,North Carolina,52
+Canyon Country,California,52
+Carlinville,Illinois,52
+Coudersport,Pennsylvania,52
+Demopolis,Alabama,52
+Eagle,Colorado,52
+Elizabethtown,North Carolina,52
+Flushing,Michigan,52
+Forest Hill,Maryland,52
+Fort Riley,Kansas,52
+Fountain Hills,Arizona,52
+Gibsonia,Pennsylvania,52
+Green Cove Springs,Florida,52
+Greenville,Illinois,52
+Hancock,Michigan,52
+Hebron,Ohio,52
+Indian Wells,California,52
+Louisville,Mississippi,52
+Marco Island,Florida,52
+McCook,Nebraska,52
+Northfield,New Jersey,52
+Palos Hills,Illinois,52
+Ponchatoula,Louisiana,52
+Princeton Junction,New Jersey,52
+Rantoul,Illinois,52
+Ridgefield,New Jersey,52
+Silverton,Oregon,52
+St. Robert,Missouri,52
+Sylvester,Georgia,52
+Taylors,South Carolina,52
+Temperance,Michigan,52
+Waterloo,New York,52
+Whitehall,Michigan,52
+Wildwood,Florida,52
+Woodstock,Virginia,52
+Altavista,Virginia,51
+Amery,Wisconsin,51
+Amory,Mississippi,51
+Ansonia,Connecticut,51
+Aptos,California,51
+Austintown,Ohio,51
+Big Stone Gap,Virginia,51
+Caledonia,Michigan,51
+Chatham,Massachusetts,51
+Clinton,Connecticut,51
+Dexter,Michigan,51
+Dumas,Texas,51
+El Campo,Texas,51
+Gloucester City,New Jersey,51
+Harahan,Louisiana,51
+Harriman,Tennessee,51
+Hawley,Pennsylvania,51
+Hockessin,Delaware,51
+Homer Glen,Illinois,51
+Incline Village,Nevada,51
+Jaffrey,New Hampshire,51
+Keyport,New Jersey,51
+Lake Villa,Illinois,51
+Lantana,Florida,51
+LaSalle,Illinois,51
+Louisa,Kentucky,51
+Lowell,Indiana,51
+Lowell,Michigan,51
+Mammoth Lakes,California,51
+Plainwell,Michigan,51
+Portales,New Mexico,51
+Prairie du Chien,Wisconsin,51
+Randallstown,Maryland,51
+Rushville,Indiana,51
+Saint Helena,California,51
+Shorewood,Illinois,51
+Siler City,North Carolina,51
+Storrs,Connecticut,51
+Sussex,New Jersey,51
+Topsfield,Massachusetts,51
+Valley City,North Dakota,51
+Waynesville,Missouri,51
+Willits,California,51
+Windom,Minnesota,51
+Brook Park,Ohio,50
+Charles City,Iowa,50
+Congers,New York,50
+Crest Hill,Illinois,50
+Crockett,Texas,50
+Des Moines,Washington,50
+Emporia,Virginia,50
+Erie,Colorado,50
+Florence,Oregon,50
+Fredonia,New York,50
+Gladwin,Michigan,50
+Houlton,Maine,50
+Huntington Station,New York,50
+Kingsburg,California,50
+Levelland,Texas,50
+Louisville,Ohio,50
+Mariposa,California,50
+Medley,Florida,50
+Millbury,Massachusetts,50
+Minooka,Illinois,50
+Mora,Minnesota,50
+Mount Carmel,Illinois,50
+Mount Joy,Pennsylvania,50
+New Prague,Minnesota,50
+North Providence,Rhode Island,50
+Oakhurst,California,50
+Pataskala,Ohio,50
+Pickens,South Carolina,50
+Pineville,North Carolina,50
+Roselle,New Jersey,50
+Salem,Indiana,50
+San Pablo,California,50
+Silsbee,Texas,50
+Smithville,Tennessee,50
+Somerset,Wisconsin,50
+Spanish Fort,Alabama,50
+Tallassee,Alabama,50
+Thorofare,New Jersey,50
+Wahiawa,Hawaii,50
+Warrenton,Missouri,50
+Aitkin,Minnesota,49
+Alpine,Texas,49
+Booneville,Mississippi,49
+Canadian,Texas,49
+Carbondale,Pennsylvania,49
+East Troy,Wisconsin,49
+Eureka,Missouri,49
+Harbor Springs,Michigan,49
+Harlan,Kentucky,49
+Harvard,Illinois,49
+Haverford,Pennsylvania,49
+Heath,Ohio,49
+Huron,Ohio,49
+Jenkinsville,South Carolina,49
+Liberty,Texas,49
+Lisbon,Ohio,49
+Madison,Florida,49
+Mahopac,New York,49
+Marion,South Carolina,49
+Mercedes,Texas,49
+New Caney,Texas,49
+North Syracuse,New York,49
+Oak Hill,West Virginia,49
+Oakley,California,49
+Oneida,Tennessee,49
+Ozark,Missouri,49
+Pagosa Springs,Colorado,49
+Paintsville,Kentucky,49
+Pleasanton,Texas,49
+Raymond,New Hampshire,49
+San Jacinto,California,49
+Sauk City,Wisconsin,49
+Shamokin,Pennsylvania,49
+Stanwood,Washington,49
+Stayton,Oregon,49
+Sturtevant,Wisconsin,49
+Suffield,Connecticut,49
+Trenton,Missouri,49
+Vernon,New Jersey,49
+Woodland Park,Colorado,49
+Barboursville,West Virginia,48
+Baxter,Minnesota,48
+Berryville,Arkansas,48
+Black Mountain,North Carolina,48
+Breinigsville,Pennsylvania,48
+Butler,New Jersey,48
+Calvert City,Kentucky,48
+Channahon,Illinois,48
+Chester Springs,Pennsylvania,48
+Coldwater,Ohio,48
+Country Club Hills,Illinois,48
+Danville,Indiana,48
+Doraville,Georgia,48
+East Palo Alto,California,48
+Edwards,Colorado,48
+Forked River,New Jersey,48
+Friday Harbor,Washington,48
+Grafton,Massachusetts,48
+Haltom City,Texas,48
+Haslet,Texas,48
+Highland Heights,Ohio,48
+Homer,Alaska,48
+Humboldt,Iowa,48
+Jackson,Georgia,48
+King,North Carolina,48
+LaGrange,Indiana,48
+Lugoff,South Carolina,48
+Magee,Mississippi,48
+Milan,Illinois,48
+Mount Pleasant,Pennsylvania,48
+Osceola,Wisconsin,48
+Palmerton,Pennsylvania,48
+Pepperell,Massachusetts,48
+Phillips,Wisconsin,48
+Sallisaw,Oklahoma,48
+Schofield,Wisconsin,48
+Sheldon,Iowa,48
+Sidney,Montana,48
+Sun Valley,Idaho,48
+Taylorsville,Utah,48
+Valley,Alabama,48
+Webster City,Iowa,48
+Weston,West Virginia,48
+Wickenburg,Arizona,48
+Windermere,Florida,48
+Allendale,Michigan,47
+Ashland City,Tennessee,47
+Baker City,Oregon,47
+Blythe,California,47
+Bridgewater,Virginia,47
+Cadiz,Ohio,47
+Canal Winchester,Ohio,47
+Caro,Michigan,47
+Celebration,Florida,47
+Centerville,Utah,47
+Conneaut,Ohio,47
+Dunmore,Pennsylvania,47
+Eagle,Idaho,47
+Eastpointe,Michigan,47
+Ellington,Connecticut,47
+Elon,North Carolina,47
+Fletcher,North Carolina,47
+Fort Mitchell,Kentucky,47
+Fowlerville,Michigan,47
+Immokalee,Florida,47
+International Falls,Minnesota,47
+Kirkwood,Missouri,47
+Liberty,New York,47
+Lincolnwood,Illinois,47
+Manchester,Iowa,47
+Miami Gardens,Florida,47
+Monroe,Ohio,47
+Moss Point,Mississippi,47
+Mount Shasta,California,47
+New London,Wisconsin,47
+Newport,New Hampshire,47
+Orleans,Massachusetts,47
+Pace,Florida,47
+Paoli,Indiana,47
+Ridgway,Pennsylvania,47
+Ripley,Tennessee,47
+Rockmart,Georgia,47
+Saginaw,Texas,47
+Schuylkill Haven,Pennsylvania,47
+South Beloit,Illinois,47
+South Daytona,Florida,47
+Trinidad,Colorado,47
+Wadesboro,North Carolina,47
+Whitinsville,Massachusetts,47
+Yelm,Washington,47
+Baldwinsville,New York,46
+Big Sky,Montana,46
+Canaan,Connecticut,46
+Carrollton,Kentucky,46
+Clifton Springs,New York,46
+Cortland,Ohio,46
+Cushing,Oklahoma,46
+Depew,New York,46
+Desert Hot Springs,California,46
+Duxbury,Massachusetts,46
+East Haven,Connecticut,46
+East Northport,New York,46
+Edenton,North Carolina,46
+Edwards,California,46
+Emmett,Idaho,46
+Erwin,Tennessee,46
+Fort Irwin,California,46
+Fortuna,California,46
+Gilmer,Texas,46
+Hartselle,Alabama,46
+Horn Lake,Mississippi,46
+Indianola,Iowa,46
+Inman,South Carolina,46
+Kearneysville,West Virginia,46
+Kingston,Tennessee,46
+Lakeside,California,46
+Louisiana,Missouri,46
+Mattawan,Michigan,46
+Minster,Ohio,46
+Monmouth,Illinois,46
+Myerstown,Pennsylvania,46
+Navasota,Texas,46
+Newport,Arkansas,46
+Oil City,Pennsylvania,46
+Onamia,Minnesota,46
+Ripley,West Virginia,46
+Saint Clairsville,Ohio,46
+Scottsville,Kentucky,46
+South Sioux City,Nebraska,46
+Tawas City,Michigan,46
+Walworth,Wisconsin,46
+Warren,Rhode Island,46
+Warsaw,New York,46
+Westminster,Massachusetts,46
+Winchester,Indiana,46
+Windham,New Hampshire,46
+Alamo,California,45
+Baldwin,Wisconsin,45
+Cameron Park,California,45
+Denton,Maryland,45
+Du Bois,Pennsylvania,45
+Eagle River,Wisconsin,45
+Excelsior Springs,Missouri,45
+Fort Leonard Wood,Missouri,45
+Highland,New York,45
+Homosassa,Florida,45
+Honey Brook,Pennsylvania,45
+Hope Mills,North Carolina,45
+Ladysmith,Wisconsin,45
+Lauderhill,Florida,45
+Lawndale,California,45
+Linwood,New Jersey,45
+Mansfield,Pennsylvania,45
+Maynard,Massachusetts,45
+Mayville,Wisconsin,45
+Mena,Arkansas,45
+Mifflinburg,Pennsylvania,45
+Montrose,Pennsylvania,45
+Needham Heights,Massachusetts,45
+North Bend,Washington,45
+North East,Maryland,45
+Northampton,Pennsylvania,45
+Pearsall,Texas,45
+Plainfield,Connecticut,45
+Pontotoc,Mississippi,45
+Prairie Village,Kansas,45
+Prosper,Texas,45
+Ripley,Mississippi,45
+Selmer,Tennessee,45
+Stanford,Kentucky,45
+Tuskegee,Alabama,45
+Upper Saddle River,New Jersey,45
+Valdese,North Carolina,45
+Walton,Kentucky,45
+Waterbury,Vermont,45
+Wellington,Ohio,45
+Whiting,Indiana,45
+Williamsburg,Kentucky,45
+Williamson,West Virginia,45
+Winterville,North Carolina,45
+Zebulon,North Carolina,45
+Adairsville,Georgia,44
+Albertville,Minnesota,44
+Albion,Michigan,44
+Artesia,California,44
+Atherton,California,44
+Ball Ground,Georgia,44
+Benson,North Carolina,44
+Berne,Indiana,44
+Bound Brook,New Jersey,44
+Carbondale,Colorado,44
+Carmel Valley,California,44
+Charlestown,Indiana,44
+Columbia,Kentucky,44
+De Witt,Iowa,44
+Delafield,Wisconsin,44
+Douglas,Wyoming,44
+Fernley,Nevada,44
+Fort Thomas,Kentucky,44
+French Lick,Indiana,44
+Glenwood,Minnesota,44
+Guthrie,Oklahoma,44
+Helena,Arkansas,44
+Huntingburg,Indiana,44
+Jackson,Missouri,44
+Katonah,New York,44
+Kenedy,Texas,44
+Kingwood,West Virginia,44
+Knox,Indiana,44
+Lake Placid,Florida,44
+Lauderdale Lakes,Florida,44
+Lawrenceburg,Kentucky,44
+Leeds,Alabama,44
+Lowville,New York,44
+Macon,Missouri,44
+Meredith,New Hampshire,44
+Minerva,Ohio,44
+Morrilton,Arkansas,44
+Nappanee,Indiana,44
+Nesconset,New York,44
+North Smithfield,Rhode Island,44
+Orange,New Jersey,44
+Pacific,Missouri,44
+Parker,Arizona,44
+Paw Paw,Michigan,44
+Pendleton,Indiana,44
+Pennsville,New Jersey,44
+Powhatan,Virginia,44
+Richboro,Pennsylvania,44
+Ruidoso,New Mexico,44
+Salamanca,New York,44
+Sand Springs,Oklahoma,44
+Sandwich,Illinois,44
+Seminole,Texas,44
+Shelby,Ohio,44
+Socorro,New Mexico,44
+South Hadley,Massachusetts,44
+Sweetwater,Tennessee,44
+Tappahannock,Virginia,44
+Templeton,California,44
+Valley Center,California,44
+Vinita,Oklahoma,44
+Watkinsville,Georgia,44
+Waunakee,Wisconsin,44
+Yaphank,New York,44
+Altadena,California,43
+Atlantic,Iowa,43
+Belle Chasse,Louisiana,43
+Bloomington,California,43
+Boothwyn,Pennsylvania,43
+Brewster,Massachusetts,43
+Browns Mills,New Jersey,43
+Cadiz,Kentucky,43
+Carrollton,Ohio,43
+Cheverly,Maryland,43
+Cokato,Minnesota,43
+Colby,Kansas,43
+Copiague,New York,43
+Dayton,Texas,43
+Dolton,Illinois,43
+Dundee,Michigan,43
+East Windsor,Connecticut,43
+Ellenville,New York,43
+Fleetwood,Pennsylvania,43
+Frederick,Colorado,43
+Galena,Illinois,43
+Giddings,Texas,43
+Gorham,Maine,43
+Granite Bay,California,43
+Grayson,Kentucky,43
+Happy Valley,Oregon,43
+Harlan,Iowa,43
+Harrison,New Jersey,43
+Harwich,Massachusetts,43
+Hazel Park,Michigan,43
+Holden,Massachusetts,43
+Hutto,Texas,43
+Indian Head,Maryland,43
+Kosciusko,Mississippi,43
+Lake Grove,New York,43
+Lincoln,Alabama,43
+Linton,Indiana,43
+Machias,Maine,43
+Massapequa Park,New York,43
+Nashville,Arkansas,43
+North Palm Beach,Florida,43
+Prairieville,Louisiana,43
+Raymond,Ohio,43
+Saint Marys,Georgia,43
+San Benito,Texas,43
+Sauk Centre,Minnesota,43
+Sleepy Hollow,New York,43
+Spencer,Indiana,43
+Spencer,Massachusetts,43
+Spencer,West Virginia,43
+Sullivan,Indiana,43
+Tecumseh,Michigan,43
+Two Rivers,Wisconsin,43
+Watchung,New Jersey,43
+Waterford,New York,43
+Watseka,Illinois,43
+West Hempstead,New York,43
+West Long Branch,New Jersey,43
+Wharton,Texas,43
+Albion,New York,42
+Bellport,New York,42
+Calistoga,California,42
+Clute,Texas,42
+Cooper City,Florida,42
+Deer Park,Illinois,42
+Donna,Texas,42
+Dripping Springs,Texas,42
+East Norriton,Pennsylvania,42
+El Reno,Oklahoma,42
+Forest Park,Illinois,42
+Garfield Heights,Ohio,42
+Harrison Township,Michigan,42
+Hazlehurst,Georgia,42
+Hummelstown,Pennsylvania,42
+Kenmore,Washington,42
+Kiel,Wisconsin,42
+King City,California,42
+Lafollette,Tennessee,42
+Lake George,New York,42
+Lake Ozark,Missouri,42
+Larchmont,New York,42
+Lee,Massachusetts,42
+Lewiston,New York,42
+Lino Lakes,Minnesota,42
+Medway,Massachusetts,42
+Middle Island,New York,42
+Moraga,California,42
+Norwood,New Jersey,42
+Oakdale,New York,42
+Paola,Kansas,42
+Paris,Kentucky,42
+Park Rapids,Minnesota,42
+Plainville,Massachusetts,42
+Raytown,Missouri,42
+Ridgeland,South Carolina,42
+Riverdale,New Jersey,42
+Riverview,Michigan,42
+Rockdale,Texas,42
+Roosevelt,Utah,42
+Roseau,Minnesota,42
+Seabrook,Texas,42
+Stuart,Virginia,42
+Tazewell,Tennessee,42
+Ware,Massachusetts,42
+Waterloo,Illinois,42
+West Mifflin,Pennsylvania,42
+West Milford,New Jersey,42
+West Point,New York,42
+Wharton,New Jersey,42
+Albany,California,41
+Antelope,California,41
+Atco,New Jersey,41
+Belle Glade,Florida,41
+Berthoud,Colorado,41
+Blythewood,South Carolina,41
+Brillion,Wisconsin,41
+Brooklyn,Ohio,41
+Burtonsville,Maryland,41
+Carnegie,Pennsylvania,41
+Carthage,Mississippi,41
+Carthage,New York,41
+Cazenovia,New York,41
+Chamblee,Georgia,41
+Clawson,Michigan,41
+Clementon,New Jersey,41
+Corning,California,41
+Creedmoor,North Carolina,41
+Damariscotta,Maine,41
+Dundalk,Maryland,41
+Ephrata,Washington,41
+Epping,New Hampshire,41
+Fort Lee,Virginia,41
+Gautier,Mississippi,41
+Hampshire,Illinois,41
+Hampstead,New Hampshire,41
+Highlands,North Carolina,41
+Hobe Sound,Florida,41
+Houghton Lake,Michigan,41
+Hugo,Minnesota,41
+Iola,Kansas,41
+Jefferson,Ohio,41
+Lafayette,Tennessee,41
+Leesport,Pennsylvania,41
+Leonia,New Jersey,41
+Ligonier,Pennsylvania,41
+Livingston,California,41
+Madisonville,Tennessee,41
+Mars,Pennsylvania,41
+Moundsville,West Virginia,41
+Mountain Top,Pennsylvania,41
+New Martinsville,West Virginia,41
+Plain City,Ohio,41
+Powell,Wyoming,41
+Robertsdale,Alabama,41
+Rosedale,Maryland,41
+Sleepy Eye,Minnesota,41
+St. Johns,Michigan,41
+Wautoma,Wisconsin,41
+Wayland,Michigan,41
+West Dundee,Illinois,41
+Whitesburg,Kentucky,41
+Windham,Maine,41
+Yazoo City,Mississippi,41
+Abbeville,South Carolina,40
+Avondale,Pennsylvania,40
+Blairstown,New Jersey,40
+Burlington,Kentucky,40
+Cannon Falls,Minnesota,40
+Cayce,South Carolina,40
+Chadron,Nebraska,40
+Closter,New Jersey,40
+Crested Butte,Colorado,40
+Dansville,New York,40
+Dresher,Pennsylvania,40
+Edgartown,Massachusetts,40
+Edgewater,Maryland,40
+Edmonton,Kentucky,40
+Fairfield,Illinois,40
+Floresville,Texas,40
+Fort Stewart,Georgia,40
+Franklinton,Louisiana,40
+Gambrills,Maryland,40
+Grand Island,New York,40
+Grants,New Mexico,40
+Great Falls,Virginia,40
+Grover Beach,California,40
+Grundy,Virginia,40
+Hiawatha,Iowa,40
+Jerseyville,Illinois,40
+Kenansville,North Carolina,40
+LaBelle,Florida,40
+Lake Arrowhead,California,40
+Lamar,Colorado,40
+Lebanon,New Jersey,40
+Leesburg,Georgia,40
+Lindenhurst,Illinois,40
+Machesney Park,Illinois,40
+Marion,Massachusetts,40
+McKenzie,Tennessee,40
+Mechanicsville,Maryland,40
+Mendota,Illinois,40
+Metropolis,Illinois,40
+Morganville,New Jersey,40
+New Buffalo,Michigan,40
+Oradell,New Jersey,40
+Ozark,Arkansas,40
+Pauls Valley,Oklahoma,40
+Portland,Texas,40
+Richland,Mississippi,40
+Richmond,Michigan,40
+Rock Falls,Illinois,40
+Royal Palm Beach,Florida,40
+Satellite Beach,Florida,40
+Sauk Rapids,Minnesota,40
+Slippery Rock,Pennsylvania,40
+South El Monte,California,40
+Standish,Michigan,40
+Sulphur,Oklahoma,40
+Travelers Rest,South Carolina,40
+Vernon,Texas,40
+Viroqua,Wisconsin,40
+Warrenton,Oregon,40
+Wiggins,Mississippi,40
+Winfield,Alabama,40
+Woodstock,Connecticut,40
+Ada,Michigan,39
+Aldie,Virginia,39
+Alma,Georgia,39
+Ambridge,Pennsylvania,39
+Baltimore,Ohio,39
+Bolivar,Tennessee,39
+Brewer,Maine,39
+Buellton,California,39
+Camden,Tennessee,39
+Cameron,Missouri,39
+Canyon,Texas,39
+Centerville,Iowa,39
+Clarkesville,Georgia,39
+Clinton,South Carolina,39
+Converse,Texas,39
+Crandon,Wisconsin,39
+Cuba,Missouri,39
+Cuero,Texas,39
+District Heights,Maryland,39
+Dodge Center,Minnesota,39
+Edinburgh,Indiana,39
+Emerson,New Jersey,39
+Geneseo,New York,39
+Gilbertsville,Pennsylvania,39
+Glendale,Wisconsin,39
+Granville,Ohio,39
+Hamilton,Alabama,39
+Hampstead,North Carolina,39
+Hawkinsville,Georgia,39
+Hodgkins,Illinois,39
+Hubbard,Ohio,39
+Kilmarnock,Virginia,39
+Lewistown,Montana,39
+Little Ferry,New Jersey,39
+Livingston,Tennessee,39
+Louisa,Virginia,39
+Madison,Tennessee,39
+Madras,Oregon,39
+Manassas Park,Virginia,39
+Maple Heights,Ohio,39
+Middle River,Maryland,39
+Milton,Delaware,39
+Moosic,Pennsylvania,39
+Nelsonville,Ohio,39
+Northumberland,Pennsylvania,39
+Orofino,Idaho,39
+Othello,Washington,39
+Pageland,South Carolina,39
+Park Forest,Illinois,39
+Pipestone,Minnesota,39
+Point Pleasant,West Virginia,39
+Princeton,Kentucky,39
+Red Lion,Pennsylvania,39
+Rockport,Maine,39
+Rockton,Illinois,39
+Rockwood,Tennessee,39
+Safety Harbor,Florida,39
+Sandusky,Michigan,39
+Sandy,Oregon,39
+Sanger,Texas,39
+Saukville,Wisconsin,39
+Shelbyville,Illinois,39
+Shirley,Massachusetts,39
+Spring House,Pennsylvania,39
+Stratford,New Jersey,39
+Tomahawk,Wisconsin,39
+University Place,Washington,39
+Vadnais Heights,Minnesota,39
+Waianae,Hawaii,39
+Waynesboro,Mississippi,39
+West Lebanon,New Hampshire,39
+West Melbourne,Florida,39
+West Seneca,New York,39
+Westport,Massachusetts,39
+Winooski,Vermont,39
+Winslow,Arizona,39
+Amelia,Ohio,38
+Arlington,Tennessee,38
+Barbourville,Kentucky,38
+Beaufort,North Carolina,38
+Belen,New Mexico,38
+Belle Plaine,Minnesota,38
+Berlin,Wisconsin,38
+Boiling Springs,South Carolina,38
+Bonham,Texas,38
+Boonville,Missouri,38
+Brandywine,Maryland,38
+Breckenridge,Texas,38
+Charleroi,Pennsylvania,38
+Colts Neck,New Jersey,38
+Columbus,North Carolina,38
+Columbus,Wisconsin,38
+Coolidge,Arizona,38
+Dickson City,Pennsylvania,38
+Dillon,Montana,38
+East Point,Georgia,38
+Farmingville,New York,38
+Franklin Square,New York,38
+Girard,Ohio,38
+Glencoe,Minnesota,38
+Glennville,Georgia,38
+Hartland,Michigan,38
+Hellertown,Pennsylvania,38
+Hillsville,Virginia,38
+Kalkaska,Michigan,38
+La Grange,Kentucky,38
+Ledyard,Connecticut,38
+Leola,Pennsylvania,38
+Ligonier,Indiana,38
+Lincoln Park,New Jersey,38
+Long Valley,New Jersey,38
+Maquoketa,Iowa,38
+McMurray,Pennsylvania,38
+Mexia,Texas,38
+Middleville,Michigan,38
+Monee,Illinois,38
+Mountain Lakes,New Jersey,38
+Newaygo,Michigan,38
+Newhall,California,38
+Niantic,Connecticut,38
+Olmsted Falls,Ohio,38
+Oro Valley,Arizona,38
+Parlin,New Jersey,38
+Perry,Oklahoma,38
+Pine Grove,Pennsylvania,38
+Pittsfield,Illinois,38
+Pomeroy,Ohio,38
+Port Allen,Louisiana,38
+Provincetown,Massachusetts,38
+Royse City,Texas,38
+Sanibel,Florida,38
+Shalimar,Florida,38
+Sheffield,Alabama,38
+South Deerfield,Massachusetts,38
+South Hackensack,New Jersey,38
+Spooner,Wisconsin,38
+Stanhope,New Jersey,38
+Succasunna,New Jersey,38
+Syracuse,Utah,38
+Troy,North Carolina,38
+Versailles,Ohio,38
+Waller,Texas,38
+Weaverville,North Carolina,38
+Willis,Texas,38
+Woodbury,Connecticut,38
+Abilene,Kansas,37
+Adelphi,Maryland,37
+Belleview,Florida,37
+Bethel Park,Pennsylvania,37
+Birdsboro,Pennsylvania,37
+Boonville,Indiana,37
+Breaux Bridge,Louisiana,37
+Bristol,Indiana,37
+Camden,Maine,37
+Canton,Connecticut,37
+Carthage,North Carolina,37
+Cherryville,North Carolina,37
+Chowchilla,California,37
+Clarinda,Iowa,37
+Coopersville,Michigan,37
+Cresskill,New Jersey,37
+Darby,Pennsylvania,37
+East Greenville,Pennsylvania,37
+East Islip,New York,37
+Ellisville,Mississippi,37
+Forest City,Iowa,37
+Fort Bliss,Texas,37
+Fort Lewis,Washington,37
+Gilford,New Hampshire,37
+Glendive,Montana,37
+Grayson,Georgia,37
+Green,Ohio,37
+Jamesburg,New Jersey,37
+Kamuela,Hawaii,37
+Lancaster,Massachusetts,37
+Larned,Kansas,37
+Loris,South Carolina,37
+Luray,Virginia,37
+Mansfield,Connecticut,37
+Mccall,Idaho,37
+Midlothian,Illinois,37
+Mount Pleasant,Iowa,37
+Pacific Grove,California,37
+Park Ridge,New Jersey,37
+Red Hook,New York,37
+Ridgefield,Washington,37
+Ringwood,New Jersey,37
+South Amboy,New Jersey,37
+Springville,New York,37
+Summerfield,Florida,37
+Swartz Creek,Michigan,37
+Taft,California,37
+Tipton,Indiana,37
+Tremonton,Utah,37
+Troy,Illinois,37
+Wellington,Kansas,37
+West Jefferson,North Carolina,37
+White House,Tennessee,37
+Wynne,Arkansas,37
+Yarmouth,Massachusetts,37
+Ada,Ohio,36
+Alfred,New York,36
+Barrington,New Jersey,36
+Belchertown,Massachusetts,36
+Bellwood,Illinois,36
+Big Lake,Minnesota,36
+Brandenburg,Kentucky,36
+Calera,Alabama,36
+Clear Lake,Iowa,36
+Cornwall,New York,36
+Corry,Pennsylvania,36
+Dix Hills,New York,36
+Dry Ridge,Kentucky,36
+Dunnellon,Florida,36
+Fox Lake,Illinois,36
+Grandview,Washington,36
+Groveland,Massachusetts,36
+Haleyville,Alabama,36
+Hardinsburg,Kentucky,36
+Hart,Michigan,36
+Hartville,Ohio,36
+Hidalgo,Texas,36
+Highland,Michigan,36
+Indianola,Mississippi,36
+Jessup,Pennsylvania,36
+Lakeway,Texas,36
+Lambertville,New Jersey,36
+Lexington,Nebraska,36
+Lithia,Florida,36
+Long Grove,Illinois,36
+Lumberton,Texas,36
+Marshfield,Missouri,36
+Medfield,Massachusetts,36
+Midland Park,New Jersey,36
+Millbrook,Alabama,36
+Molalla,Oregon,36
+Monroe,New Jersey,36
+Moody,Alabama,36
+Natrona Heights,Pennsylvania,36
+New Roads,Louisiana,36
+Newport,North Carolina,36
+Park Hills,Missouri,36
+Pawling,New York,36
+Port Neches,Texas,36
+Reidsville,Georgia,36
+Rowley,Massachusetts,36
+Senatobia,Mississippi,36
+Shepherdstown,West Virginia,36
+Spring Lake,North Carolina,36
+Stonington,Connecticut,36
+Stow,Massachusetts,36
+Sun City West,Arizona,36
+Sunny Isles Beach,Florida,36
+Swansea,Illinois,36
+Tuba City,Arizona,36
+Warsaw,Virginia,36
+Washington,Iowa,36
+Waukee,Iowa,36
+Waukon,Iowa,36
+Waverly,Tennessee,36
+Wayne,Nebraska,36
+West Union,Ohio,36
+Westlake,Louisiana,36
+Wildwood,New Jersey,36
+Woodbridge,Connecticut,36
+Alvarado,Texas,35
+Anderson,California,35
+Ardsley,New York,35
+Aurora,Nebraska,35
+Barnesville,Georgia,35
+Barrington,Rhode Island,35
+Bell Gardens,California,35
+Bella Vista,Arkansas,35
+Bellaire,Texas,35
+Beverly Hills,Florida,35
+Black Hawk,Colorado,35
+Bluffton,Ohio,35
+Breese,Illinois,35
+Bridgeport,Texas,35
+Bridgeville,Delaware,35
+Bridgman,Michigan,35
+Brookville,New York,35
+Brookville,Ohio,35
+Burns Harbor,Indiana,35
+Burnsville,North Carolina,35
+Camp Verde,Arizona,35
+Carthage,Illinois,35
+Cassopolis,Michigan,35
+Cassville,Missouri,35
+Cochran,Georgia,35
+Dawson,Georgia,35
+De Land,Florida,35
+Dumont,New Jersey,35
+East Dundee,Illinois,35
+East Greenbush,New York,35
+Eaton Rapids,Michigan,35
+Edwards AFB,California,35
+Fort Myers Beach,Florida,35
+Getzville,New York,35
+Glenwood,Illinois,35
+Green River,Wyoming,35
+Hernando,Florida,35
+Hinckley,Minnesota,35
+Humboldt,Tennessee,35
+Hurricane,Utah,35
+Inkster,Michigan,35
+Kinder,Louisiana,35
+Lindale,Texas,35
+Loomis,California,35
+Lunenburg,Massachusetts,35
+Manchester,Kentucky,35
+Mayfield Village,Ohio,35
+McCook,Illinois,35
+Medina,Minnesota,35
+Memphis,Missouri,35
+Milton,Wisconsin,35
+Morenci,Arizona,35
+Morganfield,Kentucky,35
+Mullins,South Carolina,35
+New Cumberland,Pennsylvania,35
+New Milford,New Jersey,35
+Oregon,Illinois,35
+Ramona,California,35
+Roanoke,Alabama,35
+Robins AFB,Georgia,35
+Sabetha,Kansas,35
+San Anselmo,California,35
+San Lorenzo,California,35
+Saraland,Alabama,35
+Selbyville,Delaware,35
+Seward,Nebraska,35
+Sharon,Connecticut,35
+St. Croix Falls,Wisconsin,35
+Tarentum,Pennsylvania,35
+Thomasville,Alabama,35
+Topsham,Maine,35
+Trenton,Georgia,35
+Troutdale,Oregon,35
+Upland,Pennsylvania,35
+Valley Cottage,New York,35
+Valley View,Ohio,35
+Vidalia,Louisiana,35
+Washougal,Washington,35
+Wells,Maine,35
+West Berlin,New Jersey,35
+Williams,California,35
+Winamac,Indiana,35
+Winnetka,Illinois,35
+Youngsville,Louisiana,35
+Zelienople,Pennsylvania,35
+Abbott Park,Illinois,34
+Argyle,Texas,34
+Boca Grande,Florida,34
+Bowie,Texas,34
+Branchville,New Jersey,34
+Broken Bow,Oklahoma,34
+Brookhaven,New York,34
+Bryson City,North Carolina,34
+Buena Vista,Colorado,34
+Burgaw,North Carolina,34
+Butler,Missouri,34
+Byhalia,Mississippi,34
+Camilla,Georgia,34
+Canton,Texas,34
+Carmi,Illinois,34
+Carrboro,North Carolina,34
+Clay Center,Kansas,34
+Clyde,North Carolina,34
+Coalinga,California,34
+Colonia,New Jersey,34
+Corcoran,California,34
+Corona del Mar,California,34
+Dallas,North Carolina,34
+Dandridge,Tennessee,34
+Demotte,Indiana,34
+Donalsonville,Georgia,34
+Dover,Pennsylvania,34
+Fort Kent,Maine,34
+Frostburg,Maryland,34
+Gardendale,Alabama,34
+Gaston,North Carolina,34
+Georgetown,Massachusetts,34
+Gooding,Idaho,34
+Grand Ledge,Michigan,34
+Hardeeville,South Carolina,34
+Henderson,Colorado,34
+Hohenwald,Tennessee,34
+Holly Springs,Mississippi,34
+Holt,Michigan,34
+Horicon,Wisconsin,34
+Imlay City,Michigan,34
+Independence,Iowa,34
+Irvington,New York,34
+Jasper,Tennessee,34
+Jim Thorpe,Pennsylvania,34
+Joshua Tree,California,34
+Kellogg,Idaho,34
+Liberty,South Carolina,34
+Little Chute,Wisconsin,34
+Manteo,North Carolina,34
+Mastic,New York,34
+Mitchell,Indiana,34
+Monongahela,Pennsylvania,34
+Mountain City,Tennessee,34
+Oceanport,New Jersey,34
+Oriskany,New York,34
+Park Falls,Wisconsin,34
+Paulding,Ohio,34
+Pelham,New York,34
+Philadelphia,New York,34
+Plymouth,North Carolina,34
+Raton,New Mexico,34
+Red Oak,Iowa,34
+Riverbank,California,34
+Riverside,New Jersey,34
+Rocky Point,New York,34
+Royston,Georgia,34
+Saint Paul Park,Minnesota,34
+Santa Ynez,California,34
+Shelburne,Vermont,34
+Soda Springs,Idaho,34
+South Charleston,West Virginia,34
+Sterling,Massachusetts,34
+Sugar Grove,Illinois,34
+Thackerville,Oklahoma,34
+Tyrone,Georgia,34
+Vandalia,Illinois,34
+Walker,Louisiana,34
+Warrensville Heights,Ohio,34
+Yarmouth,Maine,34
+Akron,New York,33
+Allentown,New Jersey,33
+Anna,Illinois,33
+Barron,Wisconsin,33
+Bayport,New York,33
+Beloit,Kansas,33
+Belpre,Ohio,33
+Blauvelt,New York,33
+Bluffdale,Utah,33
+Bridgton,Maine,33
+Brooklyn,Connecticut,33
+Buffalo,Wyoming,33
+Califon,New Jersey,33
+Clinton,Oklahoma,33
+Covington,Washington,33
+Cresco,Iowa,33
+Cripple Creek,Colorado,33
+East Bridgewater,Massachusetts,33
+East Lyme,Connecticut,33
+Flemingsburg,Kentucky,33
+Gardiner,Maine,33
+Glenolden,Pennsylvania,33
+Godfrey,Illinois,33
+Goffstown,New Hampshire,33
+Gordonsville,Virginia,33
+Gouverneur,New York,33
+Haddon Heights,New Jersey,33
+Hampstead,Maryland,33
+Hamtramck,Michigan,33
+Hazlehurst,Mississippi,33
+Heber City,Utah,33
+Heber,Utah,33
+Henrietta,New York,33
+Isanti,Minnesota,33
+Ishpeming,Michigan,33
+Jeannette,Pennsylvania,33
+Langley,Washington,33
+Leadville,Colorado,33
+Litchfield Park,Arizona,33
+Long Beach,Mississippi,33
+Marion,Arkansas,33
+Markham,Illinois,33
+McKinleyville,California,33
+Memphis,Mississippi,33
+Milan,Michigan,33
+Milan,Tennessee,33
+Morgantown,Kentucky,33
+Mount Gilead,Ohio,33
+Mount Sinai,New York,33
+Nokomis,Florida,33
+North Arlington,New Jersey,33
+Osceola,Iowa,33
+Otsego,Minnesota,33
+Painted Post,New York,33
+Pomona,New York,33
+Port Jefferson Station,New York,33
+Reserve,Louisiana,33
+Riceboro,Georgia,33
+Richton Park,Illinois,33
+Rigby,Idaho,33
+Riverdale,Maryland,33
+Rossville,Georgia,33
+Runnemede,New Jersey,33
+Saxonburg,Pennsylvania,33
+Selah,Washington,33
+Shafter,California,33
+Sidney,New York,33
+Skippack,Pennsylvania,33
+Social Circle,Georgia,33
+South Kingstown,Rhode Island,33
+Sparta,Michigan,33
+Stafford Springs,Connecticut,33
+Staples,Minnesota,33
+Ste. Genevieve,Missouri,33
+Summerville,Georgia,33
+Thornwood,New York,33
+Tuscumbia,Alabama,33
+Washington,Illinois,33
+West Greenwich,Rhode Island,33
+Westville,New Jersey,33
+Willows,California,33
+Windsor,Vermont,33
+Winnfield,Louisiana,33
+Woodlawn,Maryland,33
+Abington,Massachusetts,32
+Angels Camp,California,32
+Aransas Pass,Texas,32
+Beardstown,Illinois,32
+Belgrade,Montana,32
+Cedarhurst,New York,32
+Central Point,Oregon,32
+Chestnut Ridge,New York,32
+Cliffside Park,New Jersey,32
+Crawfordville,Florida,32
+Deerfield,Massachusetts,32
+Durand,Wisconsin,32
+Edinboro,Pennsylvania,32
+Egg Harbor City,New Jersey,32
+Elburn,Illinois,32
+Eupora,Mississippi,32
+Export,Pennsylvania,32
+Flagler Beach,Florida,32
+Fort Sill,Oklahoma,32
+Fruitland,Idaho,32
+Gothenburg,Nebraska,32
+Hicksville,Ohio,32
+Hondo,Texas,32
+Kane,Pennsylvania,32
+Kearney,Missouri,32
+Kendall,Florida,32
+Libby,Montana,32
+Lyndonville,Vermont,32
+Manville,New Jersey,32
+Martins Ferry,Ohio,32
+Mayfield,Ohio,32
+McConnellsburg,Pennsylvania,32
+McRae,Georgia,32
+Momence,Illinois,32
+New Hampton,Iowa,32
+North Berwick,Maine,32
+Oakdale,Louisiana,32
+Oyster Bay,New York,32
+Paradise Valley,Arizona,32
+Perryville,Maryland,32
+Pineville,Kentucky,32
+Piney Flats,Tennessee,32
+Potosi,Missouri,32
+Quincy,Florida,32
+Reed City,Michigan,32
+Salisbury,Massachusetts,32
+Scituate,Massachusetts,32
+Seffner,Florida,32
+Somers,Connecticut,32
+South Paris,Maine,32
+Sturgis,South Dakota,32
+Sunbury,Ohio,32
+Superior,Colorado,32
+Sutton,Massachusetts,32
+Swampscott,Massachusetts,32
+Swarthmore,Pennsylvania,32
+Sweeny,Texas,32
+Temple,Georgia,32
+Valley Forge,Pennsylvania,32
+Walker,Minnesota,32
+Wallace,North Carolina,32
+Wallkill,New York,32
+Warroad,Minnesota,32
+Waverly,New York,32
+Whitman,Massachusetts,32
+Williamston,Michigan,32
+Youngsville,North Carolina,32
+Afton,Wyoming,31
+Aledo,Illinois,31
+Altoona,Iowa,31
+Alva,Oklahoma,31
+Bandon,Oregon,31
+Bay Springs,Mississippi,31
+Belvidere,New Jersey,31
+Bingen,Washington,31
+Blackshear,Georgia,31
+Brady,Texas,31
+Carthage,Tennessee,31
+Cave Creek,Arizona,31
+Chappaqua,New York,31
+Cheney,Washington,31
+Chincoteague,Virginia,31
+Cibolo,Texas,31
+Cicero,New York,31
+Claxton,Georgia,31
+Cle Elum,Washington,31
+Delmar,New York,31
+Des Peres,Missouri,31
+Du Quoin,Illinois,31
+East Jordan,Michigan,31
+Ellisville,Missouri,31
+Enola,Pennsylvania,31
+Escalon,California,31
+Excelsior,Minnesota,31
+Fayette,Alabama,31
+Ferdinand,Indiana,31
+Floyd,Virginia,31
+Forestville,Maryland,31
+Gibson City,Illinois,31
+Goodland,Kansas,31
+Groves,Texas,31
+Hainesport,New Jersey,31
+Hamlet,North Carolina,31
+Henderson,Tennessee,31
+Hiawassee,Georgia,31
+Highland Park,New Jersey,31
+Hillsboro,Missouri,31
+Hugo,Oklahoma,31
+Islamorada,Florida,31
+Lakehurst,New Jersey,31
+Lakeview,Oregon,31
+Laurel,Delaware,31
+Mabank,Texas,31
+Manlius,New York,31
+Marlette,Michigan,31
+Marshall,Illinois,31
+Maywood,New Jersey,31
+Minneapolis,Kansas,31
+Mosinee,Wisconsin,31
+Oakland Park,Florida,31
+Orwigsburg,Pennsylvania,31
+Parkland,Florida,31
+Perry,Ohio,31
+Perryton,Texas,31
+Phoenix,Maryland,31
+Pitman,New Jersey,31
+Princess Anne,Maryland,31
+Robbinsdale,Minnesota,31
+Scotia,New York,31
+Sparta,Illinois,31
+St. Michael,Minnesota,31
+Sugarcreek,Ohio,31
+Union Grove,Wisconsin,31
+Vergennes,Vermont,31
+Vidor,Texas,31
+Waterford,Wisconsin,31
+Windsor,North Carolina,31
+Winnsboro,South Carolina,31
+Alpine,California,30
+Andrews AFB,Maryland,30
+Audubon,New Jersey,30
+Belmont,New Hampshire,30
+Bethel,Alaska,30
+Boardman,Oregon,30
+Bunnell,Florida,30
+Canal Fulton,Ohio,30
+Carrizo Springs,Texas,30
+Chiefland,Florida,30
+Clarion,Iowa,30
+Clinton,Illinois,30
+Cobb,Georgia,30
+Cut Off,Louisiana,30
+Eastland,Texas,30
+Edgefield,South Carolina,30
+Exeter,California,30
+Flossmoor,Illinois,30
+Fordyce,Arkansas,30
+Fort Stockton,Texas,30
+Fredericktown,Missouri,30
+Greenacres,Florida,30
+Grimes,Iowa,30
+Harper Woods,Michigan,30
+Highland Heights,Kentucky,30
+Horse Cave,Kentucky,30
+Idabel,Oklahoma,30
+Jenks,Oklahoma,30
+Kendall Park,New Jersey,30
+Kingston,Rhode Island,30
+La Marque,Texas,30
+Lafayette Hill,Pennsylvania,30
+Lake City,Minnesota,30
+Lake City,South Carolina,30
+Lansdowne,Pennsylvania,30
+Lawrenceville,Illinois,30
+Leavenworth,Washington,30
+Little Falls,New York,30
+Loxahatchee,Florida,30
+Luverne,Minnesota,30
+Martinez,Georgia,30
+Metter,Georgia,30
+Middleburg,Virginia,30
+Monahans,Texas,30
+Morro Bay,California,30
+Mound,Minnesota,30
+Murphysboro,Illinois,30
+Nashville,North Carolina,30
+New Town,North Dakota,30
+Newcomerstown,Ohio,30
+North Kansas City,Missouri,30
+Olivia,Minnesota,30
+Parkesburg,Pennsylvania,30
+Paynesville,Minnesota,30
+Pepper Pike,Ohio,30
+Pocomoke City,Maryland,30
+Randleman,North Carolina,30
+Rising Sun,Maryland,30
+Seaford,New York,30
+Sharonville,Ohio,30
+Sparta,North Carolina,30
+Stateline,Nevada,30
+Sunnyvale,Texas,30
+Torrington,Wyoming,30
+Tyrone,Pennsylvania,30
+University Park,Pennsylvania,30
+Valley City,Ohio,30
+Verona,Virginia,30
+Vineyard Haven,Massachusetts,30
+West Liberty,Kentucky,30
+Westhampton Beach,New York,30
+Wheatland,Wyoming,30
+Williamsport,Maryland,30
+Yoakum,Texas,30
+Adams,Massachusetts,29
+Alexandria,Kentucky,29
+Annandale,New Jersey,29
+Apollo,Pennsylvania,29
+Archdale,North Carolina,29
+Beebe,Arkansas,29
+Belfair,Washington,29
+Beulah,North Dakota,29
+Bonners Ferry,Idaho,29
+Brandon,South Dakota,29
+Brush,Colorado,29
+Byron,Georgia,29
+Calumet,Michigan,29
+Cameron,North Carolina,29
+Capitola,California,29
+Cass City,Michigan,29
+Central City,Kentucky,29
+Central Valley,New York,29
+Cohoes,New York,29
+Cranberry,Pennsylvania,29
+Crosby,Texas,29
+Culver,Indiana,29
+Detroit,Illinois,29
+Dillon,Colorado,29
+Donaldsonville,Louisiana,29
+Dunkirk,Maryland,29
+Dunlap,Tennessee,29
+Dyersville,Iowa,29
+Eagleville,Pennsylvania,29
+East Cleveland,Ohio,29
+Eddystone,Pennsylvania,29
+Elkton,Virginia,29
+Ellenton,Florida,29
+Ely,Minnesota,29
+Essex,Maryland,29
+Etters,Pennsylvania,29
+Eureka,Illinois,29
+Fort Carson,Colorado,29
+Fresno,Texas,29
+Granite Falls,Minnesota,29
+Greenville,Kentucky,29
+Groveland,Florida,29
+Ham Lake,Minnesota,29
+Henniker,New Hampshire,29
+Hiawatha,Kansas,29
+Homewood,Alabama,29
+Irvine,Kentucky,29
+Jonesborough,Tennessee,29
+Kapaa,Hawaii,29
+Kimberly,Wisconsin,29
+Kings Park,New York,29
+Lancaster,Wisconsin,29
+Lanett,Alabama,29
+Lockhart,Texas,29
+Madison,Ohio,29
+Madison,South Dakota,29
+Melrose,Minnesota,29
+Milaca,Minnesota,29
+Milbank,South Dakota,29
+Monticello,Georgia,29
+Morrison,Illinois,29
+Moyock,North Carolina,29
+Mustang,Oklahoma,29
+Nevada,Iowa,29
+Norridge,Illinois,29
+Northfield,Ohio,29
+Palos Verdes Peninsula,California,29
+Perry,Iowa,29
+Petersburg,Indiana,29
+Raymore,Missouri,29
+River Edge,New Jersey,29
+Romney,West Virginia,29
+Rose Hill,North Carolina,29
+Sahuarita,Arizona,29
+Saint John,Indiana,29
+Seward,Alaska,29
+Silvis,Illinois,29
+Spring City,Pennsylvania,29
+Strasburg,Virginia,29
+Swansboro,North Carolina,29
+Sylvania,Georgia,29
+Tahoe City,California,29
+Titusville,New Jersey,29
+Tryon,North Carolina,29
+Verona,New York,29
+Warren,Arkansas,29
+Waterloo,Wisconsin,29
+Window Rock,Arizona,29
+Winsted,Minnesota,29
+Wintersville,Ohio,29
+Woodstock,Vermont,29
+Allison Park,Pennsylvania,28
+Amherst,Virginia,28
+Anadarko,Oklahoma,28
+Andover,Kansas,28
+Annville,Pennsylvania,28
+Apollo Beach,Florida,28
+Arthur,Illinois,28
+Baldwin,Georgia,28
+Belding,Michigan,28
+Birch Run,Michigan,28
+Bloomer,Wisconsin,28
+Bowling Green,Missouri,28
+Brentwood,New Hampshire,28
+Brookfield,Missouri,28
+Buckley,Washington,28
+Butler,Indiana,28
+Camillus,New York,28
+Cedar Lake,Indiana,28
+Choctaw,Oklahoma,28
+Cohasset,Massachusetts,28
+Comstock Park,Michigan,28
+Corinth,Texas,28
+Crete,Nebraska,28
+Dardanelle,Arkansas,28
+Demorest,Georgia,28
+Dobson,North Carolina,28
+Driggs,Idaho,28
+Duvall,Washington,28
+Eagle Butte,South Dakota,28
+East Grand Forks,Minnesota,28
+East Tawas,Michigan,28
+Eldon,Missouri,28
+Ellsworth,Kansas,28
+Elmer,New Jersey,28
+Ephraim,Utah,28
+Evergreen,Alabama,28
+Federalsburg,Maryland,28
+Ferriday,Louisiana,28
+Flourtown,Pennsylvania,28
+Fort Dix,New Jersey,28
+Fountain,Colorado,28
+Franksville,Wisconsin,28
+Freeport,Pennsylvania,28
+Gap,Pennsylvania,28
+Glen Rose,Texas,28
+Grafton,North Dakota,28
+Graham,Washington,28
+Gray,Maine,28
+Haledon,New Jersey,28
+Halethorpe,Maryland,28
+Halifax,Virginia,28
+Harrisburg,North Carolina,28
+Hartsville,Tennessee,28
+Hayesville,North Carolina,28
+Hickory Hills,Illinois,28
+Inwood,New York,28
+Irving,New York,28
+Iuka,Mississippi,28
+Jamison,Pennsylvania,28
+Jena,Louisiana,28
+Jonesboro,Louisiana,28
+Kalama,Washington,28
+Kodak,Tennessee,28
+Laguna,California,28
+Lamar,Missouri,28
+Lindsay,California,28
+Lomita,California,28
+Manchester,Michigan,28
+Millbrook,New York,28
+Montgomery,Pennsylvania,28
+Montoursville,Pennsylvania,28
+New Boston,Michigan,28
+New Lexington,Ohio,28
+Newmarket,New Hampshire,28
+North Branford,Connecticut,28
+North Chelmsford,Massachusetts,28
+Northbridge,Massachusetts,28
+Northfield,Vermont,28
+Norton Shores,Michigan,28
+Oak Ridge,New Jersey,28
+Ogallala,Nebraska,28
+Orangevale,California,28
+Orland,California,28
+Orono,Maine,28
+Palmyra,Missouri,28
+Payette,Idaho,28
+Pigeon,Michigan,28
+Pine Ridge,South Dakota,28
+Raleigh,North Dakota,28
+Ruther Glen,Virginia,28
+Salem,Missouri,28
+Schwenksville,Pennsylvania,28
+Scottdale,Pennsylvania,28
+Sewanee,Tennessee,28
+Seymour,Tennessee,28
+Soledad,California,28
+Solomons,Maryland,28
+Solvang,California,28
+Somerdale,New Jersey,28
+South Yarmouth,Massachusetts,28
+Spring City,Tennessee,28
+St James,New York,28
+Stanley,North Carolina,28
+Surry,Virginia,28
+Thurmont,Maryland,28
+Ulysses,Kansas,28
+Wabasha,Minnesota,28
+Waldwick,New Jersey,28
+Walker,Michigan,28
+Watkins Glen,New York,28
+Wendell,North Carolina,28
+Weston,Wisconsin,28
+White Salmon,Washington,28
+Wind Gap,Pennsylvania,28
+Windber,Pennsylvania,28
+Accomac,Virginia,27
+Albion,Indiana,27
+Anna,Texas,27
+Aubrey,Texas,27
+Banner Elk,North Carolina,27
+Benton,Illinois,27
+Bethany Beach,Delaware,27
+Bristol,New Hampshire,27
+Cahokia,Illinois,27
+Canastota,New York,27
+Canton,North Carolina,27
+Carneys Point,New Jersey,27
+Carrollton,Missouri,27
+Carterville,Illinois,27
+Center Moriches,New York,27
+Chesterland,Ohio,27
+Cheswick,Pennsylvania,27
+Cottage Grove,Oregon,27
+Coupeville,Washington,27
+Crystal Springs,Mississippi,27
+Crystal,Minnesota,27
+Cumberland,Wisconsin,27
+Drums,Pennsylvania,27
+Eagle River,Alaska,27
+East Hampton,Connecticut,27
+Edgerton,Wisconsin,27
+Elmhurst,New York,27
+Elmwood Park,Illinois,27
+Etowah,Tennessee,27
+Evans,Colorado,27
+Fairfield,Texas,27
+Falconer,New York,27
+Flippin,Arkansas,27
+Forks,Washington,27
+Fort Mohave,Arizona,27
+Glasgow,Montana,27
+Grangeville,Idaho,27
+Greendale,Wisconsin,27
+Greenfield,Ohio,27
+Gridley,California,27
+Hamburg,New Jersey,27
+Hampton,Iowa,27
+Hartsdale,New York,27
+Herriman,Utah,27
+Hesston,Kansas,27
+Huntingtown,Maryland,27
+Ithaca,Michigan,27
+Jamestown,Tennessee,27
+Jefferson,North Carolina,27
+Johnson Creek,Wisconsin,27
+Lake Worth,Texas,27
+Lansing,Kansas,27
+Lemoyne,Pennsylvania,27
+Lincoln,Massachusetts,27
+Luverne,Alabama,27
+Maineville,Ohio,27
+Mansfield,Louisiana,27
+Many,Louisiana,27
+Mary Esther,Florida,27
+Marysville,Kansas,27
+Millinocket,Maine,27
+Mineola,Texas,27
+Montague,Michigan,27
+Monticello,Kentucky,27
+Moose Lake,Minnesota,27
+Mount Arlington,New Jersey,27
+Mount Holly,North Carolina,27
+Nashville,Georgia,27
+Neodesha,Kansas,27
+North Highlands,California,27
+Old Westbury,New York,27
+O'Neill,Nebraska,27
+Pequot Lakes,Minnesota,27
+Petersburg,West Virginia,27
+Pinckney,Michigan,27
+Pine City,Minnesota,27
+Platte City,Missouri,27
+Plattsmouth,Nebraska,27
+Portland,Connecticut,27
+Purcell,Oklahoma,27
+Quarryville,Pennsylvania,27
+Rainsville,Alabama,27
+Remington,Indiana,27
+Saddle River,New Jersey,27
+Selma,North Carolina,27
+Seville,Ohio,27
+Skaneateles,New York,27
+Snow Hill,North Carolina,27
+South Euclid,Ohio,27
+South Ogden,Utah,27
+Southwick,Massachusetts,27
+Spring Valley,Illinois,27
+Stafford,Connecticut,27
+Suisun City,California,27
+Thorndale,Pennsylvania,27
+Tiverton,Rhode Island,27
+Two Harbors,Minnesota,27
+Upton,New York,27
+Wagoner,Oklahoma,27
+Waite Park,Minnesota,27
+Whitehall,Wisconsin,27
+Whitney,Texas,27
+Wills Point,Texas,27
+Winnsboro,Louisiana,27
+Winter Park,Colorado,27
+Wolcott,Connecticut,27
+Almont,Michigan,26
+Angier,North Carolina,26
+Annandale,Minnesota,26
+Avon,New York,26
+Bangor,Michigan,26
+Barrington,New Hampshire,26
+Basalt,Colorado,26
+Bedford,New York,26
+Benson,Minnesota,26
+Berkeley Springs,West Virginia,26
+Berkeley,Illinois,26
+Bethlehem,Georgia,26
+Bixby,Oklahoma,26
+Brookhaven,Pennsylvania,26
+Caldwell,Texas,26
+Cherokee,Iowa,26
+Chesterbrook,Pennsylvania,26
+Cloverdale,California,26
+Cold Spring Harbor,New York,26
+Columbia,Illinois,26
+Cotati,California,26
+Croton-on-Hudson,New York,26
+Denver City,Texas,26
+DeWitt,Michigan,26
+Dinwiddie,Virginia,26
+East Amherst,New York,26
+El Mirage,Arizona,26
+Elgin,South Carolina,26
+Endwell,New York,26
+Fairview Park,Ohio,26
+Farmerville,Louisiana,26
+Farrell,Pennsylvania,26
+Firestone,Colorado,26
+Floyds Knobs,Indiana,26
+Folkston,Georgia,26
+Fremont,Indiana,26
+Gering,Nebraska,26
+Glen Carbon,Illinois,26
+Gold Beach,Oregon,26
+Granby,Colorado,26
+Greene,New York,26
+Greenup,Kentucky,26
+Groesbeck,Texas,26
+Halifax,North Carolina,26
+Heathrow,Florida,26
+Hewlett,New York,26
+High Ridge,Missouri,26
+Hot Springs,Virginia,26
+Iron River,Michigan,26
+Jackson,Minnesota,26
+Jamestown,North Carolina,26
+Jersey Shore,Pennsylvania,26
+Justin,Texas,26
+Lancaster,New Hampshire,26
+Lawrence,New York,26
+Liberty,Kentucky,26
+Littlestown,Pennsylvania,26
+Lyons,Georgia,26
+Lyons,Illinois,26
+Manhattan,Illinois,26
+Marion,Kentucky,26
+McGregor,Texas,26
+Mendham,New Jersey,26
+Mount Orab,Ohio,26
+Mount Sterling,Illinois,26
+Neillsville,Wisconsin,26
+Newington,New Hampshire,26
+Norfolk,Massachusetts,26
+North Babylon,New York,26
+North East,Pennsylvania,26
+Oakhurst,New Jersey,26
+Okemah,Oklahoma,26
+Osage,Iowa,26
+Patterson,New York,26
+Peshtigo,Wisconsin,26
+Pikeville,Tennessee,26
+Preston,Idaho,26
+Richmond,Illinois,26
+Rindge,New Hampshire,26
+Rio Vista,California,26
+Rockport,Indiana,26
+Roslyn Heights,New York,26
+Rupert,Idaho,26
+Sandston,Virginia,26
+Saratoga Springs,Utah,26
+Tallulah,Louisiana,26
+Tiburon,California,26
+Townsend,Massachusetts,26
+Tuckerton,New Jersey,26
+Washington,Michigan,26
+Waynesboro,Tennessee,26
+Western Springs,Illinois,26
+Wheelersburg,Ohio,26
+Williston,Florida,26
+Wilmington,Illinois,26
+Windham,Connecticut,26
+Winnsboro,Texas,26
+Wood River,Illinois,26
+Wray,Colorado,26
+Abbotsford,Wisconsin,25
+Alamo,Texas,25
+Appomattox,Virginia,25
+Arcade,New York,25
+Atlantic Beach,Florida,25
+Augusta,Kansas,25
+Bayport,Minnesota,25
+Beecher,Illinois,25
+Belle Mead,New Jersey,25
+Benson,Arizona,25
+Berryville,Virginia,25
+Blanding,Utah,25
+Bow,New Hampshire,25
+Broken Bow,Nebraska,25
+Brooklyn,Michigan,25
+Buena,New Jersey,25
+Burlington,Colorado,25
+Carleton,Michigan,25
+Center Line,Michigan,25
+Charlotte Hall,Maryland,25
+Clarksville,Maryland,25
+Clarksville,Virginia,25
+Clifton Heights,Pennsylvania,25
+Colquitt,Georgia,25
+Cuthbert,Georgia,25
+Dalton,Ohio,25
+Ely,Nevada,25
+Emmetsburg,Iowa,25
+Emmitsburg,Maryland,25
+Feasterville,Pennsylvania,25
+Fillmore,California,25
+Fowler,California,25
+Franklin,Louisiana,25
+Freeport,Florida,25
+Gaylord,Minnesota,25
+Geneva,Alabama,25
+Ghent,Kentucky,25
+Gibbstown,New Jersey,25
+Graceville,Florida,25
+Grain Valley,Missouri,25
+Granby,Connecticut,25
+Grantsburg,Wisconsin,25
+Grantsville,Maryland,25
+Gray,Georgia,25
+Greenwich,New York,25
+Hamel,Minnesota,25
+Hanahan,South Carolina,25
+Hapeville,Georgia,25
+Hartford,Kentucky,25
+Hinton,West Virginia,25
+Holly Hill,Florida,25
+Homer,Michigan,25
+Huntingdon,Tennessee,25
+Johnstown,Colorado,25
+Jonesville,Michigan,25
+Kingfisher,Oklahoma,25
+Kingston,Washington,25
+Lower Burrell,Pennsylvania,25
+Ludlow,Vermont,25
+Manistique,Michigan,25
+Manorville,New York,25
+Mantua,New Jersey,25
+Marana,Arizona,25
+Mechanicville,New York,25
+Miller Place,New York,25
+Monte Vista,Colorado,25
+Montpelier,Ohio,25
+Munising,Michigan,25
+Newberry,Michigan,25
+North Manchester,Indiana,25
+North Plainfield,New Jersey,25
+Norton,Kansas,25
+Ocilla,Georgia,25
+Oconto,Wisconsin,25
+Ohio,Illinois,25
+Parkville,Missouri,25
+Parlier,California,25
+Parrish,Florida,25
+Paxton,Illinois,25
+Pearisburg,Virginia,25
+Pine Bush,New York,25
+Poplarville,Mississippi,25
+Rainbow City,Alabama,25
+Rancho Santa Fe,California,25
+Ravenswood,West Virginia,25
+Rochester,Washington,25
+Rock Rapids,Iowa,25
+Rockville,Indiana,25
+Ronan,Montana,25
+Sarver,Pennsylvania,25
+Savage,Maryland,25
+Shrewsbury,Pennsylvania,25
+Slinger,Wisconsin,25
+South Glens Falls,New York,25
+South Padre Island,Texas,25
+South River,New Jersey,25
+Spring Arbor,Michigan,25
+Stamford,New York,25
+Stanton,Michigan,25
+Stewartsville,New Jersey,25
+Stony Point,New York,25
+Sullivan,Illinois,25
+Summit,Illinois,25
+Surfside Beach,South Carolina,25
+Tama,Iowa,25
+Toano,Virginia,25
+Troy,Pennsylvania,25
+Valdez,Alaska,25
+Vestavia Hills,Alabama,25
+Vienna,Georgia,25
+Wartburg,Tennessee,25
+Welch,West Virginia,25
+Whitmore Lake,Michigan,25
+Wilburton,Oklahoma,25
+Willowick,Ohio,25
+Winterset,Iowa,25
+Adel,Iowa,24
+Alexandria,Indiana,24
+Antlers,Oklahoma,24
+Athens,Pennsylvania,24
+Attalla,Alabama,24
+Bamberg,South Carolina,24
+Bandera,Texas,24
+Beaver Dam,Kentucky,24
+Bedford Hills,New York,24
+Bisbee,Arizona,24
+Bishopville,South Carolina,24
+Blackwell,Oklahoma,24
+Bolton,Massachusetts,24
+Catoosa,Oklahoma,24
+Cedar Springs,Michigan,24
+Chariton,Iowa,24
+Chester,Connecticut,24
+Chesterfield,South Carolina,24
+Chickamauga,Georgia,24
+Collins,Mississippi,24
+Colma,California,24
+Concordia,Kansas,24
+Coventry,Connecticut,24
+Decherd,Tennessee,24
+Dennis,Massachusetts,24
+Durham,Connecticut,24
+Elgin,Texas,24
+Elwood,Indiana,24
+Emporium,Pennsylvania,24
+Exeter,Pennsylvania,24
+Fallston,Maryland,24
+Ford City,Pennsylvania,24
+Fort Lupton,Colorado,24
+Frazer,Pennsylvania,24
+Fulton,Kentucky,24
+Gas City,Indiana,24
+Gentry,Arkansas,24
+Girard,Kansas,24
+Great Mills,Maryland,24
+Greenvale,New York,24
+Hempstead,Texas,24
+Hertford,North Carolina,24
+Hillsboro,Illinois,24
+Hogansville,Georgia,24
+Holbrook,Massachusetts,24
+Hopedale,Massachusetts,24
+Hudson Falls,New York,24
+Ivyland,Pennsylvania,24
+Jonesville,Virginia,24
+Joppa,Maryland,24
+Kemah,Texas,24
+Kennebunkport,Maine,24
+Kinnelon,New Jersey,24
+Lebanon,Illinois,24
+Leicester,Massachusetts,24
+Lomira,Wisconsin,24
+Lynn Haven,Florida,24
+Madisonville,Texas,24
+Maiden,North Carolina,24
+Manchester,Massachusetts,24
+Millis,Massachusetts,24
+Mogadore,Ohio,24
+Monticello,Iowa,24
+Moorefield,West Virginia,24
+Moultonborough,New Hampshire,24
+Mountain View,Arkansas,24
+New Carlisle,Ohio,24
+Newbury,Ohio,24
+North Sioux City,South Dakota,24
+Northern,New Jersey,24
+Ortonville,Minnesota,24
+Palisades Park,New Jersey,24
+Parma Heights,Ohio,24
+Pedricktown,New Jersey,24
+Picatinny Arsenal,New Jersey,24
+Pilot Point,Texas,24
+Pinckneyville,Illinois,24
+Prospect,Connecticut,24
+River Forest,Illinois,24
+River Grove,Illinois,24
+Riverside,Missouri,24
+Roaring Spring,Pennsylvania,24
+Rumford,Maine,24
+Rush City,Minnesota,24
+San Carlos,Arizona,24
+San Marino,California,24
+Sheridan,Arkansas,24
+Shiloh,Illinois,24
+Shingle Springs,California,24
+Smithville,Texas,24
+Somerville,Tennessee,24
+South Point,Ohio,24
+Spring Green,Wisconsin,24
+Spring Valley,California,24
+Springtown,Texas,24
+Standish,Maine,24
+Stilwell,Oklahoma,24
+Storrs Mansfield,Connecticut,24
+Story City,Iowa,24
+Tallapoosa,Georgia,24
+Tompkinsville,Kentucky,24
+Trophy Club,Texas,24
+Troutman,North Carolina,24
+Truth Or Consequences,New Mexico,24
+Warsaw,North Carolina,24
+Wasco,California,24
+Watsontown,Pennsylvania,24
+West Frankfort,Illinois,24
+White City,Oregon,24
+White Plains,Maryland,24
+Whitehouse,New Jersey,24
+Winona,Mississippi,24
+Winters,California,24
+Woods Cross,Utah,24
+Worland,Wyoming,24
+Advance,North Carolina,23
+Algonac,Michigan,23
+Anamosa,Iowa,23
+Assumption,Illinois,23
+Aurora,Indiana,23
+Bedford Heights,Ohio,23
+Bellows Falls,Vermont,23
+Bethany,Oklahoma,23
+Bloomfield,Iowa,23
+Bonifay,Florida,23
+Boulder City,Nevada,23
+Brentwood,Missouri,23
+Bridgehampton,New York,23
+Burton,Ohio,23
+Caruthersville,Missouri,23
+Coeburn,Virginia,23
+Columbia Falls,Montana,23
+Corydon,Iowa,23
+Crosby,Minnesota,23
+Cullowhee,North Carolina,23
+Damascus,Maryland,23
+Dilley,Texas,23
+Doniphan,Missouri,23
+Dumas,Arkansas,23
+Edgerton,Ohio,23
+Edinburg,Virginia,23
+Edna,Texas,23
+Elkhorn,Nebraska,23
+England,Arkansas,23
+Enterprise,Oregon,23
+Estherville,Iowa,23
+Exmore,Virginia,23
+Fairbury,Illinois,23
+Fairfax Station,Virginia,23
+Farmville,North Carolina,23
+Florence,New Jersey,23
+Folcroft,Pennsylvania,23
+Foley,Minnesota,23
+Franklinville,New Jersey,23
+Gold River,California,23
+Goldendale,Washington,23
+Guilderland,New York,23
+Hampton,New Jersey,23
+Haverstraw,New York,23
+Hawaiian Gardens,California,23
+Helena,Alabama,23
+Hoquiam,Washington,23
+Jackson,Kentucky,23
+La Vista,Nebraska,23
+Laie,Hawaii,23
+Lamesa,Texas,23
+Lighthouse Point,Florida,23
+Lincroft,New Jersey,23
+Long Prairie,Minnesota,23
+Lovington,New Mexico,23
+Madisonville,Louisiana,23
+Mantua,Ohio,23
+Maple Lake,Minnesota,23
+Margate City,New Jersey,23
+Monmouth,Oregon,23
+Morrison,Tennessee,23
+Nahunta,Georgia,23
+Nephi,Utah,23
+New Tazewell,Tennessee,23
+Nitro,West Virginia,23
+Nome,Alaska,23
+Oak Bluffs,Massachusetts,23
+Oak Harbor,Ohio,23
+Penfield,New York,23
+Pittsfield,Maine,23
+Prairie du Sac,Wisconsin,23
+Prospect Heights,Illinois,23
+Quinlan,Texas,23
+Rayville,Louisiana,23
+Redding,Connecticut,23
+Richfield,Wisconsin,23
+Robinsonville,Mississippi,23
+Sauk Village,Illinois,23
+Savanna,Illinois,23
+Schulenburg,Texas,23
+Sibley,Iowa,23
+St. Louis,Michigan,23
+Sunman,Indiana,23
+Talihina,Oklahoma,23
+Theodore,Alabama,23
+Triangle,Virginia,23
+Universal City,Texas,23
+Van Alstyne,Texas,23
+Vandenberg AFB,California,23
+Vashon,Washington,23
+Vienna,West Virginia,23
+Wahoo,Nebraska,23
+Walden,New York,23
+West Burlington,Iowa,23
+West End,North Carolina,23
+West Point,Nebraska,23
+West Point,Virginia,23
+Westhampton,New York,23
+Wilton,New Hampshire,23
+Woodside,California,23
+Woodville,Texas,23
+Albrightsville,Pennsylvania,22
+Alden,New York,22
+Alpine,Utah,22
+Anna,Ohio,22
+Asbury,New Jersey,22
+Avalon,California,22
+Aztec,New Mexico,22
+Barnesville,Ohio,22
+Bayfield,Wisconsin,22
+Bellville,Texas,22
+Benbrook,Texas,22
+Bessemer City,North Carolina,22
+Bethany,Missouri,22
+Beverly Hills,Michigan,22
+Biscoe,North Carolina,22
+Bladensburg,Maryland,22
+Blountville,Tennessee,22
+Blue Earth,Minnesota,22
+Bonaire,Georgia,22
+Brown Deer,Wisconsin,22
+Brownsville,Wisconsin,22
+Burlington,Kansas,22
+Byron,Illinois,22
+Calais,Maine,22
+California,Missouri,22
+Canyon Lake,Texas,22
+Carlyle,Illinois,22
+Casey,Illinois,22
+Cass Lake,Minnesota,22
+Champlain,New York,22
+Charleston,Tennessee,22
+Chatham,Illinois,22
+Chatham,Virginia,22
+Chester,Illinois,22
+China Grove,North Carolina,22
+Chisago City,Minnesota,22
+Claremont,North Carolina,22
+Cleves,Ohio,22
+Clintwood,Virginia,22
+Colfax,Washington,22
+Columbiana,Alabama,22
+Comanche,Texas,22
+Crystal City,Texas,22
+Dadeville,Alabama,22
+De Queen,Arkansas,22
+De Soto,Kansas,22
+Delmar,Delaware,22
+Durand,Michigan,22
+East Alton,Illinois,22
+East Liberty,Ohio,22
+Ellsworth,Wisconsin,22
+Farmington,New York,22
+Fort Defiance,Arizona,22
+Fulton,Mississippi,22
+Gaston,South Carolina,22
+Gladstone,Missouri,22
+Gladstone,Oregon,22
+Granite Falls,North Carolina,22
+Gray Court,South Carolina,22
+Greenport,New York,22
+Hogansburg,New York,22
+Houston,Pennsylvania,22
+Hudson,North Carolina,22
+Inez,Kentucky,22
+Ironton,Missouri,22
+Jacksboro,Tennessee,22
+John Day,Oregon,22
+Junction City,Oregon,22
+Laguna Woods,California,22
+Lake Buena Vista,Florida,22
+Lake Mills,Wisconsin,22
+Lakewood,New York,22
+Landing,New Jersey,22
+Lincoln,Maine,22
+Lindenwold,New Jersey,22
+Little Silver,New Jersey,22
+Lodi,Ohio,22
+Loogootee,Indiana,22
+Louisville,Georgia,22
+Lucasville,Ohio,22
+Luling,Texas,22
+Lumpkin,Georgia,22
+Lyndhurst,Ohio,22
+Madawaska,Maine,22
+Madison,Virginia,22
+Marseilles,Illinois,22
+Martinsburg,Pennsylvania,22
+Maxton,North Carolina,22
+McConnelsville,Ohio,22
+Mcguire AFB,New Jersey,22
+Miami,Arizona,22
+Midway,Georgia,22
+Mifflintown,Pennsylvania,22
+Milton,Georgia,22
+Montevallo,Alabama,22
+Moulton,Alabama,22
+Nanticoke,Pennsylvania,22
+Norwich,Vermont,22
+Ocean Isle Beach,North Carolina,22
+Olivehurst,California,22
+Opp,Alabama,22
+Osseo,Minnesota,22
+Parsons,Tennessee,22
+Pass Christian,Mississippi,22
+Pelham,New Hampshire,22
+Pendleton,South Carolina,22
+Pequannock,New Jersey,22
+Petal,Mississippi,22
+Philippi,West Virginia,22
+Pittsburg,Texas,22
+Putnam Valley,New York,22
+Raymondville,Texas,22
+Rittman,Ohio,22
+Rock Valley,Iowa,22
+Rosamond,California,22
+Salyersville,Kentucky,22
+Schoolcraft,Michigan,22
+Sea Girt,New Jersey,22
+Sisseton,South Dakota,22
+Slayton,Minnesota,22
+Snowflake,Arizona,22
+Southold,New York,22
+Spring Lake,New Jersey,22
+Sun City,Florida,22
+Swanton,Ohio,22
+Tabor City,North Carolina,22
+Tioga,North Dakota,22
+Trenton,Ohio,22
+Vandergrift,Pennsylvania,22
+Warm Springs,Georgia,22
+Weed,California,22
+Weiser,Idaho,22
+West Union,Iowa,22
+Westwego,Louisiana,22
+Willcox,Arizona,22
+Willoughby Hills,Ohio,22
+Wilmore,Kentucky,22
+Woodruff,South Carolina,22
+Woodstown,New Jersey,22
+Adams,Wisconsin,21
+Atoka,Oklahoma,21
+Ballinger,Texas,21
+Bassett,Virginia,21
+Baudette,Minnesota,21
+Becker,Minnesota,21
+Bellaire,Ohio,21
+Bethel,Maine,21
+Blackstone,Virginia,21
+Blakely,Georgia,21
+Blandon,Pennsylvania,21
+Blowing Rock,North Carolina,21
+Breckenridge,Minnesota,21
+Byram,Mississippi,21
+Calverton,New York,21
+Carey,Ohio,21
+Catlettsburg,Kentucky,21
+Celina,Texas,21
+Chase City,Virginia,21
+Clarkston,Georgia,21
+Claymont,Delaware,21
+Cold Spring,Kentucky,21
+Cold Spring,Minnesota,21
+Columbus,Texas,21
+Conley,Georgia,21
+Cornelius,Oregon,21
+Custer,South Dakota,21
+Cut Bank,Montana,21
+De Soto,Missouri,21
+DeForest,Wisconsin,21
+Delphi,Indiana,21
+Delta,Ohio,21
+Diboll,Texas,21
+Eastchester,New York,21
+Effort,Pennsylvania,21
+Elma,New York,21
+Elwood,Illinois,21
+Englishtown,New Jersey,21
+Essington,Pennsylvania,21
+Eveleth,Minnesota,21
+Firebaugh,California,21
+Frankfort,Michigan,21
+Garrett,Indiana,21
+Gate City,Virginia,21
+Grand Terrace,California,21
+Graniteville,South Carolina,21
+Gypsum,Colorado,21
+Hales Corners,Wisconsin,21
+Harrison,Michigan,21
+Hartford,Vermont,21
+Haslett,Michigan,21
+Hatfield,Massachusetts,21
+Hearne,Texas,21
+Highland Park,Michigan,21
+Holton,Kansas,21
+Houston,Mississippi,21
+Indiantown,Florida,21
+Jacksboro,Texas,21
+Jackson,Wisconsin,21
+Kansas,Oklahoma,21
+La Pine,Oregon,21
+Lewisberry,Pennsylvania,21
+Littlefield,Texas,21
+Lost Hills,California,21
+Loudonville,Ohio,21
+Macon,Mississippi,21
+Marshville,North Carolina,21
+Mathews,Virginia,21
+Maynardville,Tennessee,21
+McCalla,Alabama,21
+McKees Rocks,Pennsylvania,21
+Midland,Pennsylvania,21
+Mineral,Virginia,21
+Monessen,Pennsylvania,21
+Moscow,Pennsylvania,21
+Navarre,Ohio,21
+New Boston,Texas,21
+Newport,Washington,21
+Newton,Illinois,21
+Oakwood,Ohio,21
+Osseo,Wisconsin,21
+Palos Park,Illinois,21
+Peapack,New Jersey,21
+Portola Valley,California,21
+Powell,Tennessee,21
+Princeton,Texas,21
+Quitman,Texas,21
+Red Bud,Illinois,21
+Renville,Minnesota,21
+Republic,Missouri,21
+Richburg,South Carolina,21
+Richlands,North Carolina,21
+Richmond,Missouri,21
+Rochester,Pennsylvania,21
+Roscommon,Michigan,21
+Rusk,Texas,21
+Sacaton,Arizona,21
+Saluda,South Carolina,21
+Santa Teresa,New Mexico,21
+Sauget,Illinois,21
+Seneca,Kansas,21
+Sharon Hill,Pennsylvania,21
+Sinking Spring,Pennsylvania,21
+Tonasket,Washington,21
+Tupper Lake,New York,21
+Turners Falls,Massachusetts,21
+Tuscola,Illinois,21
+Upton,Massachusetts,21
+Vinton,Iowa,21
+Wading River,New York,21
+Walnut Ridge,Arkansas,21
+Warsaw,Missouri,21
+Waterville,Ohio,21
+Weare,New Hampshire,21
+West Boylston,Massachusetts,21
+White Hall,Arkansas,21
+Williamstown,Kentucky,21
+Wimberley,Texas,21
+Wiscasset,Maine,21
+Woodstock,New York,21
+Yeadon,Pennsylvania,21
+Yorktown,New York,21
+Yuma,Colorado,21
+Albia,Iowa,20
+Arvin,California,20
+Ashdown,Arkansas,20
+Barrow,Alaska,20
+Belcourt,North Dakota,20
+Bernalillo,New Mexico,20
+Berwick,Maine,20
+Bethalto,Illinois,20
+Blacksburg,South Carolina,20
+Brodheadsville,Pennsylvania,20
+Buchanan,Michigan,20
+Buena Vista,Virginia,20
+Caldwell,Ohio,20
+Callahan,Florida,20
+Carver,Massachusetts,20
+Cashmere,Washington,20
+Centre,Alabama,20
+Chamberlain,South Dakota,20
+Cheltenham,Pennsylvania,20
+Chetek,Wisconsin,20
+Circle Pines,Minnesota,20
+Cisco,Texas,20
+Colebrook,New Hampshire,20
+Conifer,Colorado,20
+Coxsackie,New York,20
+Crestview Hills,Kentucky,20
+Crestwood,Kentucky,20
+Crownsville,Maryland,20
+Dallastown,Pennsylvania,20
+Del City,Oklahoma,20
+Destrehan,Louisiana,20
+Diamondhead,Mississippi,20
+Dwight,Illinois,20
+East China,Michigan,20
+Elizabethtown,New York,20
+Elysburg,Pennsylvania,20
+Evart,Michigan,20
+Fairbury,Nebraska,20
+Falls City,Nebraska,20
+Folsom,Pennsylvania,20
+Fosston,Minnesota,20
+Glenwood,Iowa,20
+Great River,New York,20
+Greenfield,New Hampshire,20
+Greenville,Wisconsin,20
+Groveland,California,20
+Hackberry,Louisiana,20
+Hanover,Virginia,20
+Harrogate,Tennessee,20
+Hartford City,Indiana,20
+Hiram,Ohio,20
+Hueytown,Alabama,20
+Huntsville,Arkansas,20
+Ingleside,Illinois,20
+Kanab,Utah,20
+Kentfield,California,20
+Keshena,Wisconsin,20
+Killingly,Connecticut,20
+Lagrangeville,New York,20
+Lake Elmo,Minnesota,20
+Laurel,Montana,20
+Lindsay,Oklahoma,20
+Lonoke,Arkansas,20
+Marine City,Michigan,20
+Mastic Beach,New York,20
+Mayo,Florida,20
+Maywood,California,20
+Melbourne,Arkansas,20
+Mettawa,Illinois,20
+Mill Hall,Pennsylvania,20
+Millersburg,Pennsylvania,20
+Millington,Michigan,20
+Milton,Vermont,20
+Montgomery Village,Maryland,20
+New Carrollton,Maryland,20
+New Haven,Indiana,20
+Newcastle,Wyoming,20
+Newell,West Virginia,20
+Newton,Mississippi,20
+Newville,Pennsylvania,20
+Nipomo,California,20
+North Stonington,Connecticut,20
+Northwood,Ohio,20
+Oregon,Wisconsin,20
+Orleans,Indiana,20
+Pacific,Washington,20
+Pascoag,Rhode Island,20
+Pinedale,Wyoming,20
+Polk City,Florida,20
+Pomfret,Connecticut,20
+Preston,Maryland,20
+Putney,Vermont,20
+Quincy,California,20
+Quitman,Georgia,20
+Raceland,Louisiana,20
+Rehoboth,Massachusetts,20
+Robinson,Pennsylvania,20
+Robstown,Texas,20
+Rockford,Minnesota,20
+Rotterdam,New York,20
+Sag Harbor,New York,20
+Scappoose,Oregon,20
+Sharpsburg,Georgia,20
+Sierra Madre,California,20
+Skiatook,Oklahoma,20
+Springdale,Ohio,20
+Supply,North Carolina,20
+Susquehanna,Pennsylvania,20
+Sutton,West Virginia,20
+Terryville,Connecticut,20
+Thermal,California,20
+Ticonderoga,New York,20
+Toledo,Iowa,20
+Trenton,Tennessee,20
+Tylertown,Mississippi,20
+Walton,New York,20
+Wamego,Kansas,20
+Washington,Georgia,20
+Weaverville,California,20
+Wellston,Ohio,20
+West Kingston,Rhode Island,20
+Whitestown,Indiana,20
+Whitsett,North Carolina,20
+Woodbine,New Jersey,20
+Zumbrota,Minnesota,20
+Accokeek,Maryland,19
+Acushnet,Massachusetts,19
+Anaconda,Montana,19
+Andover,New Jersey,19
+Ashley,Indiana,19
+Atlantic Highlands,New Jersey,19
+Baraga,Michigan,19
+Bay Village,Ohio,19
+Bellaire,Michigan,19
+Boydton,Virginia,19
+Bridgeport,New Jersey,19
+Brodhead,Wisconsin,19
+Brownsville,Pennsylvania,19
+Buchanan,New York,19
+Buzzards Bay,Massachusetts,19
+Camp Springs,Maryland,19
+Centerville,Tennessee,19
+Chesapeake Beach,Maryland,19
+Childress,Texas,19
+Clarendon Hills,Illinois,19
+Cold Spring,New York,19
+Coquille,Oregon,19
+Corrigan,Texas,19
+Corunna,Michigan,19
+Coweta,Oklahoma,19
+Dighton,Massachusetts,19
+Dover,Tennessee,19
+East Haddam,Connecticut,19
+East Weymouth,Massachusetts,19
+Eastham,Massachusetts,19
+Estacada,Oregon,19
+Fanwood,New Jersey,19
+Far Hills,New Jersey,19
+Fayette,Iowa,19
+Fayetteville,New York,19
+Fayetteville,West Virginia,19
+Freeland,Michigan,19
+Garner,Iowa,19
+Garnerville,New York,19
+Goochland,Virginia,19
+Gray,Tennessee,19
+Hamilton,Massachusetts,19
+Hanson,Massachusetts,19
+Havana,Illinois,19
+Hephzibah,Georgia,19
+Hillsboro,New Hampshire,19
+Hillsdale,New Jersey,19
+Holdenville,Oklahoma,19
+Hollis,New Hampshire,19
+Holmen,Wisconsin,19
+Indian Harbour Beach,Florida,19
+Inwood,West Virginia,19
+Joshua,Texas,19
+Keizer,Oregon,19
+Kuna,Idaho,19
+Ladue,Missouri,19
+LaGrange,Ohio,19
+Ledgewood,New Jersey,19
+Lester Prairie,Minnesota,19
+Lincoln,New Hampshire,19
+Linden,Michigan,19
+Long Lake,Minnesota,19
+Maple Plain,Minnesota,19
+Marcus Hook,Pennsylvania,19
+Mattapoisett,Massachusetts,19
+Mendon,Massachusetts,19
+Millen,Georgia,19
+Monticello,Illinois,19
+Mountain Grove,Missouri,19
+Murphy,Texas,19
+Narberth,Pennsylvania,19
+Nashville,Indiana,19
+New Brighton,Pennsylvania,19
+Newland,North Carolina,19
+Newton Falls,Ohio,19
+Norco,Louisiana,19
+Oak Grove,Kentucky,19
+Old Greenwich,Connecticut,19
+Oldwick,New Jersey,19
+Olivette,Missouri,19
+Onancock,Virginia,19
+Onawa,Iowa,19
+Orwell,Ohio,19
+Pana,Illinois,19
+Peoria Heights,Illinois,19
+Perry,New York,19
+Philomath,Oregon,19
+Rathdrum,Idaho,19
+Richmond Heights,Ohio,19
+Rio Grande,New Jersey,19
+Riverside,Illinois,19
+Rolling Hills Estates,California,19
+Round Lake Beach,Illinois,19
+Scott City,Kansas,19
+Sheffield,Massachusetts,19
+Shiprock,New Mexico,19
+Sinton,Texas,19
+Slatington,Pennsylvania,19
+Smithfield,Pennsylvania,19
+South Barrington,Illinois,19
+Staunton,Illinois,19
+Stephens City,Virginia,19
+Stevensville,Montana,19
+Stigler,Oklahoma,19
+Struthers,Ohio,19
+Sugar Hill,Georgia,19
+Three Rivers,Texas,19
+Tujunga,California,19
+Waitsfield,Vermont,19
+Walkersville,Maryland,19
+Wallington,New Jersey,19
+Wanaque,New Jersey,19
+Watauga,Texas,19
+Watervliet,New York,19
+Williston,South Carolina,19
+Winner,South Dakota,19
+Winthrop,Massachusetts,19
+Woodsfield,Ohio,19
+Worcester,Pennsylvania,19
+Worth,Illinois,19
+Yellow Springs,Ohio,19
+Alma,Arkansas,18
+Amite,Louisiana,18
+Arcadia,Louisiana,18
+Auburn,Georgia,18
+Aurora,Oregon,18
+Austin,Indiana,18
+Bath,Pennsylvania,18
+Bay Saint Louis,Mississippi,18
+Bellbrook,Ohio,18
+Belmond,Iowa,18
+Blackstone,Massachusetts,18
+Blissfield,Michigan,18
+Blountstown,Florida,18
+Bolivar,Ohio,18
+Boothbay Harbor,Maine,18
+Bradford,Vermont,18
+Bristow,Oklahoma,18
+Brookville,Indiana,18
+Bucksport,Maine,18
+Burney,California,18
+Cannon Beach,Oregon,18
+Caseyville,Illinois,18
+Center City,Minnesota,18
+Central,South Carolina,18
+Chilhowie,Virginia,18
+Chino Valley,Arizona,18
+Chisholm,Minnesota,18
+Concordia,Missouri,18
+Cozad,Nebraska,18
+Crisfield,Maryland,18
+Deadwood,South Dakota,18
+Delaware City,Delaware,18
+Delmont,Pennsylvania,18
+Dillwyn,Virginia,18
+Dudley,North Carolina,18
+East Rockaway,New York,18
+Edwardsville,Kansas,18
+Elizabeth,Colorado,18
+Ellettsville,Indiana,18
+Elverson,Pennsylvania,18
+Eureka Springs,Arkansas,18
+Evendale,Ohio,18
+Everett,Pennsylvania,18
+Fairview,New Jersey,18
+Fairview,Oregon,18
+Fennimore,Wisconsin,18
+Fitchburg,Wisconsin,18
+Fort Wright,Kentucky,18
+Frackville,Pennsylvania,18
+Franklinton,North Carolina,18
+Freeland,Washington,18
+Fruita,Colorado,18
+Fryeburg,Maine,18
+Galesburg,Michigan,18
+Georgetown,Ohio,18
+Glen Head,New York,18
+Gonzales,California,18
+Gordon,Nebraska,18
+Grafton,Ohio,18
+Grass Lake,Michigan,18
+Gravette,Arkansas,18
+Greenlawn,New York,18
+Hagerstown,Indiana,18
+Hallettsville,Texas,18
+Hampton,South Carolina,18
+Hermann,Missouri,18
+Highland Village,Texas,18
+Hines,Illinois,18
+Hinesburg,Vermont,18
+Hugoton,Kansas,18
+Ida Grove,Iowa,18
+Indialantic,Florida,18
+Jefferson,Iowa,18
+Jourdanton,Texas,18
+Kemmerer,Wyoming,18
+Kenly,North Carolina,18
+Kerman,California,18
+Kingman,Kansas,18
+Kingsford,Michigan,18
+Koloa,Hawaii,18
+Lac Du Flambeau,Wisconsin,18
+Lacombe,Louisiana,18
+Lake Village,Arkansas,18
+Lakeville,Connecticut,18
+Landrum,South Carolina,18
+Leechburg,Pennsylvania,18
+Locust Valley,New York,18
+Lodi,Wisconsin,18
+London,Arkansas,18
+Los Fresnos,Texas,18
+Lyons,Kansas,18
+Madill,Oklahoma,18
+Mahanoy City,Pennsylvania,18
+Malden,Missouri,18
+Manor,Texas,18
+Manvel,Texas,18
+Marlin,Texas,18
+Mashantucket,Connecticut,18
+Mauldin,South Carolina,18
+Mayodan,North Carolina,18
+McGehee,Arkansas,18
+Melvindale,Michigan,18
+Mohnton,Pennsylvania,18
+Monson,Massachusetts,18
+Montville,Connecticut,18
+Moraine,Ohio,18
+Mount Union,Pennsylvania,18
+Needles,California,18
+New Lisbon,Wisconsin,18
+New Market,Virginia,18
+Newcastle,Washington,18
+Nichols,New York,18
+North Hampton,New Hampshire,18
+Norway,Maine,18
+Oconto Falls,Wisconsin,18
+Orefield,Pennsylvania,18
+Owensville,Missouri,18
+Pen Argyl,Pennsylvania,18
+Pleasant Hill,Missouri,18
+Pleasant Valley,New York,18
+Point Pleasant Beach,New Jersey,18
+Port Gibson,Mississippi,18
+Pulaski,Wisconsin,18
+Raymond,Washington,18
+Reedsport,Oregon,18
+Roosevelt,New York,18
+Roselle Park,New Jersey,18
+Rossford,Ohio,18
+Rumford,Rhode Island,18
+Rutland,Massachusetts,18
+Salmon,Idaho,18
+Saluda,Virginia,18
+Scott Depot,West Virginia,18
+Seagoville,Texas,18
+Seneca,Pennsylvania,18
+Senoia,Georgia,18
+Shenandoah,Pennsylvania,18
+Shipshewana,Indiana,18
+Southport,Connecticut,18
+Springfield,Kentucky,18
+Steger,Illinois,18
+Stockbridge,Massachusetts,18
+Stokesdale,North Carolina,18
+Swanton,Vermont,18
+Thermopolis,Wyoming,18
+Tucumcari,New Mexico,18
+Union City,Indiana,18
+Union,Kentucky,18
+Upper Arlington,Ohio,18
+Versailles,Missouri,18
+Waymart,Pennsylvania,18
+Webb City,Missouri,18
+Wedowee,Alabama,18
+Welcome,North Carolina,18
+White Sulphur Springs,West Virginia,18
+Williams,Arizona,18
+Williamsburg,Iowa,18
+Wilton,New York,18
+Winslow,Maine,18
+Woodsville,New Hampshire,18
+Wyandanch,New York,18
+Wyandotte,Oklahoma,18
+Youngtown,Arizona,18
+Alamo,Georgia,17
+Alamo,Tennessee,17
+Algoma,Wisconsin,17
+Algona,Washington,17
+Alturas,California,17
+Andover,Ohio,17
+Andrews,South Carolina,17
+Ash Flat,Arkansas,17
+Attica,Indiana,17
+Audubon,Iowa,17
+Aurora,Missouri,17
+Beale AFB,California,17
+Bellerose,New York,17
+Bergen,New York,17
+Bethany,Connecticut,17
+Blacklick,Ohio,17
+Blanco,Texas,17
+Bonner Springs,Kansas,17
+Booneville,Arkansas,17
+Burkburnett,Texas,17
+Camden,New York,17
+Canyonville,Oregon,17
+Cape Charles,Virginia,17
+Cardington,Ohio,17
+Castroville,California,17
+Charlestown,Rhode Island,17
+Chatham,New York,17
+Chattahoochee,Florida,17
+Chester,West Virginia,17
+Church Hill,Tennessee,17
+Coal City,Illinois,17
+Coleman,Texas,17
+Columbia,Pennsylvania,17
+Conklin,New York,17
+Cottage Grove,Wisconsin,17
+Croydon,Pennsylvania,17
+Danville,Arkansas,17
+Dassel,Minnesota,17
+Delhi,Louisiana,17
+Dover-Foxcroft,Maine,17
+Dunbar,West Virginia,17
+East Earl,Pennsylvania,17
+East Palestine,Ohio,17
+Eddyville,Iowa,17
+El Paso,Illinois,17
+Eldridge,Iowa,17
+Elizabeth,Pennsylvania,17
+Elm Grove,Wisconsin,17
+Eufaula,Oklahoma,17
+Fairfield,Pennsylvania,17
+Fincastle,Virginia,17
+Finksburg,Maryland,17
+Galliano,Louisiana,17
+Garrettsville,Ohio,17
+George West,Texas,17
+Gladstone,Michigan,17
+Gladstone,New Jersey,17
+Glenmoore,Pennsylvania,17
+Gowanda,New York,17
+Greenbrier,Arkansas,17
+Gun Barrel City,Texas,17
+Guttenberg,Iowa,17
+Halifax,Massachusetts,17
+Harmony,Pennsylvania,17
+Harvard,Massachusetts,17
+Hebron,Nebraska,17
+Henryetta,Oklahoma,17
+Hewitt,Texas,17
+Homer,Louisiana,17
+Hortonville,Wisconsin,17
+Ignacio,Colorado,17
+Jefferson Valley,New York,17
+Jonestown,Pennsylvania,17
+Kermit,Texas,17
+Kingston,New Hampshire,17
+La Grange Park,Illinois,17
+Lake Barrington,Illinois,17
+Lake Park,Georgia,17
+Lansdowne,Virginia,17
+Linden,Tennessee,17
+Llano,Texas,17
+Long Beach,Washington,17
+Loudon,New Hampshire,17
+Louisburg,Kansas,17
+Lyons,New York,17
+Macedon,New York,17
+Magna,Utah,17
+Mahnomen,Minnesota,17
+Mars Hill,North Carolina,17
+Mascoutah,Illinois,17
+Merchantville,New Jersey,17
+Middleburg,Pennsylvania,17
+Midway,Utah,17
+Mont Belvieu,Texas,17
+Morton,Mississippi,17
+Mount Carmel,Pennsylvania,17
+Mulvane,Kansas,17
+Nekoosa,Wisconsin,17
+New Berlin,New York,17
+New Carlisle,Indiana,17
+New Freedom,Pennsylvania,17
+New Stanton,Pennsylvania,17
+Niwot,Colorado,17
+North Riverside,Illinois,17
+Nottingham,Pennsylvania,17
+Nyssa,Oregon,17
+Oakmont,Pennsylvania,17
+Ocean View,Delaware,17
+Olney,Texas,17
+Ossian,Indiana,17
+Oxford,Maine,17
+Palm Springs,Florida,17
+Pelican Rapids,Minnesota,17
+Pevely,Missouri,17
+Piedmont,Missouri,17
+Pine Mountain,Georgia,17
+Pocasset,Massachusetts,17
+Port Isabel,Texas,17
+Queenstown,Maryland,17
+Ranson,West Virginia,17
+Red Bay,Alabama,17
+Roma,Texas,17
+Rosharon,Texas,17
+Rumson,New Jersey,17
+Russell,Kansas,17
+Sachse,Texas,17
+Salida,California,17
+Sanborn,New York,17
+Sandstone,Minnesota,17
+Savoy,Illinois,17
+Seymour,Texas,17
+Shiner,Texas,17
+Sisters,Oregon,17
+Snowmass Village,Colorado,17
+Southampton,Massachusetts,17
+Sparks Glencoe,Maryland,17
+Spindale,North Carolina,17
+Spring Branch,Texas,17
+Stevenson,Washington,17
+Strasburg,Ohio,17
+Tipton,Missouri,17
+Tuckahoe,New York,17
+Turtle Lake,Wisconsin,17
+Union Springs,Alabama,17
+Valentine,Nebraska,17
+Valley Springs,California,17
+Vevay,Indiana,17
+Walhalla,South Carolina,17
+Walkerton,Indiana,17
+Walton Hills,Ohio,17
+Wapato,Washington,17
+Webberville,Michigan,17
+West Salem,Wisconsin,17
+West Terre Haute,Indiana,17
+Westminster,South Carolina,17
+Wildwood,Missouri,17
+Wolf Point,Montana,17
+Woodbine,Maryland,17
+Wyncote,Pennsylvania,17
+Yountville,California,17
+Aberdeen,Mississippi,16
+Albany,Kentucky,16
+Alton,New Hampshire,16
+Anderson,Missouri,16
+Armada,Michigan,16
+Ashland,Alabama,16
+Auburn,New Hampshire,16
+Baden,Pennsylvania,16
+Baldwin,Michigan,16
+Ballston Lake,New York,16
+Belle Fourche,South Dakota,16
+Belleville,Kansas,16
+Bloomfield,Indiana,16
+Bogart,Georgia,16
+Bogota,New Jersey,16
+Brooks,California,16
+Brundidge,Alabama,16
+Bushkill,Pennsylvania,16
+Butler,Wisconsin,16
+Calhoun City,Mississippi,16
+Carmichaels,Pennsylvania,16
+Castaic,California,16
+Charlestown,New Hampshire,16
+Childersburg,Alabama,16
+Chinle,Arizona,16
+Chittenango,New York,16
+Clayton,New Jersey,16
+Clinton,Indiana,16
+Collegedale,Tennessee,16
+Coloma,Michigan,16
+Concord,Ohio,16
+Concordville,Pennsylvania,16
+Cook,Minnesota,16
+Darien,Wisconsin,16
+David City,Nebraska,16
+Dawson Springs,Kentucky,16
+Dayton,Washington,16
+Denton,North Carolina,16
+Derby,Vermont,16
+Duffield,Virginia,16
+Dunellen,New Jersey,16
+East Dubuque,Illinois,16
+Elkview,West Virginia,16
+Ellicottville,New York,16
+Eudora,Kansas,16
+Exeter,Rhode Island,16
+Fairview,Pennsylvania,16
+Florence,Mississippi,16
+Forsyth,Missouri,16
+Four Oaks,North Carolina,16
+Franklin,New Jersey,16
+Garnett,Kansas,16
+Garrison,New York,16
+Garyville,Louisiana,16
+Glen Oaks,New York,16
+Grafton,West Virginia,16
+Grand Coulee,Washington,16
+Grand Marais,Minnesota,16
+Granville,New York,16
+Hammond,Wisconsin,16
+Hardin,Montana,16
+Harriman,New York,16
+Heavener,Oklahoma,16
+Hebron,Indiana,16
+Hickman,Kentucky,16
+Honeoye Falls,New York,16
+Hoopeston,Illinois,16
+Hopatcong,New Jersey,16
+Horseshoe Bay,Texas,16
+Hughson,California,16
+Hurley,Wisconsin,16
+Ilion,New York,16
+Imperial,Pennsylvania,16
+Independence,Oregon,16
+Johnstown,Ohio,16
+Kennedale,Texas,16
+Kent,Connecticut,16
+Keosauqua,Iowa,16
+Kershaw,South Carolina,16
+Keystone Heights,Florida,16
+Keystone,Colorado,16
+Kotzebue,Alaska,16
+La Vernia,Texas,16
+Lackawanna,New York,16
+Lafayette,New Jersey,16
+Lake Dallas,Texas,16
+Lanoka Harbor,New Jersey,16
+Lawrenceville,Virginia,16
+Lee,New Hampshire,16
+Lewisport,Kentucky,16
+Locust,North Carolina,16
+Madelia,Minnesota,16
+Madison,North Carolina,16
+Makawao,Hawaii,16
+Marlborough,Connecticut,16
+Mc Lean,Virginia,16
+Meeker,Colorado,16
+Mendenhall,Mississippi,16
+Mercersburg,Pennsylvania,16
+Merrimac,Massachusetts,16
+Minersville,Pennsylvania,16
+Mobridge,South Dakota,16
+Mondovi,Wisconsin,16
+Moneta,Virginia,16
+Morrisville,New York,16
+Morrow,Ohio,16
+Muenster,Texas,16
+Nassawadox,Virginia,16
+New Egypt,New Jersey,16
+Newport Coast,California,16
+Northern Cambria,Pennsylvania,16
+Odessa,Missouri,16
+Oelwein,Iowa,16
+Oglesby,Illinois,16
+Olyphant,Pennsylvania,16
+Ossipee,New Hampshire,16
+Overland,Missouri,16
+Palmyra,New Jersey,16
+Palmyra,New York,16
+Phelan,California,16
+Pipersville,Pennsylvania,16
+Pomona,New Jersey,16
+Portola,California,16
+Random Lake,Wisconsin,16
+Robbinsville,North Carolina,16
+Robesonia,Pennsylvania,16
+Rogers City,Michigan,16
+Saegertown,Pennsylvania,16
+Saint Clair,Michigan,16
+San Andreas,California,16
+San Luis,Arizona,16
+Santa Fe,Texas,16
+Schnecksville,Pennsylvania,16
+Silver Creek,New York,16
+South Berwick,Maine,16
+South Pittsburg,Tennessee,16
+St. Francisville,Louisiana,16
+Tappan,New York,16
+Tishomingo,Oklahoma,16
+Trinity,Texas,16
+Twin Lakes,Wisconsin,16
+Umatilla,Florida,16
+Waimea,Hawaii,16
+Warden,Washington,16
+Warner,New Hampshire,16
+Warrenton,North Carolina,16
+Wayland,New York,16
+Webster Groves,Missouri,16
+West Jefferson,Ohio,16
+West Liberty,Iowa,16
+West Wareham,Massachusetts,16
+Westfield,New York,16
+Wheatfield,Indiana,16
+Whitefield,New Hampshire,16
+Wilder,Kentucky,16
+Williamsport,Indiana,16
+Winchendon,Massachusetts,16
+Windsor,Virginia,16
+Winfield,West Virginia,16
+Winnie,Texas,16
+Woods Hole,Massachusetts,16
+Wright City,Missouri,16
+Zimmerman,Minnesota,16
+Abbeville,Alabama,15
+Amenia,New York,15
+Ashaway,Rhode Island,15
+Ashland,Pennsylvania,15
+Assonet,Massachusetts,15
+Atkinson,New Hampshire,15
+Auburn,Michigan,15
+Ava,Missouri,15
+Balch Springs,Texas,15
+Bartonsville,Pennsylvania,15
+Beaverton,Michigan,15
+Beech Island,South Carolina,15
+Bloomfield,New Mexico,15
+Boron,California,15
+Boscobel,Wisconsin,15
+Bowdon,Georgia,15
+Braidwood,Illinois,15
+Browning,Montana,15
+Burns,Oregon,15
+Calabash,North Carolina,15
+Camano Island,Washington,15
+Cameron,Texas,15
+Carencro,Louisiana,15
+Carrington,North Dakota,15
+Central City,Nebraska,15
+Chandler,Oklahoma,15
+Chester,Maryland,15
+Clyde,New York,15
+Columbus,Kansas,15
+Cordova,Illinois,15
+Cotulla,Texas,15
+Coushatta,Louisiana,15
+Crewe,Virginia,15
+Davisburg,Michigan,15
+Deerwood,Minnesota,15
+Derwood,Maryland,15
+Dousman,Wisconsin,15
+Ecorse,Michigan,15
+Eldora,Iowa,15
+Fairfax,California,15
+Fort Recovery,Ohio,15
+Fox River Grove,Illinois,15
+Franklin Park,New Jersey,15
+Franklin,Georgia,15
+Fredericksburg,Pennsylvania,15
+French Camp,California,15
+Geyserville,California,15
+Glenville,New York,15
+Grambling,Louisiana,15
+Grand Bay,Alabama,15
+Hamilton,Texas,15
+Harris,New York,15
+Hawarden,Iowa,15
+Hawthorne,Nevada,15
+Hebron,Connecticut,15
+Hoffman,Illinois,15
+Holbrook,Arizona,15
+Hoosick Falls,New York,15
+Hot Springs Village,Arkansas,15
+Hudson,Michigan,15
+Imperial Beach,California,15
+Imperial,Missouri,15
+Ixonia,Wisconsin,15
+Jackson Center,Ohio,15
+Jackson,Alabama,15
+Jeffersonville,Ohio,15
+Jellico,Tennessee,15
+Keansburg,New Jersey,15
+Kirtland,Ohio,15
+La Joya,Texas,15
+Lake Butler,Florida,15
+Lake Odessa,Michigan,15
+Lancaster,Kentucky,15
+Langdon,North Dakota,15
+Lewiston,Michigan,15
+Lindstrom,Minnesota,15
+Lothian,Maryland,15
+Lovell,Wyoming,15
+Manchester,Georgia,15
+Marcy,New York,15
+Matamoras,Pennsylvania,15
+Mattawa,Washington,15
+Memphis,Michigan,15
+Merrifield,Virginia,15
+Milan,Missouri,15
+Minden,Nebraska,15
+Montesano,Washington,15
+Monticello,Florida,15
+Morton,Washington,15
+Moundridge,Kansas,15
+Mount Horeb,Wisconsin,15
+Muleshoe,Texas,15
+New Holstein,Wisconsin,15
+Newfane,New York,15
+Newman,California,15
+North Haledon,New Jersey,15
+Norton,Ohio,15
+Oak Grove,Missouri,15
+Oak Island,North Carolina,15
+Ocean Shores,Washington,15
+Okanogan,Washington,15
+Old Town,Maine,15
+Oley,Pennsylvania,15
+Oostburg,Wisconsin,15
+Ord,Nebraska,15
+Osawatomie,Kansas,15
+Osterville,Massachusetts,15
+Otsego,Michigan,15
+Patrick AFB,Florida,15
+Pawcatuck,Connecticut,15
+Pemberton,New Jersey,15
+Phelps,New York,15
+Pilot Mountain,North Carolina,15
+Plattsburg,Missouri,15
+Point Comfort,Texas,15
+Poquoson,Virginia,15
+Ravenna,Michigan,15
+Rio Rico,Arizona,15
+Riverdale,Utah,15
+Roberts,Wisconsin,15
+Rockport,Massachusetts,15
+Ruckersville,Virginia,15
+Rural Hall,North Carolina,15
+Sabina,Ohio,15
+Saranac,Michigan,15
+Scott,Louisiana,15
+Sells,Arizona,15
+Shoreham,New York,15
+Sistersville,West Virginia,15
+Sonora,Texas,15
+Splendora,Texas,15
+Springerville,Arizona,15
+Stacy,Minnesota,15
+Stirling,New Jersey,15
+Sun City,California,15
+Sunset Beach,North Carolina,15
+Sweet Home,Oregon,15
+Tecumseh,Nebraska,15
+Tonganoxie,Kansas,15
+Towaco,New Jersey,15
+Uhrichsville,Ohio,15
+Umatilla,Oregon,15
+Valley Park,Missouri,15
+Van,Texas,15
+Ventnor City,New Jersey,15
+Vicksburg,Michigan,15
+Vinton,Louisiana,15
+Waldron,Arkansas,15
+Wellsburg,West Virginia,15
+West Henrietta,New York,15
+West Middlesex,Pennsylvania,15
+West Richland,Washington,15
+West Yarmouth,Massachusetts,15
+West Yellowstone,Montana,15
+Westville,Indiana,15
+Whiteman AFB,Missouri,15
+Whitesboro,Texas,15
+Woodville,Wisconsin,15
+Wyalusing,Pennsylvania,15
+Yanceyville,North Carolina,15
+Ackerman,Mississippi,14
+Albany,Minnesota,14
+Albion,Nebraska,14
+Alexandria Bay,New York,14
+Aliceville,Alabama,14
+Aloha,Oregon,14
+Appleton,Minnesota,14
+Arlington,Vermont,14
+Atkins,Virginia,14
+Atlantis,Florida,14
+Baker,Louisiana,14
+Baldwyn,Mississippi,14
+Beacon Falls,Connecticut,14
+Bethel,Pennsylvania,14
+Blountsville,Alabama,14
+Bottineau,North Dakota,14
+Bridge City,Texas,14
+Bridgeport,Ohio,14
+Brimley,Michigan,14
+Brownfield,Texas,14
+Cambria,California,14
+Cambridge,New York,14
+Canyon Lake,California,14
+Capac,Michigan,14
+Carmel,California,14
+Centerton,Arkansas,14
+Charleston,Missouri,14
+Chillicothe,Illinois,14
+Clearwater,Minnesota,14
+Cloverdale,Indiana,14
+Collinsville,Virginia,14
+Colonial Beach,Virginia,14
+Contoocook,New Hampshire,14
+Crosslake,Minnesota,14
+Crozet,Virginia,14
+Cumberland,Maine,14
+Daleville,Alabama,14
+Daleville,Indiana,14
+Darien,Georgia,14
+Decatur,Arkansas,14
+Deer Lodge,Montana,14
+Dennison,Ohio,14
+Dublin,Texas,14
+Duncansville,Pennsylvania,14
+Eatonville,Washington,14
+Edwardsburg,Michigan,14
+El Sobrante,California,14
+Emerald Isle,North Carolina,14
+Emory,Texas,14
+Erin,Tennessee,14
+Eutaw,Alabama,14
+Evans City,Pennsylvania,14
+Fairfield,Maine,14
+Fall River,Wisconsin,14
+Felton,Delaware,14
+Fredonia,Kansas,14
+Frenchtown,New Jersey,14
+Friona,Texas,14
+Garden City,Georgia,14
+Gibbsboro,New Jersey,14
+Gilberts,Illinois,14
+Glen Rock,Pennsylvania,14
+Green Forest,Arkansas,14
+Greenfield,Iowa,14
+Greensburg,Kentucky,14
+Gretna,Nebraska,14
+Grosse Ile,Michigan,14
+Guerneville,California,14
+Hahnville,Louisiana,14
+Harwood Heights,Illinois,14
+Hawthorn Woods,Illinois,14
+Hazel Green,Alabama,14
+High Springs,Florida,14
+Highland,Utah,14
+Hodgenville,Kentucky,14
+Holden,Missouri,14
+Homer City,Pennsylvania,14
+Hoschton,Georgia,14
+Hughesville,Pennsylvania,14
+Huntington Woods,Michigan,14
+Imperial,Nebraska,14
+Islip Terrace,New York,14
+Jasper,Florida,14
+Jonesville,South Carolina,14
+Key Biscayne,Florida,14
+Kildeer,Illinois,14
+Killington,Vermont,14
+Kiln,Mississippi,14
+Kimball,Nebraska,14
+Kingsland,Texas,14
+La Feria,Texas,14
+LaGrange,Kentucky,14
+Landenberg,Pennsylvania,14
+Liberty Corner,New Jersey,14
+Liberty,Indiana,14
+Limon,Colorado,14
+Lisbon,North Dakota,14
+Madison,Illinois,14
+Mahomet,Illinois,14
+Marlow,Oklahoma,14
+Maryland,District of Columbia,14
+Mattituck,New York,14
+McArthur,Ohio,14
+McGregor,Minnesota,14
+McLeansboro,Illinois,14
+Mendocino,California,14
+Meyersdale,Pennsylvania,14
+Milford,Iowa,14
+Milford,New Jersey,14
+Milltown,New Jersey,14
+Milton,West Virginia,14
+Mohave Valley,Arizona,14
+Montauk,New York,14
+Mossville,Illinois,14
+Munfordville,Kentucky,14
+Narrows,Virginia,14
+New Century,Kansas,14
+New Haven,Michigan,14
+Newbern,Tennessee,14
+North Salem,New York,14
+Oak Grove,Louisiana,14
+Oakland,Tennessee,14
+Ogunquit,Maine,14
+Palmyra,Wisconsin,14
+Palos Verdes Estates,California,14
+Paris,Arkansas,14
+Peebles,Ohio,14
+Pembroke,Georgia,14
+Phillipsburg,Kansas,14
+Piedmont,California,14
+Prescott,Wisconsin,14
+Raymond,Mississippi,14
+Red Springs,North Carolina,14
+Rex,Georgia,14
+Rising Sun,Indiana,14
+Riverton,New Jersey,14
+Rootstown,Ohio,14
+Saltville,Virginia,14
+San Juan Bautista,California,14
+Sandy Hook,Connecticut,14
+Seadrift,Texas,14
+Seymour,Wisconsin,14
+Snow Hill,Maryland,14
+South Dennis,Massachusetts,14
+Spicer,Minnesota,14
+Spring Grove,Pennsylvania,14
+Stockton,Illinois,14
+Stockton,Missouri,14
+Sunland,California,14
+Temple Terrace,Florida,14
+Toledo,Illinois,14
+Tonopah,Arizona,14
+Topton,Pennsylvania,14
+Tuolumne,California,14
+Valatie,New York,14
+Valparaiso,Florida,14
+Vassar,Michigan,14
+Vienna,Ohio,14
+Washburn,Wisconsin,14
+Washingtonville,New York,14
+Waynesville,Ohio,14
+Wells,Minnesota,14
+West Carrollton,Ohio,14
+Weyauwega,Wisconsin,14
+Whitehouse,Ohio,14
+Whiteriver,Arizona,14
+Williamson,New York,14
+Woodbury,Tennessee,14
+Woodmere,New York,14
+Wrightstown,New Jersey,14
+Albany,Missouri,13
+Aledo,Texas,13
+Alma,Nebraska,13
+Alpha,New Jersey,13
+American Falls,Idaho,13
+Amherst,Wisconsin,13
+Ashburnham,Massachusetts,13
+Avondale,Louisiana,13
+Ayden,North Carolina,13
+Bainbridge,Ohio,13
+Bakersville,North Carolina,13
+Balsam Lake,Wisconsin,13
+Barre,Massachusetts,13
+Baxter Springs,Kansas,13
+Bealeton,Virginia,13
+Bentleyville,Pennsylvania,13
+Berlin,Ohio,13
+Big Pine Key,Florida,13
+Blakeslee,Pennsylvania,13
+Blanchard,Oklahoma,13
+Brazoria,Texas,13
+Bristol,Wisconsin,13
+Britt,Iowa,13
+Brockway,Pennsylvania,13
+Brookshire,Texas,13
+Brownstown,Indiana,13
+Buhl,Idaho,13
+Bulverde,Texas,13
+Burkesville,Kentucky,13
+Calvert,Alabama,13
+Calverton,Maryland,13
+Casco,Maine,13
+Centerville,Virginia,13
+Centralia,Missouri,13
+Charleston,Mississippi,13
+Cicero,Indiana,13
+Clifton Forge,Virginia,13
+Cordova,Alaska,13
+Crandall,Texas,13
+Dalton,Massachusetts,13
+Davidsonville,Maryland,13
+Devine,Texas,13
+Dresden,Tennessee,13
+Dryden,New York,13
+Duncannon,Pennsylvania,13
+Dupo,Illinois,13
+East Falmouth,Massachusetts,13
+Eddyville,Kentucky,13
+Edmore,Michigan,13
+Elbow Lake,Minnesota,13
+Eliot,Maine,13
+Elkhart Lake,Wisconsin,13
+Farmington,Pennsylvania,13
+Fayette,Missouri,13
+Ferris,Texas,13
+Fogelsville,Pennsylvania,13
+Fowler,Indiana,13
+Frankford,Delaware,13
+Fredericktown,Ohio,13
+Freeland,Pennsylvania,13
+Fruitland Park,Florida,13
+Gardiner,New York,13
+Garwood,New Jersey,13
+Genoa,Illinois,13
+Genoa,Ohio,13
+Gibsonton,Florida,13
+Glencoe,Illinois,13
+Golden Meadow,Louisiana,13
+Goodwater,Alabama,13
+Grant,Michigan,13
+Gunnison,Utah,13
+Gustine,California,13
+Guyton,Georgia,13
+Gwinner,North Dakota,13
+Haleiwa,Hawaii,13
+Halifax,Pennsylvania,13
+Harrah,Oklahoma,13
+Harrington,Delaware,13
+Harvest,Alabama,13
+Hayti,Missouri,13
+Helen,Georgia,13
+Hemphill,Texas,13
+High Bridge,New Jersey,13
+Hillsborough,California,13
+Hinton,Oklahoma,13
+Hot Springs,South Dakota,13
+Huffman,Texas,13
+Hughesville,Maryland,13
+Iola,Wisconsin,13
+Irondale,Alabama,13
+Itta Bena,Mississippi,13
+Jay,Oklahoma,13
+Johnsonville,South Carolina,13
+Juneau,Wisconsin,13
+Kamas,Utah,13
+Kathleen,Georgia,13
+Kelseyville,California,13
+Keyport,Washington,13
+Knightstown,Indiana,13
+Lake City,Michigan,13
+Leland,Mississippi,13
+Lemon Grove,California,13
+Lewisville,North Carolina,13
+Liberty,North Carolina,13
+Livingston,Alabama,13
+Locust Grove,Virginia,13
+Los Osos,California,13
+Manning,Iowa,13
+Marmora,New Jersey,13
+Marshall,North Carolina,13
+Mehoopany,Pennsylvania,13
+Mescalero,New Mexico,13
+Monticello,Mississippi,13
+Mount Jackson,Virginia,13
+Mountain Brook,Alabama,13
+Murphys,California,13
+Nesquehoning,Pennsylvania,13
+New Concord,Ohio,13
+New Glarus,Wisconsin,13
+New Ipswich,New Hampshire,13
+New Kent,Virginia,13
+Newberry,Florida,13
+Newport,Pennsylvania,13
+Newton,New Hampshire,13
+North Brookfield,Massachusetts,13
+North Jackson,Ohio,13
+Norwood,Pennsylvania,13
+Oakland City,Indiana,13
+Oakland,Maine,13
+Ocean View,New Jersey,13
+Okoboji,Iowa,13
+Old Forge,Pennsylvania,13
+Old Hickory,Tennessee,13
+Old Tappan,New Jersey,13
+Pacheco,California,13
+Palmyra,Virginia,13
+Pennington Gap,Virginia,13
+Penns Grove,New Jersey,13
+Peotone,Illinois,13
+Plymouth,Pennsylvania,13
+Port Aransas,Texas,13
+Portage,Pennsylvania,13
+Prescott,Arkansas,13
+Preston,Washington,13
+Ridgely,Maryland,13
+Ripley,Ohio,13
+Riverdale,Illinois,13
+Robbins,North Carolina,13
+Robert,Louisiana,13
+Roland,Oklahoma,13
+Roseboro,North Carolina,13
+Rushville,Illinois,13
+Sac City,Iowa,13
+Saint James,Missouri,13
+Salem,Arkansas,13
+Saugatuck,Michigan,13
+Schuyler,Nebraska,13
+Seneca,Missouri,13
+Sherburne,New York,13
+Sheridan,Indiana,13
+Spearman,Texas,13
+Spotswood,New Jersey,13
+St. Joseph,Minnesota,13
+St. Martinville,Louisiana,13
+Sterling,Kansas,13
+Stevenson Ranch,California,13
+Sundance,Wyoming,13
+Sunderland,Massachusetts,13
+Sunset Hills,Missouri,13
+Surgoinsville,Tennessee,13
+Tavernier,Florida,13
+Taylor Mill,Kentucky,13
+Trabuco Canyon,California,13
+Tremont,Illinois,13
+Tyler,Minnesota,13
+Union Gap,Washington,13
+Valliant,Oklahoma,13
+Vanceburg,Kentucky,13
+Victoria,Minnesota,13
+Walsenburg,Colorado,13
+Wellfleet,Massachusetts,13
+Wenham,Massachusetts,13
+Wenonah,New Jersey,13
+Wernersville,Pennsylvania,13
+Westby,Wisconsin,13
+Westport,Washington,13
+Wheaton,Minnesota,13
+White Cloud,Michigan,13
+Willington,Connecticut,13
+Willow Street,Pennsylvania,13
+Yerington,Nevada,13
+Acton,California,12
+Albertson,New York,12
+Albion,Illinois,12
+Amelia Court House,Virginia,12
+Ashville,Ohio,12
+Atkinson,Nebraska,12
+Avenal,California,12
+Bal Harbour,Florida,12
+Bay Point,California,12
+Belleville,Wisconsin,12
+Big Lake,Texas,12
+Big Timber,Montana,12
+Bigfork,Montana,12
+Biglerville,Pennsylvania,12
+Bloomingdale,New Jersey,12
+Bonne Terre,Missouri,12
+Boonsboro,Maryland,12
+Boothbay,Maine,12
+Box Elder,Montana,12
+Boxford,Massachusetts,12
+Bridgeport,Pennsylvania,12
+Buffalo,Texas,12
+Burnt Hills,New York,12
+Cabot,Pennsylvania,12
+Cairo,New York,12
+Cameron,Louisiana,12
+Canaan,New York,12
+Cardiff by the Sea,California,12
+Carlisle,Massachusetts,12
+Chesnee,South Carolina,12
+Chewelah,Washington,12
+Clatskanie,Oregon,12
+Claysburg,Pennsylvania,12
+Clayton,New Mexico,12
+Clinton,New York,12
+Colby,Wisconsin,12
+Colfax,California,12
+Council Grove,Kansas,12
+Cresson,Pennsylvania,12
+Crow Agency,Montana,12
+Dale,Indiana,12
+Danbury,North Carolina,12
+Decatur,Tennessee,12
+DeKalb,Georgia,12
+Deposit,New York,12
+Desloge,Missouri,12
+Dillingham,Alaska,12
+Dimmitt,Texas,12
+Discovery Bay,California,12
+Eagle,Wisconsin,12
+Eden,New York,12
+Edmeston,New York,12
+El Dorado Springs,Missouri,12
+ElDorado,Arkansas,12
+Elkton,Kentucky,12
+Elma,Washington,12
+Erwin,North Carolina,12
+Falfurrias,Texas,12
+Farwell,Michigan,12
+Fort Gibson,Oklahoma,12
+Fort Loramie,Ohio,12
+Franklin,New Hampshire,12
+Fulton,Illinois,12
+Gambier,Ohio,12
+Geneva,Nebraska,12
+Gila Bend,Arizona,12
+Glen Ridge,New Jersey,12
+Glendale,Colorado,12
+Gramercy,Louisiana,12
+Green Lake,Wisconsin,12
+Hanceville,Alabama,12
+Harpers Ferry,West Virginia,12
+Hazen,North Dakota,12
+Helotes,Texas,12
+Hilbert,Wisconsin,12
+Hillsboro,Kansas,12
+Holcomb,Kansas,12
+Hollister,Missouri,12
+Homestead,Pennsylvania,12
+Hubert,North Carolina,12
+Huxley,Iowa,12
+Idyllwild,California,12
+Independence,Louisiana,12
+Independence,Virginia,12
+Island Park,New York,12
+Jay,Maine,12
+Jefferson,Texas,12
+Johnson City,Texas,12
+Junction,Texas,12
+Kayenta,Arizona,12
+Keene,Texas,12
+Kewaskum,Wisconsin,12
+Kountze,Texas,12
+La Conner,Washington,12
+LaGrange,Illinois,12
+Lake Hopatcong,New Jersey,12
+Lakeside,Arizona,12
+L'Anse,Michigan,12
+Laurel Springs,New Jersey,12
+Leakesville,Mississippi,12
+Leesburg,Ohio,12
+Leesville,South Carolina,12
+Lockport,Louisiana,12
+Lower Lake,California,12
+Loxley,Alabama,12
+Lutcher,Louisiana,12
+Lynchburg,Tennessee,12
+Madison Heights,Virginia,12
+Magnolia,New Jersey,12
+Mather,California,12
+Milan,Ohio,12
+Milford,Indiana,12
+Millerton,New York,12
+Mims,Florida,12
+Montague,New Jersey,12
+Montezuma,Georgia,12
+Montgomery,West Virginia,12
+Montour Falls,New York,12
+Moriarty,New Mexico,12
+Mount Gilead,North Carolina,12
+Mountain View,Missouri,12
+Netcong,New Jersey,12
+New Hartford,Connecticut,12
+North Versailles,Pennsylvania,12
+Northford,Connecticut,12
+Omro,Wisconsin,12
+Onley,Virginia,12
+Owenton,Kentucky,12
+Pawhuska,Oklahoma,12
+Pebble Beach,California,12
+Pender,Nebraska,12
+Perkins,Oklahoma,12
+Perry Hall,Maryland,12
+Piggott,Arkansas,12
+Pinconning,Michigan,12
+Pine Island,Minnesota,12
+Plainview,Minnesota,12
+Pleasant View,Tennessee,12
+Polkton,North Carolina,12
+Poplar,Montana,12
+Portageville,Missouri,12
+Prairie View,Texas,12
+Prospect Park,Pennsylvania,12
+Providence,Utah,12
+Rancocas,New Jersey,12
+Red Lake,Minnesota,12
+Richland,Michigan,12
+Ridge,New York,12
+Riverside,Rhode Island,12
+Rogersville,Alabama,12
+Rosebud,South Dakota,12
+Rugby,North Dakota,12
+Ruleville,Mississippi,12
+Salado,Texas,12
+Salem,Wisconsin,12
+Salina,Utah,12
+San Diego,Texas,12
+San Ysidro,California,12
+Sayre,Oklahoma,12
+Sea Cliff,New York,12
+Sheridan,Michigan,12
+Sister Bay,Wisconsin,12
+Smethport,Pennsylvania,12
+Smithville,Missouri,12
+South Saint Paul,Minnesota,12
+Sparta,Georgia,12
+Springville,Alabama,12
+Stanley,North Dakota,12
+Sublette,Kansas,12
+Sunrise Beach,Missouri,12
+Surf City,North Carolina,12
+Tar Heel,North Carolina,12
+Taylor,Pennsylvania,12
+Teague,Texas,12
+Thornton,Illinois,12
+Thorp,Wisconsin,12
+Thousand Palms,California,12
+Tipton,Iowa,12
+Tonopah,Nevada,12
+Trion,Georgia,12
+Trumann,Arkansas,12
+Vernon,Alabama,12
+Vivian,Louisiana,12
+Wadley,Georgia,12
+Walbridge,Ohio,12
+Walnut,Mississippi,12
+Warm Springs,Oregon,12
+Warner,Oklahoma,12
+Warrior,Alabama,12
+Washington,California,12
+Waterboro,Maine,12
+Waverly,Virginia,12
+Weatherly,Pennsylvania,12
+Westfield Center,Ohio,12
+Weston,Connecticut,12
+Williamston,South Carolina,12
+Winthrop,Washington,12
+Wolcott,New York,12
+Woodbury Heights,New Jersey,12
+Yale,Michigan,12
+Yarmouth Port,Massachusetts,12
+Allendale,South Carolina,11
+Allenton,Wisconsin,11
+Altoona,Wisconsin,11
+Andrews,North Carolina,11
+Angola,New York,11
+Apalachicola,Florida,11
+Arbuckle,California,11
+Archbald,Pennsylvania,11
+Auburn,Nebraska,11
+Avalon,New Jersey,11
+Avilla,Indiana,11
+Baldwin City,Kansas,11
+Bellevue,Kentucky,11
+Benton,Pennsylvania,11
+Beresford,South Dakota,11
+Beulaville,North Carolina,11
+Big Sandy,Texas,11
+Blanchester,Ohio,11
+Bloomfield,New York,11
+Boylston,Massachusetts,11
+Bridgeport,Michigan,11
+Brigantine,New Jersey,11
+Buffalo,Missouri,11
+Cabool,Missouri,11
+Cambridge Springs,Pennsylvania,11
+Canby,Minnesota,11
+Carson City,Michigan,11
+Castroville,Texas,11
+Centreville,Michigan,11
+Chapmanville,West Virginia,11
+Chatfield,Minnesota,11
+Chatom,Alabama,11
+Chelsea,Alabama,11
+Chesaning,Michigan,11
+Chester,Vermont,11
+Clayton,New York,11
+Clifton,Texas,11
+Coalgate,Oklahoma,11
+Coarsegold,California,11
+Coldspring,Texas,11
+College Place,Washington,11
+Colonie,New York,11
+Columbia Heights,Minnesota,11
+Comfort,Texas,11
+Connelly Springs,North Carolina,11
+Copperopolis,California,11
+Cottondale,Alabama,11
+Crescent City,Florida,11
+Cresco,Pennsylvania,11
+Crestwood,Missouri,11
+Crystal City,Missouri,11
+Davenport,Washington,11
+Davis,Oklahoma,11
+Dayton,Nevada,11
+Deer River,Minnesota,11
+Deerfield,Wisconsin,11
+Derry,Pennsylvania,11
+Dillsboro,Indiana,11
+Dingmans Ferry,Pennsylvania,11
+Donora,Pennsylvania,11
+Drumright,Oklahoma,11
+Eagle Mountain,Utah,11
+East Berlin,Pennsylvania,11
+East Moriches,New York,11
+Edgewater Park,New Jersey,11
+Enosburg Falls,Vermont,11
+Epsom,New Hampshire,11
+Essexville,Michigan,11
+Estill,South Carolina,11
+Evansville,Wisconsin,11
+Fair Haven,Michigan,11
+Fairfax,Vermont,11
+Falkville,Alabama,11
+Floydada,Texas,11
+Folsom,New Jersey,11
+Fords,New Jersey,11
+Fortville,Indiana,11
+Fox Lake,Wisconsin,11
+Franconia,New Hampshire,11
+Frostproof,Florida,11
+Gladwyne,Pennsylvania,11
+Glenville,West Virginia,11
+Gordonsville,Tennessee,11
+Grantsboro,North Carolina,11
+Greenfield,California,11
+Greensboro,Alabama,11
+Greenwood,Arkansas,11
+Grove Hill,Alabama,11
+Grundy Center,Iowa,11
+Guttenberg,New Jersey,11
+Hamlin,West Virginia,11
+Hampden,Massachusetts,11
+Hankinson,North Dakota,11
+Harbor Beach,Michigan,11
+Harper,Kansas,11
+Hawesville,Kentucky,11
+Hayes,Virginia,11
+Henry,Illinois,11
+Hettinger,North Dakota,11
+Hobart,Oklahoma,11
+Holley,New York,11
+Holloman AFB,New Mexico,11
+Holyoke,Colorado,11
+Howard City,Michigan,11
+Hull,Massachusetts,11
+Hurlock,Maryland,11
+Hutchins,Texas,11
+Hyden,Kentucky,11
+Johnsburg,Illinois,11
+Justice,Illinois,11
+Kahuku,Hawaii,11
+Kalona,Iowa,11
+Kasson,Minnesota,11
+Keaau,Hawaii,11
+Kearns,Utah,11
+Keasbey,New Jersey,11
+Kekaha,Hawaii,11
+Kenbridge,Virginia,11
+Kremmling,Colorado,11
+Kula,Hawaii,11
+La Farge,Wisconsin,11
+La Salle,Illinois,11
+Lake City,Iowa,11
+Lake Park,Florida,11
+Lake Station,Indiana,11
+Lake Wylie,South Carolina,11
+Landisville,Pennsylvania,11
+Laurie,Missouri,11
+Le Roy,New York,11
+Lead,South Dakota,11
+Leon,Iowa,11
+Lexington,Missouri,11
+Live Oak,Texas,11
+Livingston,Louisiana,11
+Lovelock,Nevada,11
+Madison,West Virginia,11
+Mamou,Louisiana,11
+Manchester,Maryland,11
+Marceline,Missouri,11
+Marfa,Texas,11
+Marianna,Arkansas,11
+Marion,Alabama,11
+Martin,South Dakota,11
+Mccormick,South Carolina,11
+Mendon,Michigan,11
+Metamora,Illinois,11
+Mickleton,New Jersey,11
+Middlefield,Connecticut,11
+Millwood,New York,11
+Minonk,Illinois,11
+Monona,Iowa,11
+Monterey,Tennessee,11
+Montezuma,Iowa,11
+Montrose,Michigan,11
+Morton,Minnesota,11
+Mount Washington,Kentucky,11
+Murfreesboro,North Carolina,11
+Muscoda,Wisconsin,11
+New Fairfield,Connecticut,11
+New London,Minnesota,11
+New Palestine,Indiana,11
+New York Mills,New York,11
+Newcastle,Oklahoma,11
+Newfield,New Jersey,11
+North Baltimore,Ohio,11
+Northwood,Iowa,11
+Northwood,New Hampshire,11
+Nowata,Oklahoma,11
+Olive Hill,Kentucky,11
+Olivet,Michigan,11
+Ontonagon,Michigan,11
+Parksley,Virginia,11
+Parkton,Maryland,11
+Pawnee,Oklahoma,11
+Pelion,South Carolina,11
+Perkiomenville,Pennsylvania,11
+Phoenix,New York,11
+Pinetop,Arizona,11
+Pittstown,New Jersey,11
+Pocono Lake,Pennsylvania,11
+Post,Texas,11
+Proctorville,Ohio,11
+Quapaw,Oklahoma,11
+Quitman,Mississippi,11
+Rayne,Louisiana,11
+Red Lodge,Montana,11
+Republic,Washington,11
+Richland Hills,Texas,11
+Ridgeway,South Carolina,11
+Rockwell,North Carolina,11
+Romulus,New York,11
+Ronceverte,West Virginia,11
+Rose Hill,Kansas,11
+Rye,New Hampshire,11
+San Augustine,Texas,11
+Sandy Lake,Pennsylvania,11
+Santa Rosa,New Mexico,11
+Saylorsburg,Pennsylvania,11
+Scranton,South Carolina,11
+Sea Isle City,New Jersey,11
+Searsport,Maine,11
+Sebring,Ohio,11
+Seven Hills,Ohio,11
+Shadyside,Ohio,11
+Shamokin Dam,Pennsylvania,11
+Sharpsville,Pennsylvania,11
+Sheffield,Iowa,11
+Sheffield,Ohio,11
+Shelby,Montana,11
+Shell Lake,Wisconsin,11
+Shenandoah,Texas,11
+Shinnston,West Virginia,11
+Shoemakersville,Pennsylvania,11
+Sigourney,Iowa,11
+Snowshoe,West Virginia,11
+South Bay,Florida,11
+Stevenson,Alabama,11
+Stewartville,Minnesota,11
+Stone Harbor,New Jersey,11
+Stone Ridge,New York,11
+Stormville,New York,11
+Stroud,Oklahoma,11
+Syracuse,Nebraska,11
+Tatum,Texas,11
+Topeka,Indiana,11
+Trainer,Pennsylvania,11
+Treasure Island,Florida,11
+Tully,New York,11
+Turner,Maine,11
+Union Beach,New Jersey,11
+Union City,Pennsylvania,11
+Union,Illinois,11
+Urbanna,Virginia,11
+Vancleave,Mississippi,11
+Vincentown,New Jersey,11
+Vinton,Virginia,11
+Walnut Cove,North Carolina,11
+Walpole,New Hampshire,11
+Washington,Utah,11
+Watertown,Minnesota,11
+Waverly,Nebraska,11
+Wayne,West Virginia,11
+Weyers Cave,Virginia,11
+Whitehouse,Texas,11
+Wilton,Maine,11
+Winnebago,Nebraska,11
+Winneconne,Wisconsin,11
+Winthrop,Maine,11
+Womelsdorf,Pennsylvania,11
+Young Harris,Georgia,11
+Youngwood,Pennsylvania,11
+Ainsworth,Nebraska,10
+Allenwood,Pennsylvania,10
+Anthony,Kansas,10
+Atlantic Beach,North Carolina,10
+Attica,New York,10
+Bagley,Minnesota,10
+Batesburg,South Carolina,10
+Beattyville,Kentucky,10
+Beech Grove,Indiana,10
+Bellevue,Iowa,10
+Big Flats,New York,10
+Bigfork,Minnesota,10
+Blooming Prairie,Minnesota,10
+Blue Point,New York,10
+Borrego Springs,California,10
+Boulder Creek,California,10
+Boyd,Texas,10
+Bristol,Florida,10
+Brooklyn Heights,Ohio,10
+Bruceton Mills,West Virginia,10
+Bunkie,Louisiana,10
+Calico Rock,Arkansas,10
+Campton,Kentucky,10
+Canton,Pennsylvania,10
+Cantonment,Florida,10
+Captiva,Florida,10
+Carolina Beach,North Carolina,10
+Cavalier,North Dakota,10
+Cave City,Kentucky,10
+Cedar Bluff,Virginia,10
+Chester,California,10
+Chubbuck,Idaho,10
+Clay,New York,10
+Clayton,Ohio,10
+Cleveland,North Carolina,10
+Clinton,Arkansas,10
+Coats,North Carolina,10
+Coldwater,Mississippi,10
+Comer,Georgia,10
+Conneaut Lake,Pennsylvania,10
+Connell,Washington,10
+Conrad,Montana,10
+Crivitz,Wisconsin,10
+Cuba City,Wisconsin,10
+Deckerville,Michigan,10
+Dermott,Arkansas,10
+Douglas,Massachusetts,10
+Dubois,Wyoming,10
+Duchesne,Utah,10
+Duck,North Carolina,10
+Dundee,Florida,10
+Duryea,Pennsylvania,10
+East Bernard,Texas,10
+East Petersburg,Pennsylvania,10
+Eastsound,Washington,10
+Edison,Georgia,10
+Eighty Four,Pennsylvania,10
+Elmore,Ohio,10
+Enfield,North Carolina,10
+Enon,Ohio,10
+Eureka,Montana,10
+Farmersville,Texas,10
+Flandreau,South Dakota,10
+Flat Rock,North Carolina,10
+Florence,Indiana,10
+Fort Edward,New York,10
+Freeburg,Illinois,10
+Freedom,Pennsylvania,10
+Galesville,Wisconsin,10
+Galva,Illinois,10
+Ganado,Arizona,10
+Garberville,California,10
+Georgetown,Indiana,10
+Glen Dale,West Virginia,10
+Glenwood,Arkansas,10
+Gorham,New Hampshire,10
+Greenbrier,Tennessee,10
+Greensburg,Louisiana,10
+Gridley,Illinois,10
+Gwynedd Valley,Pennsylvania,10
+Hallsville,Texas,10
+Hamburg,Arkansas,10
+Hammondsport,New York,10
+Hampden,Maine,10
+Hancock,New York,10
+Hancocks Bridge,New Jersey,10
+Hardwick,Vermont,10
+Heflin,Alabama,10
+Hemingway,South Carolina,10
+Hendricks,Minnesota,10
+Highland Mills,New York,10
+Homerville,Georgia,10
+House Springs,Missouri,10
+Houston,Minnesota,10
+Humboldt,Kansas,10
+Jamaica,Iowa,10
+Jeanerette,Louisiana,10
+Jefferson,Louisiana,10
+Kalida,Ohio,10
+Kimball,Tennessee,10
+Kirbyville,Texas,10
+Lacon,Illinois,10
+Lake Harmony,Pennsylvania,10
+Lake Isabella,California,10
+Lakeland,Georgia,10
+Lambertville,Michigan,10
+Larose,Louisiana,10
+Lena,Illinois,10
+Lindsborg,Kansas,10
+Linton,North Dakota,10
+Lisbon,Connecticut,10
+Litchfield,Michigan,10
+Lonsdale,Minnesota,10
+Luxemburg,Wisconsin,10
+Lynwood,Illinois,10
+Mackinac Island,Michigan,10
+Mancelona,Michigan,10
+Manitou Springs,Colorado,10
+Mayville,New York,10
+McEwen,Tennessee,10
+McFarland,Wisconsin,10
+McHenry,Maryland,10
+Mcleansville,North Carolina,10
+Meade,Kansas,10
+Meridian,Texas,10
+Midland,North Carolina,10
+Milliken,Colorado,10
+Milton,New York,10
+Minong,Wisconsin,10
+Mitchellville,Maryland,10
+Monroe City,Missouri,10
+Montello,Wisconsin,10
+Montgomery City,Missouri,10
+Montgomery,Ohio,10
+Montross,Virginia,10
+Mount Morris,New York,10
+Naples,Maine,10
+New London,Ohio,10
+New Madrid,Missouri,10
+New York Mills,Minnesota,10
+Newkirk,Oklahoma,10
+Nisswa,Minnesota,10
+North Attleborough,Massachusetts,10
+North Branch,Michigan,10
+North Pole,Alaska,10
+Northfield,New Hampshire,10
+Oakdale,Pennsylvania,10
+Oberlin,Kansas,10
+Old Bethpage,New York,10
+Oologah,Oklahoma,10
+Oreland,Pennsylvania,10
+Oroville,Washington,10
+Osceola,Indiana,10
+Oxford,Georgia,10
+Pala,California,10
+Palmetto,Georgia,10
+Panora,Iowa,10
+Parachute,Colorado,10
+Parma,Idaho,10
+Patterson,Louisiana,10
+Peculiar,Missouri,10
+Pekin,Indiana,10
+Pelham,Georgia,10
+Perry,Michigan,10
+Perryopolis,Pennsylvania,10
+Piedmont,Alabama,10
+Pinson,Alabama,10
+Plains,Montana,10
+Plantsville,Connecticut,10
+Plummer,Idaho,10
+Pocahontas,Iowa,10
+Poplar Grove,Illinois,10
+Poteet,Texas,10
+Poultney,Vermont,10
+Raiford,Florida,10
+Rangely,Colorado,10
+Rice,Minnesota,10
+Rison,Arkansas,10
+Ritzville,Washington,10
+River Rouge,Michigan,10
+River Vale,New Jersey,10
+Roberta,Georgia,10
+Rodeo,California,10
+Russell,Kentucky,10
+Rustburg,Virginia,10
+Saint Francisville,Louisiana,10
+Scotrun,Pennsylvania,10
+Sebewaing,Michigan,10
+Semmes,Alabama,10
+Shillington,Pennsylvania,10
+Sodus,New York,10
+Stanardsville,Virginia,10
+Stanley,Wisconsin,10
+Steele,Alabama,10
+Stilwell,Kansas,10
+Strasburg,Pennsylvania,10
+Sunapee,New Hampshire,10
+Sunland Park,New Mexico,10
+Sutherlin,Oregon,10
+Swanzey,New Hampshire,10
+Talent,Oregon,10
+Taylorsville,Kentucky,10
+Thatcher,Arizona,10
+Thomaston,Maine,10
+Thompson,Connecticut,10
+Tower,Minnesota,10
+Trenton,Florida,10
+Trevor,Wisconsin,10
+Trinity,North Carolina,10
+Tulia,Texas,10
+Unadilla,Georgia,10
+Unionville,Missouri,10
+Unity,Maine,10
+Vale,Oregon,10
+Vernon,New York,10
+Wagner,South Dakota,10
+Washington,Connecticut,10
+Webster,Wisconsin,10
+Wellington,Colorado,10
+West Columbia,Texas,10
+West Helena,Arkansas,10
+Westmoreland,Tennessee,10
+Wetumka,Oklahoma,10
+Whiteland,Indiana,10
+Wilberforce,Ohio,10
+Wrightsville,Georgia,10
