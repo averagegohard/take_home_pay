@@ -14,6 +14,8 @@ def main():
         print city_name
 
         link = 'https://www.zillow.com/'+city_name+'/home-values/'
+        urllib.URLopener.version = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36 SE 2.X MetaSr 1.0'
+
         urllib.urlretrieve(link, HOUSING_FOLDER + city_name + '.html')
 
         # avoid spamming the website
