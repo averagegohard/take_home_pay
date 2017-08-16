@@ -10,7 +10,7 @@ import os
 # TODO specify that this file includes rent prices
 def main(level_folder='Entry-Level'):
     BASE_FOLDER_NAME = '../2.Get_HTML_Files/'
-    RESULTS_FOLDER_NAME = 'Results/'
+    RESULTS_FOLDER_NAME = 'Taxed_Results/'
     with open(RESULTS_FOLDER_NAME + level_folder+'.csv', 'a', 1) as results:
         # could be its own function
         for filename in glob.glob(os.path.join(BASE_FOLDER_NAME + level_folder+'/', '*.html')):
@@ -19,10 +19,10 @@ def main(level_folder='Entry-Level'):
 
             formatted_city = filename.split('/')[-1].split('.')[0]
             print level_folder, formatted_city
-            rent = get_rent(formatted_city)
+            #rent = get_rent(formatted_city)
             net_salaries = []
             for salary in salaries:
-                net_salary = deduct_taxes(salary, formatted_city) - rent
+                net_salary = deduct_taxes(salary, formatted_city)# - rent
                 net_salaries.append(net_salary)
 
 
@@ -113,7 +113,7 @@ def deduct_taxes(salary, formatted_city):
     return income_after_tax/12.0
 
 
-
+'''
 def get_rent(formatted_city):
     HOUSING_FOLDER = '../2.Get_HTML_Files/Housing/'
     filename = HOUSING_FOLDER + formatted_city + '.html'
@@ -122,7 +122,7 @@ def get_rent(formatted_city):
         rent = soup.find_all('div', {'class' : 'bar bar-1'})[1].find_all('span', {'class':'bar-value info zsg-fineprint'})[0]
         rent = rent.text.strip().replace('$','').replace(',','')
         return int(rent)
-
+'''
 
 
 if __name__ == '__main__':
