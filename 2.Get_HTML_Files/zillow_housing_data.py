@@ -3,6 +3,7 @@ import os
 import time
 import random
 import urllib
+from google import get_random_user_agent
 
 # TODO find way to avoid using ugly global variables
 HOUSING_FOLDER = 'Housing/'
@@ -63,12 +64,13 @@ def get_page(file_name, sleep_time = 30):
     print 'Downloading', name
 
     link = 'https://www.zillow.com/'+name+'/home-values/'
-    urllib.URLopener.version = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36 SE 2.X MetaSr 1.0'
+    urllib.URLopener.version = get_random_user_agent()
 
     time.sleep(sleep_time)
     file_name, _ = urllib.urlretrieve(link, HOUSING_FOLDER + name + '.html')
     
     if is_captcha(file_name):
+        print name, 'has reached a captcha page'
         # if we receive a captcha page, increase the sleep time by a random factor
         # so eventually the captcha will be resolved
         get_page(file_name, sleep_time*(1+random.random()))
