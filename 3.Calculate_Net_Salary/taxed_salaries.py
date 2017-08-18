@@ -16,10 +16,16 @@ def main(level_folder='Entry-Level'):
     # open the results file once so we don't need to open it for each stackframe
     # created in write_results
     with open(results_filename, 'a+r', 1) as res_file:
+
+        # reading the file also moves the file pointer to EOF, a space efficient
+        # implementation could just reset the file pointer instead
+        processed_data = res_file.read()
+
         for filename in get_files_in_folder(cities_directory):
             formatted_city = filename.split('/')[-1].split('.')[0]
 
-            if formatted_city not in res_file.read():
+            # more robust check (regex) may be necessary
+            if formatted_city not in processed_data:
                 print 'Processing', level_folder, formatted_city
                 salaries = get_salaries(filename, formatted_city)
                 write_results(salaries, res_file, formatted_city)
