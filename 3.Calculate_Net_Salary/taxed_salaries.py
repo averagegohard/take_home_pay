@@ -22,9 +22,9 @@ def main(level_folder='Entry-Level'):
         processed_data = res_file.read()
 
         for filename in get_files_in_folder(cities_directory):
-            formatted_city = filename.split('/')[-1].split('.')[0]
+            formatted_city = city_name(file_name)
 
-            # more robust check (regex) may be necessary
+            # more robust check (regex) may be necessary (St. Louis fucking dammit)
             if formatted_city not in processed_data:
                 print 'Processing', level_folder, formatted_city
                 salaries = get_salaries(filename, formatted_city)
@@ -35,6 +35,12 @@ def main(level_folder='Entry-Level'):
         # lazy solution, but it works
         recursive_calls(level_folder)
 
+
+def city_name(file_name):
+    file = file_name.split('/')[1]
+    # removes the .html extension
+    name = file[:-5]
+    return name
 
 
 def recursive_calls(level_folder):
