@@ -6,42 +6,67 @@ import glob
 import os
 
 
-
-# TODO specify that this file includes rent prices
 def main(level_folder='Entry-Level'):
     BASE_FOLDER_NAME = '../2.Get_HTML_Files/'
     RESULTS_FOLDER_NAME = 'Taxed_Results/'
-    with open(RESULTS_FOLDER_NAME + level_folder+'.csv', 'a', 1) as results:
-        # could be its own function
-        for filename in glob.glob(os.path.join(BASE_FOLDER_NAME + level_folder+'/', '*.html')):
-            soup = get_soup_from_file(filename)
-            salaries = get_salaries_from_soup(soup)
 
+    results_filename = RESULTS_FOLDER_NAME + level_folder+'.csv'
+    cities_directory = BASE_FOLDER_NAME + level_folder+'/'
+
+    # open the results file once so we don't need to open it for each stackframe
+    # created in write_results
+    with open(results_filename, 'a+r', 1) as res_file:
+        for filename in get_files_in_folder(cities_directory):
             formatted_city = filename.split('/')[-1].split('.')[0]
-            print level_folder, formatted_city
-            #rent = get_rent(formatted_city)
-            net_salaries = []
-            for salary in salaries:
-                net_salary = deduct_taxes(salary, formatted_city)# - rent
-                net_salaries.append(net_salary)
+
+            if formatted_city not in res_file.read():
+                print 'Processing', level_folder, formatted_city
+                salaries = get_salaries(filename, formatted_city)
+                write_results(salaries, res_file, formatted_city)
+            else:
+                print level_folder, formatted_city, 'already processed'
+
+        # lazy solution, but it works
+        recursive_calls(level_folder)
 
 
 
-            
-            results.write(formatted_city+','+str(rent))
-            if len(net_salaries) == 3:
-                results.write(',,')
-            for salary in net_salaries:
-                results.write(','+str(int(salary)))
-            if len(net_salaries) == 3:
-                results.write(',')
-            results.write('\n')
-
+def recursive_calls(level_folder):
     if level_folder == 'Entry-Level':
         main(level_folder='All_Salaries')
         main(level_folder='Mid-Career')
         main(level_folder='Experienced')
         main(level_folder='Late-Career')
+
+
+def write_results(salaries, res_file, formatted_city):
+    res_file.write(formatted_city)
+    if len(salaries) == 3:
+        res_file.write(',,')
+
+    for salary in salaries:
+        res_file.write(','+str(int(salary)))
+
+    if len(salaries) == 3:
+        res_file.write(',')
+
+    res_file.write('\n')
+
+
+
+def get_salaries(filename, formatted_city):
+    soup = get_soup_from_file(filename)
+    salaries = get_salaries_from_soup(soup)
+
+    net_salaries = []
+    for salary in salaries:
+        net_salary = deduct_taxes(salary, formatted_city)
+        net_salaries.append(net_salary)
+    return net_salaries
+
+
+def get_files_in_folder(folder, filetype='.html'):
+    return glob.glob(os.path.join(folder, '*' + filetype))
 
 
 def get_soup_from_file(path):
@@ -50,7 +75,7 @@ def get_soup_from_file(path):
 
 
 def get_salaries_from_soup(soup):
-    #ClEANME       
+    #CLEANME       
     salaries = soup.findAll("div", { "class" : "results-salary"})
     salaries = salaries[0]
     chart = salaries.find_all("div", { "class" : "ticker"})
@@ -65,7 +90,7 @@ def get_salaries_from_soup(soup):
 
 
 def deduct_taxes(salary, formatted_city):
-
+    # HONESTLY HOW DOES THIS WORK???
     cookies = {
         '_sa_orig_ex': '1UltVGfbfaONCs3sXK5ZOhQyb1wTTxhqN1gbBgdopBMVhwW1oqoCf5qCHg537RF8',
         '_sa_lt': 'KetVAVdA2u0Wr8cxZe3AC1vrWrtodXGF',
@@ -107,7 +132,7 @@ def deduct_taxes(salary, formatted_city):
     ret_json = r.json()
     income_after_tax = ret_json['page_data']['incomeAfterTax']
 
-    # avoid spamming the website********
+    # avoid spamming the website
     time.sleep(30+random.random()*15)
 
     return income_after_tax/12.0
