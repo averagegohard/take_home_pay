@@ -22,7 +22,7 @@ def main(level_folder='Entry-Level'):
         processed_data = res_file.read()
 
         for filename in get_files_in_folder(cities_directory):
-            formatted_city = city_name(file_name)
+            formatted_city = city_name(filename)
 
             # more robust check (regex) may be necessary (St. Louis fucking dammit)
             if formatted_city not in processed_data:
@@ -37,7 +37,7 @@ def main(level_folder='Entry-Level'):
 
 
 def city_name(file_name):
-    file = file_name.split('/')[1]
+    file = file_name.split('/')[3]
     # removes the .html extension
     name = file[:-5]
     return name
@@ -145,21 +145,9 @@ def deduct_taxes(salary, formatted_city):
     income_after_tax = ret_json['page_data']['incomeAfterTax']
 
     # avoid spamming the website
-    time.sleep(30+random.random()*15)
+    time.sleep(2+random.random()*5)
 
     return income_after_tax/12.0
-
-
-'''
-def get_rent(formatted_city):
-    HOUSING_FOLDER = '../2.Get_HTML_Files/Housing/'
-    filename = HOUSING_FOLDER + formatted_city + '.html'
-    with open(filename, 'r') as f:
-        soup = BeautifulSoup(f.read(), 'html.parser')
-        rent = soup.find_all('div', {'class' : 'bar bar-1'})[1].find_all('span', {'class':'bar-value info zsg-fineprint'})[0]
-        rent = rent.text.strip().replace('$','').replace(',','')
-        return int(rent)
-'''
 
 
 if __name__ == '__main__':
