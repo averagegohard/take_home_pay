@@ -7,7 +7,7 @@ import time
 
 site = 'http://www.payscale.com'
 
-
+#something isnt right here, new york
 # input should probably be more extensible and merged with store_HTML.py
 def main(level_folder='Entry-Level'):
     BASE_FOLDER_NAME = 'All_Salaries/'
@@ -20,7 +20,7 @@ def main(level_folder='Entry-Level'):
     # copied from SO, used to access all html files in the directory
     for filename in glob.glob(os.path.join(BASE_FOLDER_NAME, '*.html')):
         if filename.split('/')[-1] not in accessed_files:
-            soup = BeautifulSoup(open(filename), 'lxml')
+            soup = BeautifulSoup(open(filename), 'html.parser')
 
             a_tags = soup.find_all('a', href=True)
             if a_tags:
